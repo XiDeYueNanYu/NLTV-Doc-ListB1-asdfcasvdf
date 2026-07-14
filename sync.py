@@ -2,6 +2,7 @@ import os
 import csv
 import json
 import requests
+import io  # <-- Thêm thư viện này để xử lý chuỗi dữ liệu chuyên nghiệp
 
 # Link xuất bản CSV của bạn
 CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQhdd9aNxY8pBChZgUILO8JyC_cpl9EmIgM5kwUDQ5X3PsGFdVuAfCWn1SE2GzRLgxkBEAGwTz1Hhz/pub?gid=0&single=true&output=csv"
@@ -15,11 +16,14 @@ def save_data(data):
 def fetch_sheet_csv():
     response = requests.get(CSV_URL)
     response.raise_for_status()
-    lines = response.content.decode('utf-8').splitlines()
-    return list(csv.reader(lines))
+    
+    # SỬA TẠI ĐÂY: Sử dụng io.StringIO để csv.reader tự động nhận diện 
+    # và giữ nguyên các dấu xuống dòng bên trong ô dữ liệu.
+    csv_raw_data = io.StringIO(response.content.decode('utf-8'))
+    return list(csv.reader(csv_raw_data))
 
 def main():
-    # Khởi tạo mảng trống hoàn toàn để hứng dữ liệu mới, không đọc lại file json cũ nữa
+    # Khởi tạo mảng trống hoàn toàn để hứng dữ liệu mới
     fresh_lessons_list = []
     
     try:
@@ -38,7 +42,10 @@ def main():
             continue
             
         lesson_title = row[1].strip()      # Cột B: Tên bài học
-        text_content = row[2].strip()      # Cột C: Văn bản gốc
+        
+        # SỬA TẠI ĐÂY: Chuẩn hóa toàn bộ dấu xuống dòng về dạng '\n' tiêu chuẩn
+        text_content = row[2].strip().replace('\r\n', '\n').replace('\r', '\n') 
+        
         translation_raw = row[3].strip()   # Cột D: Từ điển
         quiz_raw = row[4].strip()          # Cột E: Câu hỏi trắc nghiệm
         image_url = row[5].strip()         # Cột F: Link ảnh
@@ -83,7 +90,7 @@ def main():
             fresh_lessons_list.append(lesson_payload)
             print(f"✔ Đã nạp bài học: {lesson_title}")
 
-    # Ghi đè toàn bộ danh sách mới thu thập được vào file JSON
+    # Ghi đè toàn bộ danh sách mới vào file JSON
     save_data(fresh_lessons_list)
     print(f"\n🚀 HOÀN TẤT! Đã làm mới toàn bộ cơ sở dữ liệu. Tổng số bài học hoạt động: {len(fresh_lessons_list)}")
 
