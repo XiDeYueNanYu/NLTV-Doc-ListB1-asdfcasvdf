@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学习越南语 - 课程列表</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <style>
+        body { background-color: #f6faf7; margin-bottom: 60px; font-family: Arial, sans-serif; }
+        #infoBox { width: 100%; max-width: 700px; height: 100px; margin: 0 auto; border: 1px solid #88a5a2; background: #6b8f8b; color: #ffffff; display: flex; align-items: center; justify-content: center; font-size: clamp(30px, 5vw, 60px); font-weight: bold; text-align: center;}
+        #contactBox { width: 100%; max-width: 700px; height: 45px; margin: 0px auto; border: 1px solid #88a5a2; background: #6b8f8b; color: #f4f8a6; display: flex; align-items: center; justify-content: left; padding-left: 20px; font-size: clamp(12px, 2vw, 15px); font-weight: bold; }
+        
+        /* Giao diện Menu danh sách bài học */
+        #menuContainer { max-width: 700px; margin: 30px auto; padding: 20px; background: white; border: 5px solid #88a5a2; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        #menuContainer h2 { color: #6b8f8b; text-align: center; margin-bottom: 20px; }
+        .lesson-item { padding: 15px 20px; margin-bottom: 10px; background-color: #e6f0e7; border-radius: 5px; cursor: pointer; font-size: 20px; font-weight: bold; color: #21292c; transition: all 0.2s; border-left: 5px solid #6b8f8b; }
+        .lesson-item:hover { background-color: #6b8f8b; color: white; transform: translateX(5px); }
+        
+        /* Nút quay lại Menu */
+        #backToMenuBtn { display: block; margin: 15px auto 0 auto; max-width: 700px; padding: 10px; background: #6b8f8b; color: white; border: none; border-radius: 5px; font-size: 16px; font-weight: bold; cursor: pointer; text-align: center; }
+        #backToMenuBtn:hover { background: #557571; }
+
+        /* Các thành phần học tập ẩn/hiện dựa theo trạng thái */
+        #learningZone { display: none; }
+        .image-frame { max-width: 700px; margin: 20px auto 0 auto; border: 8px solid #88a5a2; border-radius: 10px; background-color: #ffffff; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); display: none; overflow: hidden; }
+        .image-frame img { width: 100%; height: auto; display: block; }
+        .content-box { max-width: 700px; margin: 20px auto; padding: 50px; border: 8px solid #88a5a2; border-radius: 10px; background-color: #ffffff; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); font-size: 30px; color: #222322; line-height: 3; text-align: justify; }
+        .translated-word { position: relative; display: inline-block; white-space: nowrap; line-height: 1.3; background-color: #e6f0e7; color: #000000; padding: 4px 4px; border-radius: 2px; }
+        .translation { position: absolute; top: -29px; left: 50%; transform: translateX(-50%); font-size: 18px; background-color: #cfd8cf; color: #313a2d; padding: 4px 4px; border-radius: 1px; white-space: nowrap; z-index: 1; line-height: 1; }
+        .original { display: inline; line-height: 1; }
+		
+        /* Điều khiển Audio nổi */
+        .floating-controls { position: fixed; bottom: 80px; right: 20px; background-color: #f0f0f0; padding: 10px; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); text-align: center; display: block; z-index: 1000; }
+        #audioPlayer { width: 100%; margin-bottom: 10px; }
+        .time-row { display: flex; flex-direction: column; align-items: center; gap: 10px; margin-bottom: 10px; }
+        .time-box-group { display: flex; justify-content: center; gap: 10px; }
+        .button-group { display: flex; justify-content: center; gap: 10px; }
+        .floating-controls p#timeDisplay { font-size: 28px; color: #FFFFFF; background-color: #000000; padding: 5px 10px; border-radius: 5px; cursor: pointer; margin: 0; }
+        .floating-controls .time-box { font-size: 16px; color: #FFFFFF; background-color: #555555; padding: 5px 10px; border-radius: 5px; min-width: 60px; }
+        .tua-buttons { display: flex; justify-content: center; gap: 5px; margin-bottom: 10px; flex-wrap: wrap; }
+        .action-buttons { display: flex; justify-content: center; gap: 10px; }
+        .control-button { width: 50px; height: 50px; background-color: #363535; color: white; border: none; border-radius: 50%; font-size: 16px; font-weight: bold; cursor: pointer; display: inline-flex; justify-content: center; align-items: center; }
+        .control-button:disabled { background-color: #888888; cursor: not-allowed; }
+        .control-button:hover:not(:disabled) { background-color: #000000; }
+        .pause-play-button { background-color: #FF4500; }
+        .pause-play-button:hover { background-color: #CC3700; }
+        .toggle-button { background-color: #4682B4; }
+        .toggle-button:hover { background-color: #36648B; }
+        .loop-button { background-color: #3c923c; }
+        .loop-button:hover { background-color: #347d34; }
+        .clear-button { background-color: #bc3f13; }
+        .clear-button:hover { background-color: #d15124; }
+        .active { background-color: #ffffff; border-radius: 5px; }
+
+        /* Câu hỏi trắc nghiệm bài học */
+        #quizContainer { display: none; max-width: 800px; margin: 0px auto; padding: 10px; color: #88a5a2; font-size: 20px; font-weight: bold; }
+        .question { margin-bottom: 20px; padding: 18px; color: #21292c; border: 5px solid #88a5a2; border-radius: 10px; background-color: #ffffff; font-size: 20px; font-weight: bold; }
+        .options label { display: block; margin: 15px 0; cursor: pointer; color: #21292c; font-size: 16px; font-weight: bold; }
+        #result { margin-top: 20px; padding: 20px; display: none; border: 5px solid #88a5a2; border-radius: 10px; font-size: 16px; font-weight: bold; background-color: #ffffff; color: #007a33; }
+        .wrong-answer { color: #f65936; margin: 10px 0; font-size: 16px; font-weight: bold; }
+        #submitQuiz, .save-img-btn { font-family: Arial, sans-serif; padding: 10px 20px; margin-bottom: 20px; border: 3px solid #88a5a2; background-color: #ff5a36; border-radius: 5px; color: #ffffff; cursor: pointer; font-size: 18px; font-weight: bold; }
+        #submitQuiz:hover { background-color: #ff844a; }
+        .save-img-btn { background-color: #3c923c; margin-bottom: 10px; margin-top: 10px; display: inline-block; }
+        .save-img-btn:hover { background-color: #347d34; }
+
+        /* Thanh chế độ */
+        .floating-mode-bar { position: fixed; bottom: 0px; left: 50%; transform: translateX(-50%); background-color: #6b8f8b; padding: 10px; border-radius: 5px; box-shadow: 0 0px 5px rgba(0, 0, 0, 1); display: flex; justify-content: center; gap: 20px; z-index: 1000; width: 900px; }
+        .mode-button { padding: 10px 20px; border: 2px solid #c3d2d0; background: #d2dddc; color: #202a29; font-size: 20px; font-weight: bold; cursor: pointer; border-radius: 5px; transition: border-color 0.5s; }
+        .mode-button.active { border: 2px solid #ffffff; background: #f9f9f9; color: #202a29; }
+
+        /* Phòng luyện từ vựng 4 đáp án */
+        #vocabContainer { display: none; max-width: 800px; margin: 0 auto; padding: 20px; color: #88a5a2; font-size: 20px; font-weight: bold; }
+        .vocab-navigation { display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px; }
+        #vocabProgress { font-size: 24px; color: #ff7f50; }
+        .vocab-meaning { text-align: center; margin-bottom: 25px; padding: 20px; border: 4px solid #88a5a2; border-radius: 15px; background-color: #e6f0e7; font-size: 36px; color: #21292c; }
+        #vocabOptions { display: flex; flex-direction: column; gap: 15px; max-width: 600px; margin: 0 auto; }
+        .vocab-option-btn { padding: 15px 20px; border: 2px solid #88a5a2; border-radius: 8px; background-color: #ffffff; color: #21292c; font-size: 18px; font-weight: bold; cursor: pointer; text-align: left; transition: all 0.2s ease; }
+        .vocab-option-btn:hover:not(.disabled) { background-color: #e6f0e7; border-color: #6b8f8b; }
+        .vocab-option-btn.correct-choice { background-color: #d9ead3 !important; border-color: #38761d !important; color: #274e13 !important; }
+        .vocab-option-btn.wrong-choice { background-color: #f4c7c3 !important; border-color: #cc0000 !important; color: #660000 !important; }
+        .vocab-option-btn.disabled { cursor: not-allowed; }
+        #vocabResult { display: none; border: 5px solid #88a5a2; border-radius: 10px; padding: 20px; background-color: #ffffff; color: #007a33; margin-top: 20px; font-size: 16px; }
+
+        @media (max-width: 768px) {
+            #infoBox { width: 90%; height: 120px; font-size: 40px; }
+            #contactBox { width: 90%; font-size: 14px; }
+            .content-box { padding: 20px; font-size: 19px; line-height: 3.5; }
+            .floating-mode-bar { width: 100%; gap: 10px; }
+            .mode-button { padding: 8px 12px; font-size: 15px; }
+        }
+    </style>
+</head>
+<body>
+    <div id="infoBox" class="no-capture">习得越南语</div>
+    <div id="contactBox" class="no-capture">讲师-阮玉煌 | Weixin：XiDeYueNanYu</div>
+    
+    <!-- MENU DANH SÁCH BÀI HỌC -->
+    <div id="menuContainer">
+        <h2>选择课程 (Chọn bài học)</h2>
+        <div id="lessonList">Đang tải danh sách bài học...</div>
+    </div>
+
+    <!-- KHU VỰC HỌC TẬP (ẨN KHI Ở MENU) -->
+    <div id="learningZone">
+        <button id="backToMenuBtn" onclick="backToMenu()">◀ 返回课程列表 (Quay lại danh sách)</button>
+        
+        <div id="contentContainer">
+            <div class="image-frame" id="imageFrame"><img id="contentImage" src="" alt="Lesson Image"></div>
+            <div class="content-box" id="content"></div>
+        </div>
+
+        <div id="quizContainer">
+            <h1>回答下面问题</h1>
+            <form id="quizForm"><div id="questions"></div></form>
+            <button type="button" id="submitQuiz" onclick="checkAnswers()">提交</button>
+            <div id="result"></div>
+        </div>
+
+        <div id="vocabContainer">
+            <div id="vocabQuizArea">
+                <div class="vocab-navigation"><span id="vocabProgress">0/0</span></div>
+                <div class="vocab-meaning"><span id="vocabWord"></span></div>
+                <div id="vocabOptions"></div>
+            </div>
+            <div id="vocabResult"></div>
+        </div>
+
+        <div class="floating-controls" id="floatingControls">
+            <audio id="audioPlayer" src="" controls></audio>
+            <div class="time-row">
+                <p id="timeDisplay">00:00</p>
+                <div class="time-box-group">
+                    <span class="time-box" id="loopStart">--:--</span>
+                    <span class="time-box" id="loopEnd">--:--</span>
+                </div>
+                <div class="button-group">
+                    <button class="control-button loop-button" id="loopButton">听</button>
+                    <button class="control-button clear-button" id="clearButton">删</button>
+                </div>
+            </div>
+            <div class="tua-buttons">
+                <button class="control-button" id="rewind5sButton">-5s</button>
+                <button class="control-button" id="rewind1sButton">-1s</button>
+                <button class="control-button" id="forward1sButton">+1s</button>
+                <button class="control-button" id="forward5sButton">+5s</button>
+            </div>
+            <div class="action-buttons">
+                <button class="control-button pause-play-button" id="pausePlayButton">播</button>
+                <button class="control-button toggle-button" id="toggleControlsButton">藏</button>
+            </div>
+        </div>
+
+        <div class="floating-mode-bar">
+            <button class="mode-button active" id="contentMode">内容</button>
+            <button class="mode-button" id="quizMode">回答问题</button>
+            <button class="mode-button" id="vocabMode">词汇</button>
+        </div>
+    </div>
+
+    <audio id="correctAudio" src="Dung.mp3"></audio>
+    <audio id="wrongAudio" src="Sai.mp3"></audio>
+
+    <script>
+        let allLessons = [];
+        let currentLesson = null;
+        let dictionary = {};
+        let quizData = [];
+        let userSelections = {};
+        let isSubmitted = false;
+        let contentScrollPosition = 0;
+        let quizScrollPosition = 0;
+
+        // Khởi chạy: Tải file dữ liệu tích hợp từ GitHub Actions sinh ra
+        window.addEventListener('DOMContentLoaded', () => {
+            fetch('lessons.json?t=' + Date.now())
+                .then(res => res.json())
+                .then(data => {
+                    allLessons = data;
+                    renderMenu();
+                })
+                .catch(err => {
+                    document.getElementById('lessonList').textContent = "无法加载课程列表，请稍后再试。";
+                    console.error(err);
+                });
+        });
+
+        function renderMenu() {
+            const listDiv = document.getElementById('lessonList');
+            listDiv.innerHTML = '';
+            if(allLessons.length === 0) {
+                listDiv.textContent = "暂无可用课程。";
+                return;
+            }
+            allLessons.forEach((lesson, index) => {
+                const btn = document.createElement('div');
+                btn.className = 'lesson-item';
+                btn.textContent = lesson.title || `课程 ${index + 1}`;
+                btn.onclick = () => selectLesson(index);
+                listDiv.appendChild(btn);
+            });
+        }
+
+        function selectLesson(index) {
+            currentLesson = allLessons[index];
+            dictionary = currentLesson.dictionary || {};
+            quizData = currentLesson.quizData || [];
+            userSelections = {};
+            isSubmitted = false;
+
+            document.getElementById('menuContainer').style.display = 'none';
+            document.getElementById('learningZone').style.display = 'block';
+            document.getElementById('infoBox').textContent = currentLesson.title || "习得越南语";
+            
+            // Cài đặt cấu hình hiển thị Fallback tài nguyên Audio/Ảnh nếu rỗng
+            const audioPlayer = document.getElementById("audioPlayer");
+            if (currentLesson.audioUrl && currentLesson.audioUrl.trim() !== "") {
+                audioPlayer.src = currentLesson.audioUrl;
+                document.getElementById('floatingControls').style.display = 'block';
+            } else {
+                audioPlayer.src = "";
+                document.getElementById('floatingControls').style.display = 'none';
+            }
+
+            const imageFrame = document.getElementById('imageFrame');
+            const contentImage = document.getElementById('contentImage');
+            if (currentLesson.imageUrl && currentLesson.imageUrl.trim() !== "") {
+                contentImage.src = currentLesson.imageUrl;
+                imageFrame.style.display = 'block';
+            } else {
+                contentImage.src = "";
+                imageFrame.style.display = 'none';
+            }
+
+            switchTab('content');
+        }
+
+        function backToMenu() {
+            const audioPlayer = document.getElementById("audioPlayer");
+            audioPlayer.pause();
+            document.getElementById('learningZone').style.display = 'none';
+            document.getElementById('menuContainer').style.display = 'block';
+            document.getElementById('infoBox').textContent = "习得越南语";
+        }
+
+        function switchTab(mode) {
+            const tabs = {
+                content: document.getElementById('contentContainer'),
+                quiz: document.getElementById('quizContainer'),
+                vocab: document.getElementById('vocabContainer')
+            };
+            const buttons = {
+                content: document.getElementById('contentMode'),
+                quiz: document.getElementById('quizMode'),
+                vocab: document.getElementById('vocabMode')
+            };
+
+            Object.keys(tabs).forEach(k => {
+                tabs[k].style.display = (k === mode) ? 'block' : 'none';
+                if(buttons[k]) {
+                    if(k === mode) buttons[k].classList.add('active');
+                    else buttons[k].classList.remove('active');
+                }
+            });
+
+            // Điều khiển hiển thị panel audio nổi theo Chế độ Đọc
+            const hasAudio = currentLesson && currentLesson.audioUrl && currentLesson.audioUrl.trim() !== "";
+            document.getElementById('floatingControls').style.display = (mode === 'content' && hasAudio) ? 'block' : 'none';
+
+            if(mode === 'content') {
+                renderText();
+                window.scrollTo(0, contentScrollPosition);
+            } else if(mode === 'quiz') {
+                loadQuiz();
+            } else if(mode === 'vocab') {
+                initVocabQuiz();
+            }
+        }
+
+        // Logic Xử lý dịch chữ nổi
+        function renderText() {
+            const contentDiv = document.getElementById('content');
+            let html = currentLesson.text.replace(/\n/g, "<br>");
+            const sortedKeys = Object.keys(dictionary).sort((a, b) => b.length - a.length);
+            const replacements = [];
+
+            sortedKeys.forEach(key => {
+                const regex = new RegExp(`(\\b|[.,!?\\n\\s]|^)(${key.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})(\\b|[.,!?\\n\\s]|$)`, 'gi');
+                let match;
+                while ((match = regex.exec(html)) !== null) {
+                    const start = match.index + match[1].length;
+                    const end = start + match[2].length;
+                    replacements.push({ start, end, original: match[2], prefix: match[1], suffix: match[3], translation: dictionary[key] });
+                }
+            });
+
+            replacements.sort((a, b) => a.start - b.start);
+            const filtered = [];
+            let lastEnd = -1;
+            for (const rep of replacements) {
+                if (rep.start >= lastEnd) { filtered.push(rep); lastEnd = rep.end; }
+            }
+
+            for (let i = filtered.length - 1; i >= 0; i--) {
+                const { start, end, original, prefix, suffix, translation } = filtered[i];
+                const transHtml = `${prefix}<span class="translated-word"><span class="translation">${translation}</span><span class="original">${original}</span></span>${suffix}`;
+                html = html.slice(0, start - prefix.length) + transHtml + html.slice(end + suffix.length);
+            }
+            contentDiv.innerHTML = html;
+        }
+
+        // Đính kèm bộ điều khiển Audio
+        const audioPlayer = document.getElementById("audioPlayer");
+        const floatingControls = document.getElementById("floatingControls");
+        const timeDisplay = document.getElementById("timeDisplay");
+        const loopStart = document.getElementById("loopStart");
+        const loopEnd = document.getElementById("loopEnd");
+        const loopButton = document.getElementById("loopButton");
+        const clearButton = document.getElementById("clearButton");
+        const rewind5sButton = document.getElementById("rewind5sButton");
+        const rewind1sButton = document.getElementById("rewind1sButton");
+        const forward1sButton = document.getElementById("forward1sButton");
+        const forward5sButton = document.getElementById("forward5sButton");
+        const pausePlayButton = document.getElementById("pausePlayButton");
+        const toggleControlsButton = document.getElementById("toggleControlsButton");
+        const tuaButtons = document.querySelector(".tua-buttons");
+
+        let customLoopStart = null, customLoopEnd = null, clickCount = 0, isLooping = false;
+
+        audioPlayer.ontimeupdate = function() {
+            timeDisplay.textContent = formatTime(audioPlayer.currentTime);
+            if (isLooping && customLoopStart !== null && customLoopEnd !== null) {
+                if (audioPlayer.currentTime >= customLoopEnd) audioPlayer.currentTime = customLoopStart;
+            }
+        };
+
+        function formatTime(secs) {
+            return `${Math.floor(secs/60).toString().padStart(2,'0')}:${Math.floor(secs%60).toString().padStart(2,'0')}`;
+        }
+
+        timeDisplay.onclick = () => {
+            if (audioPlayer.paused) {
+                clickCount++;
+                if (clickCount === 1) {
+                    customLoopStart = audioPlayer.currentTime;
+                    loopStart.textContent = formatTime(customLoopStart);
+                } else if (clickCount === 2) {
+                    customLoopEnd = audioPlayer.currentTime;
+                    if (customLoopEnd <= customLoopStart) { customLoopEnd = null; loopEnd.textContent = "--:--"; }
+                    else { loopEnd.textContent = formatTime(customLoopEnd); }
+                    clickCount = 0;
+                }
+            }
+        };
+
+        rewind5sButton.onclick = () => { if (!isLooping) audioPlayer.currentTime = Math.max(0, audioPlayer.currentTime - 5); };
+        rewind1sButton.onclick = () => { if (!isLooping) audioPlayer.currentTime = Math.max(0, audioPlayer.currentTime - 1); };
+        forward1sButton.onclick = () => { if (!isLooping) audioPlayer.currentTime = Math.min(audioPlayer.duration, audioPlayer.currentTime + 1); };
+        forward5sButton.onclick = () => { if (!isLooping) audioPlayer.currentTime = Math.min(audioPlayer.duration, audioPlayer.currentTime + 5); };
+        pausePlayButton.onclick = () => { if (audioPlayer.paused) { audioPlayer.play(); pausePlayButton.textContent = "停"; } else { audioPlayer.pause(); pausePlayButton.textContent = "播"; } };
+        loopButton.onclick = () => { if (customLoopStart !== null && customLoopEnd !== null) { audioPlayer.currentTime = customLoopStart; audioPlayer.play(); isLooping = true; [rewind5sButton, rewind1sButton, forward1sButton, forward5sButton].forEach(b=>b.disabled=true); } };
+        clearButton.onclick = () => { customLoopStart = null; customLoopEnd = null; loopStart.textContent = "--:--"; loopEnd.textContent = "--:--"; clickCount = 0; isLooping = false; [rewind5sButton, rewind1sButton, forward1sButton, forward5sButton].forEach(b=>b.disabled=false); };
+        
+        let controlsVisible = true;
+        toggleControlsButton.onclick = () => {
+            const disp = controlsVisible ? "none" : "inline-block";
+            const flexDisp = controlsVisible ? "none" : "flex";
+            timeDisplay.style.display = disp;
+            tuaButtons.style.display = flexDisp;
+            pausePlayButton.style.display = controlsVisible ? "none" : "inline-flex";
+            [loopStart, loopEnd, loopButton, clearButton].forEach(e => e.style.display = disp);
+            toggleControlsButton.textContent = controlsVisible ? "示" : "藏";
+            controlsVisible = !controlsVisible;
+        };
+
+        // Chụp màn hình phân vùng làm kết quả ảnh
+        function saveResultAsImage(elementId, fileName) {
+            const element = document.getElementById(elementId);
+            html2canvas(element, { scale: 2, backgroundColor: "#ffffff" }).then(canvas => {
+                const link = document.createElement('a');
+                link.download = fileName;
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+            }).catch(err => { alert("无法生成图片，请截图保存。"); });
+        }
+
+        // Học phần bài tập trắc nghiệm
+        function loadQuiz() {
+            const qDiv = document.getElementById('questions');
+            qDiv.innerHTML = '';
+            quizData.forEach((item, index) => {
+                const div = document.createElement('div');
+                div.className = 'question';
+                div.innerHTML = `<h3>Câu ${index + 1}: ${item.question}</h3>`;
+                const optDiv = document.createElement('div');
+                optDiv.className = 'options';
+                item.options.forEach(opt => {
+                    const isChecked = userSelections[`question${index}`] === opt ? 'checked' : '';
+                    optDiv.innerHTML += `<label><input type="radio" name="question${index}" value="${opt}" ${isChecked}> ${opt}</label>`;
+                });
+                div.appendChild(optDiv);
+                qDiv.appendChild(div);
+            });
+            window.scrollTo(0, quizScrollPosition);
+        }
+
+        function saveSelections() {
+            quizData.forEach((_, index) => {
+                const sel = document.querySelector(`input[name="question${index}"]:checked`);
+                if (sel) userSelections[`question${index}`] = sel.value;
+            });
+        }
+
+        function checkAnswers() {
+            saveSelections();
+            let score = 0;
+            let wrongHtml = '';
+            quizData.forEach((item, index) => {
+                const ans = userSelections[`question${index}`] || "未选择";
+                if (ans === item.correct) score++;
+                else wrongHtml += `<div class="wrong-answer">Câu ${index + 1}: ${item.question}<br>你的选择: ${ans} - 正确答案: ${item.correct}</div>`;
+            });
+
+            const rDiv = document.getElementById('result');
+            rDiv.style.display = 'block';
+            rDiv.innerHTML = `<h3>结果: ${score}/${quizData.length} 答案正确</h3><p>比例: ${(score/quizData.length * 100).toFixed(2)}%</p><button class="save-img-btn" onclick="saveResultAsImage('result', 'Quiz_Result.png')">保存结果图片</button>` + wrongHtml;
+            rDiv.scrollIntoView({ behavior: 'smooth' });
+            isSubmitted = true;
+        }
+
+        // Học phần luyện từ vựng 4 đáp án xáo trộn
+        let vocabList = [], currentVocabIndex = 0, vocabScore = 0, vocabWrongAnswers = [];
+        function initVocabQuiz() {
+            vocabList = Object.keys(dictionary).sort(() => Math.random() - 0.5);
+            currentVocabIndex = 0; vocabScore = 0; vocabWrongAnswers = [];
+            document.getElementById('vocabResult').style.display = 'none';
+            document.getElementById('vocabQuizArea').style.display = 'block';
+            loadVocabQuestion();
+        }
+
+        function loadVocabQuestion() {
+            if (currentVocabIndex >= vocabList.length) { showVocabResult(); return; }
+            const word = vocabList[currentVocabIndex];
+            const correct = dictionary[word];
+            document.getElementById('vocabProgress').textContent = `词汇进度: ${currentVocabIndex + 1}/${vocabList.length}`;
+            document.getElementById('vocabWord').textContent = word;
+
+            let wrongPool = Object.values(dictionary).filter(v => v !== correct).sort(() => Math.random() - 0.5);
+            let choices = [correct, ...wrongPool.slice(0, 3)].sort(() => Math.random() - 0.5);
+
+            const optDiv = document.getElementById('vocabOptions');
+            optDiv.innerHTML = '';
+            choices.forEach(ch => {
+                const btn = document.createElement('button');
+                btn.className = 'vocab-option-btn';
+                btn.textContent = ch;
+                btn.onclick = () => {
+                    const btns = optDiv.querySelectorAll('.vocab-option-btn');
+                    btns.forEach(b => { b.onclick = null; b.classList.add('disabled'); });
+                    if (ch === correct) { btn.classList.add('correct-choice'); vocabScore++; document.getElementById('correctAudio').play(); }
+                    else { btn.classList.add('wrong-choice'); btns.forEach(b => { if(b.textContent === correct) b.classList.add('correct-choice'); }); vocabWrongAnswers.push({ word, chosen: ch, correct }); document.getElementById('wrongAudio').play(); }
+                    setTimeout(() => { currentVocabIndex++; loadVocabQuestion(); }, 1500);
+                };
+                optDiv.appendChild(btn);
+            });
+        }
+
+        function showVocabResult() {
+            document.getElementById('vocabQuizArea').style.display = 'none';
+            const rDiv = document.getElementById('vocabResult');
+            rDiv.style.display = 'block';
+            let html = `<h3>词汇练习结果: ${vocabScore}/${vocabList.length} </h3><p>正确率: ${(vocabScore/vocabList.length * 100).toFixed(2)}%</p><button class="save-img-btn" onclick="saveResultAsImage('vocabResult', 'Vocab_Result.png')">保存结果图片</button>`;
+            vocabWrongAnswers.forEach((item, i) => { html += `<div class="wrong-answer">${i+1}. <strong>${item.word}</strong><br>你的选择: ${item.chosen} | 正确答案: ${item.correct}</div>`; });
+            rDiv.innerHTML = html;
+        }
+
+        document.getElementById('contentMode').onclick = () => { quizScrollPosition = window.scrollY; saveSelections(); switchTab('content'); };
+        document.getElementById('quizMode').onclick = () => { contentScrollPosition = window.scrollY; if (isSubmitted) { userSelections = {}; EmilySubmitted = false; } switchTab('quiz'); };
+        document.getElementById('vocabMode').onclick = () => { switchTab('vocab'); };
+    </script>
+</body>
+</html>
