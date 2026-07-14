@@ -174,7 +174,7 @@
                 });
         });
 
-        // Hàm render danh sách theo cấu trúc: Bài + số thứ tự + tên bài học
+        // ĐÃ CẬP NHẬT: Duyệt ngược mảng để bài mới nhất (index lớn nhất) lên đầu
         function renderMenu() {
             const listDiv = document.getElementById('lessonList');
             listDiv.innerHTML = '';
@@ -182,14 +182,20 @@
                 listDiv.textContent = "暂无可用课程。";
                 return;
             }
-            allLessons.forEach((lesson, index) => {
+            
+            // Chạy vòng lặp ngược từ cuối mảng (allLessons.length - 1) về đầu mảng (0)
+            for (let i = allLessons.length - 1; i >= 0; i--) {
+                const lesson = allLessons[i];
                 const btn = document.createElement('div');
                 btn.className = 'lesson-item';
-                // Định dạng hiển thị yêu cầu: Bài + số thứ tự + tên bài học
-                btn.textContent = `Bài ${index + 1}: ${lesson.title}`;
-                btn.onclick = () => selectLesson(index);
+                
+                // Số bài học vẫn giữ đúng thực tế gốc là (i + 1)
+                btn.textContent = `Bài ${i + 1}: ${lesson.title}`;
+                
+                // Khi click vào vẫn mở chính xác index gốc trong data
+                btn.onclick = () => selectLesson(i);
                 listDiv.appendChild(btn);
-            });
+            }
         }
 
         function selectLesson(index) {
@@ -202,7 +208,7 @@
             document.getElementById('menuContainer').style.display = 'none';
             document.getElementById('learningZone').style.display = 'block';
             
-            // Đồng bộ tiêu đề trên thanh header khi vào bài học cụ thể
+            // Đồng bộ tiêu đề chính xác theo STT bài
             document.getElementById('infoBox').textContent = `Bài ${index + 1}: ${currentLesson.title}`;
             
             const audioPlayer = document.getElementById("audioPlayer");
@@ -324,7 +330,7 @@
         };
 
         function formatTime(secs) {
-            return `${Math.floor(secs/60).toString().padStart(2,'0')}:${Math.floor(secs%60).toString().padStart(2,'0embeddings')}`;
+            return `${Math.floor(secs/60).toString().padStart(2,'0')}:${Math.floor(secs%60).toString().padStart(2,'0')}`;
         }
 
         timeDisplay.onclick = () => {
