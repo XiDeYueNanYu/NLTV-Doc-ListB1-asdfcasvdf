@@ -178,5 +178,543 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Người bác lao công tốt bụng ở trường học",
+        "text": "Hàng ngày, học sinh chúng em đến trường rất sớm. Khi chúng em vào lớp, mọi thứ đều rất sạch sẽ. Sàn nhà sáng bóng, bàn ghế gọn gàng và cửa sổ không có bụi. Chúng em biết rằng, bác lao công đã làm việc rất chăm chỉ từ sáng sớm. Tuy nhiên, vì bác thường làm việc xong rồi về sớm, nên chúng em ít khi gặp bác. Đối với học sinh, bác lao công là một người rất đặc biệt và đáng quý.\n\nMột buổi chiều, lớp em có nhiệm vụ dọn dẹp sân trường và các phòng học để chuẩn bị cho ngày lễ 26 tháng 3. Buổi chiều hôm đó trời nắng đẹp. Sau giờ ăn trưa, cả lớp cùng đạp xe đến trường. Chúng em mang theo chổi, khăn lau và xô nước. Khi đến nơi, sân trường rất vắng vẻ. Vì thấy sân rộng và mát, các bạn nam đã lấy bóng ra đá. Các bạn nữ thì ngồi chơi đùa dưới gốc cây. Chúng em mải chơi nên quên mất nhiệm vụ chính của mình. Chúng em cứ chạy nhảy, cười đùa rất vui vẻ. Trong lúc đá bóng, các bạn nam đã vô tình làm gãy một cành cây nhỏ ở sân trường.\n\nThời gian trôi qua rất nhanh. Khi mặt trời gần lặn, lớp trưởng mới nhắc cả lớp bắt đầu công việc. Chúng em vội vàng đi lấy nước để lau cửa sổ và quét dọn hành lang. Nhưng khi đến nơi, chúng em rất ngạc nhiên. Các cửa sổ đã sạch bóng từ lúc nào. Sân trường cũng đã được quét dọn gọn gàng, không còn lá rụng. Chúng em tự hỏi ai đã giúp mình làm xong mọi việc. Đúng lúc đó, bác lao công đi tới. Bác mặc bộ quần áo lao động màu xanh quen thuộc. Bác mỉm cười hiền hậu nhìn chúng em.\n\nLớp trưởng chào bác và hỏi thăm. Bác nói rằng bác thấy chúng em chơi rất vui nên đã giúp các em dọn dẹp trước. Bác sợ nếu chúng em không làm xong, ngày lễ sẽ không đẹp. Chúng em cảm thấy rất xấu hổ vì đã ham chơi. Bác lao công nhẹ nhàng khuyên bảo: Các em đang ở độ tuổi đi học, hãy vui chơi nhưng phải biết làm việc chăm chỉ. Bác cũng nhắc các bạn nam không nên đá bóng gần cây xanh để bảo vệ môi trường trường học.\n\nLời dạy của bác rất đơn giản nhưng làm chúng em nhớ mãi. Chúng em cảm ơn bác và hứa sẽ chăm chỉ hơn. Từ ngày đó, chúng em luôn chào bác mỗi khi gặp ở sân trường. Chúng em cũng tự giác giữ gìn vệ sinh lớp học để bác đỡ vất vả. Bác lao công không chỉ là người làm sạch trường học, mà còn là người thầy dạy chúng em bài học về sự tận tâm. Chúng em rất yêu quý và kính trọng bác lao công. Hình ảnh bác với chiếc chổi trên tay luôn là kỷ niệm đẹp nhất dưới mái trường này.",
+        "dictionary": {
+            "học sinh": "学生",
+            "sạch sẽ": "干净",
+            "sáng bóng": "明亮",
+            "gọn gàng": "整齐",
+            "bụi": "灰尘",
+            "bác lao công": "清洁工",
+            "chăm chỉ": "勤奋",
+            "đặc biệt": "特别",
+            "đáng quý": "珍贵",
+            "nhiệm vụ": "任务",
+            "dọn dẹp": "打扫",
+            "sân trường": "校园操场",
+            "đạp xe": "骑自行车",
+            "chổi": "扫帚",
+            "khăn lau": "抹布",
+            "xô nước": "水桶",
+            "vắng vẻ": "冷清",
+            "mải chơi": "贪玩",
+            "vô tình": "无意中",
+            "gãy": "折断",
+            "cành cây": "树枝",
+            "lặn": "落下",
+            "lớp trưởng": "班长",
+            "vội vàng": "匆忙",
+            "hành lang": "走廊",
+            "ngạc nhiên": "惊讶",
+            "lá rụng": "落叶",
+            "bộ quần áo lao động": "工作服",
+            "quen thuộc": "熟悉",
+            "hiền hậu": "慈祥",
+            "hỏi thăm": "问候",
+            "xấu hổ": "羞愧",
+            "ham chơi": "贪玩",
+            "khuyên bảo": "劝导",
+            "độ tuổi": "年龄段",
+            "bảo vệ": "保护",
+            "môi trường": "环境",
+            "đơn giản": "简单",
+            "nhớ mãi": "铭记在心",
+            "hứa": "承诺",
+            "tự giác": "自觉",
+            "giữ gìn vệ sinh": "保持卫生",
+            "vất vả": "辛苦",
+            "tận tâm": "尽心尽力",
+            "kính trọng": "尊敬",
+            "hình ảnh": "形象",
+            "kỷ niệm": "纪念",
+            "mái trường": "校园"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Hàng ngày, học sinh chúng em đến trường rất sớm.",
+                    "Vì bác thường làm việc xong rồi về sớm, nên chúng em ít khi gặp bác.",
+                    "Đối với học sinh, bác lao công là một người rất đặc biệt và đáng quý.",
+                    "Bác lao công làm việc chăm chỉ, vì thế chúng em ít khi gặp bác."
+                ],
+                "correct": "Vì bác thường làm việc xong rồi về sớm, nên chúng em ít khi gặp bác."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Các bạn nam, trong lúc đá bóng, đã vô tình làm gãy một cành cây nhỏ ở sân trường.",
+                    "Các bạn nam vô tình làm gãy một cành cây nhỏ ở sân trường trong lúc đá bóng.",
+                    "Vì các bạn nam đá bóng, nên đã vô tình làm gãy một cành cây nhỏ ở sân trường.",
+                    "Các bạn nam đá bóng, làm gãy một cành cây nhỏ ở sân trường."
+                ],
+                "correct": "Các bạn nam vô tình làm gãy một cành cây nhỏ ở sân trường trong lúc đá bóng."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Chúng em cảm thấy rất xấu hổ vì đã ham chơi.",
+                    "Bác lao công mỉm cười hiền hậu nhìn chúng em.",
+                    "Bác lao công khuyên bảo chúng em, các em hãy vui chơi nhưng phải biết làm việc chăm chỉ.",
+                    "Bác lao công khuyên bảo chúng em rằng hãy vui chơi nhưng phải biết làm việc chăm chỉ."
+                ],
+                "correct": "Bác lao công khuyên bảo chúng em, các em hãy vui chơi nhưng phải biết làm việc chăm chỉ."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Lớp trưởng chào bác và hỏi thăm bác.",
+                    "Lớp trưởng chào bác hỏi thăm.",
+                    "Lớp trưởng chào bác, hỏi thăm bác.",
+                    "Lớp trưởng chào bác và hỏi thăm."
+                ],
+                "correct": "Lớp trưởng chào bác và hỏi thăm bác."
+            },
+            {
+                "question": "Học sinh trong bài đọc đến trường vào buổi chiều để làm gì?",
+                "options": [
+                    "Để tham gia buổi lễ 26 tháng 3",
+                    "Để đá bóng và vui chơi cùng bạn bè",
+                    "Để dọn dẹp sân trường và các phòng học",
+                    "Để nghe bác lao công dạy bảo"
+                ],
+                "correct": "Để dọn dẹp sân trường và các phòng học"
+            },
+            {
+                "question": "Ai là người đã dọn dẹp sân trường và cửa sổ giúp các bạn học sinh?",
+                "options": [
+                    "Lớp trưởng",
+                    "Bác lao công",
+                    "Các bạn nam trong lớp",
+                    "Thầy cô giáo"
+                ],
+                "correct": "Bác lao công"
+            },
+            {
+                "question": "Các bạn nam đã vô tình gây ra sự cố gì trong lúc đá bóng?",
+                "options": [
+                    "Làm vỡ cửa sổ lớp học",
+                    "Làm hỏng xô nước của lớp",
+                    "Làm gãy một cành cây nhỏ",
+                    "Làm bẩn sàn nhà vừa lau"
+                ],
+                "correct": "Làm gãy một cành cây nhỏ"
+            },
+            {
+                "question": "Bác lao công mặc trang phục màu gì khi xuất hiện trước các bạn học sinh?",
+                "options": [
+                    "Màu trắng",
+                    "Màu vàng",
+                    "Màu xanh",
+                    "Màu xám"
+                ],
+                "correct": "Màu xanh"
+            },
+            {
+                "question": "Trạng thái của lớp học như thế nào khi các bạn học sinh đến trường vào mỗi buổi sáng?",
+                "options": [
+                    "Bụi bặm và bừa bộn",
+                    "Sạch sẽ, bàn ghế gọn gàng và cửa sổ không có bụi",
+                    "Đang được bác lao công dọn dẹp",
+                    "Đầy lá rụng và cần được quét dọn"
+                ],
+                "correct": "Sạch sẽ, bàn ghế gọn gàng và cửa sổ không có bụi"
+            },
+            {
+                "question": "Tại sao các bạn học sinh lại cảm thấy xấu hổ khi gặp bác lao công?",
+                "options": [
+                    "Vì các bạn đã làm gãy cành cây",
+                    "Vì các bạn quên chào bác lao công",
+                    "Vì các bạn đã ham chơi nên quên mất nhiệm vụ dọn dẹp",
+                    "Vì các bạn làm hỏng dụng cụ lao động của bác"
+                ],
+                "correct": "Vì các bạn đã ham chơi nên quên mất nhiệm vụ dọn dẹp"
+            },
+            {
+                "question": "Bác lao công đã đưa ra lời khuyên gì cho các bạn nam?",
+                "options": [
+                    "Không nên đá bóng trong sân trường",
+                    "Không nên đá bóng gần cây xanh để bảo vệ môi trường",
+                    "Phải biết giúp đỡ bạn bè trong lớp",
+                    "Phải học tập chăm chỉ hơn nữa"
+                ],
+                "correct": "Không nên đá bóng gần cây xanh để bảo vệ môi trường"
+            },
+            {
+                "question": "Sau sự việc đó, các bạn học sinh đã có thay đổi gì trong thái độ đối với bác lao công?",
+                "options": [
+                    "Luôn chào bác và tự giác giữ gìn vệ sinh lớp học",
+                    "Thường xuyên tặng quà cho bác lao công",
+                    "Không bao giờ chơi đùa ở sân trường nữa",
+                    "Chỉ tập trung học tập và không quan tâm đến bác"
+                ],
+                "correct": "Luôn chào bác và tự giác giữ gìn vệ sinh lớp học"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Ngày đầu tiên đi học của tôi",
+        "text": "Mỗi con người ai cũng có những kỉ niệm đáng nhớ. Có những kỉ niệm vui, có những kỉ niệm buồn. Có những kỉ niệm về thời thơ ấu rất đẹp. Tôi cũng vậy, tôi luôn nhớ về ngày đầu tiên mình đi học. Đó là một kỉ niệm mà tôi không bao giờ quên được.\n\nNgày đó, mẹ dắt tay tôi đi trên con đường quen thuộc đến trường. Lúc ấy, tôi cảm thấy rất sợ và lo lắng. Trên vai tôi là chiếc cặp sách mới mẹ vừa mua cho. Trong cặp có nhiều cuốn sách và tập vở còn thơm mùi giấy mới. Tôi nhìn xung quanh và thấy rất nhiều bạn học mới giống mình. Có bạn thì vui vẻ đùa nghịch bên cha mẹ. Có bạn lại khóc vì không muốn rời xa người thân. Khi đứng trước cổng trường, tôi đã đứng lại một chút vì mọi thứ rất mới lạ. Ngôi trường của tôi rất cao và to. Xung quanh trường có nhiều cây xanh nên rất mát mẻ. Khi bước vào bên trong, tôi thấy các bạn học sinh đang xếp hàng ngay ngắn. Ai cũng mặc bộ quần áo đồng phục trắng tinh. Trên ngực áo của các bạn có gắn logo của trường.\n\nỞ trong sân trường có nhiều hàng cây cổ thụ cao lớn. Những tán lá cây như đang vẫy tay chào chúng tôi. Các thầy cô giáo đều đứng rất nghiêm túc và luôn mỉm cười với học sinh. Các thầy mặc áo sơ mi trắng và quần tây màu đen. Các cô giáo mặc áo dài truyền thống với nhiều màu sắc khác nhau. Các cô trông rất đẹp và hiền hậu. Sau đó, có một thầy giáo cầm loa và nói lớn: Mời quý phụ huynh ra về để các em vào lớp học. Mẹ quay sang nắm tay tôi và nói: Mẹ về đây, con ở lại phải học thật chăm chỉ và hòa đồng với bạn bè nhé. Mẹ cười hiền hậu rồi bước dần ra cổng trường.\n\nKhi nhìn thấy mẹ đi về, tôi cảm thấy buồn và muốn khóc. Tôi không muốn xa mẹ chút nào. Tôi cố gắng kìm nén cảm xúc nhưng nước mắt vẫn rơi. Sau đó, tôi đi vào lớp để gặp giáo viên chủ nhiệm. Cô giáo của tôi rất xinh đẹp và hiền lành. Cô bắt đầu giới thiệu về bản thân và lớp học. Buổi học đầu tiên của tôi kết thúc trong sự bỡ ngỡ nhưng rất vui vẻ.\n\nNgày đầu tiên đi học là như thế đó. Đến tận bây giờ, tôi vẫn nhớ như in từng chi tiết của ngày hôm ấy. Tôi tự hứa với lòng mình sẽ luôn học tập thật tốt để không phụ lòng yêu thương của thầy cô và cha mẹ. Tôi sẽ luôn cố gắng để trở thành một học sinh ngoan. Những kỉ niệm đẹp về ngày đầu tiên đến trường sẽ mãi ở trong trái tim tôi. Đó là hành trang quý giá để tôi bước tiếp trên con đường học tập của mình sau này. Tôi yêu ngôi trường của tôi.",
+        "dictionary": {
+            "kỉ niệm": "纪念",
+            "đáng nhớ": "难忘",
+            "thời thơ ấu": "童年",
+            "dắt tay": "牵手",
+            "quen thuộc": "熟悉",
+            "cặp sách": "书包",
+            "tập vở": "练习本",
+            "đùa nghịch": "嬉戏",
+            "rời xa": "离开",
+            "người thân": "亲人",
+            "mới lạ": "新奇",
+            "xếp hàng": "排队",
+            "ngay ngắn": "整齐",
+            "đồng phục": "校服",
+            "trắng tinh": "洁白",
+            "cổ thụ": "古树",
+            "tán lá": "树冠",
+            "vẫy tay": "招手",
+            "nghiêm túc": "严肃",
+            "mỉm cười": "微笑",
+            "áo sơ mi": "衬衫",
+            "quần tây": "西裤",
+            "áo dài": "奥黛",
+            "truyền thống": "传统",
+            "hiền hậu": "慈祥",
+            "quý phụ huynh": "各位家长",
+            "chăm chỉ": "勤奋",
+            "hòa đồng": "合群",
+            "kìm nén": "抑制",
+            "cảm xúc": "情感",
+            "giáo viên chủ nhiệm": "班主任",
+            "hiền lành": "善良",
+            "bỡ ngỡ": "生疏",
+            "nhớ như in": "记忆犹新",
+            "chi tiết": "细节",
+            "tự hứa": "自许",
+            "phụ lòng": "辜负",
+            "yêu thương": "关爱",
+            "ngoan": "乖巧",
+            "hành trang": "行囊",
+            "quý giá": "珍贵",
+            "bước tiếp": "继续前行",
+            "con đường học tập": "求学之路",
+            "xung quanh": "周围",
+            "mát mẻ": "凉爽",
+            "cổng trường": "校门",
+            "logo": "校徽",
+            "thầy cô giáo": "老师",
+            "kết thúc": "结束",
+            "trái tim": "内心"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Ngày đó, mẹ dắt tay tôi đi trên con đường quen thuộc đến trường.",
+                    "Ngôi trường của tôi rất cao và to.",
+                    "Các cô giáo mặc áo dài truyền thống với nhiều màu sắc khác nhau.",
+                    "Vì mẹ dắt tay tôi đi trên con đường quen thuộc đến trường."
+                ],
+                "correct": "Vì mẹ dắt tay tôi đi trên con đường quen thuộc đến trường."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Tôi luôn nhớ về ngày đầu tiên mình đi học.",
+                    "Những tán lá cây như đang vẫy tay chào chúng tôi.",
+                    "Khi đứng trước cổng trường, tôi đã đứng lại một chút.",
+                    "Mẹ cười hiền hậu rồi bước dần ra cổng trường, tôi buồn."
+                ],
+                "correct": "Mẹ cười hiền hậu rồi bước dần ra cổng trường, tôi buồn."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Trên vai tôi là chiếc cặp sách mới mẹ vừa mua cho.",
+                    "Ai cũng mặc bộ quần áo đồng phục trắng tinh.",
+                    "Các thầy mặc áo sơ mi trắng và quần tây màu đen.",
+                    "Cô giáo của tôi xinh đẹp và hiền lành rất."
+                ],
+                "correct": "Cô giáo của tôi xinh đẹp và hiền lành rất."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Tôi tự hứa với lòng mình sẽ luôn học tập thật tốt.",
+                    "Những kỉ niệm đẹp về ngày đầu tiên đến trường sẽ mãi ở trong trái tim tôi.",
+                    "Tôi yêu ngôi trường của tôi.",
+                    "Để không phụ lòng yêu thương của thầy cô cha mẹ."
+                ],
+                "correct": "Để không phụ lòng yêu thương của thầy cô cha mẹ."
+            },
+            {
+                "question": "Ai là người đã dắt tay nhân vật “tôi” đi đến trường vào ngày đầu tiên?",
+                "options": [
+                    "Cha",
+                    "Mẹ",
+                    "Cô giáo",
+                    "Bạn bè"
+                ],
+                "correct": "Mẹ"
+            },
+            {
+                "question": "Thầy giáo đã cầm vật gì để thông báo cho phụ huynh ra về?",
+                "options": [
+                    "Một chiếc chuông",
+                    "Một chiếc còi",
+                    "Một chiếc loa",
+                    "Một tờ giấy thông báo"
+                ],
+                "correct": "Một chiếc loa"
+            },
+            {
+                "question": "Nhân vật “tôi” đã làm gì khi nhìn thấy mẹ đi về?",
+                "options": [
+                    "Chạy theo mẹ",
+                    "Vẫy tay chào mẹ",
+                    "Cảm thấy buồn và muốn khóc",
+                    "Đi vào lớp ngay lập tức"
+                ],
+                "correct": "Cảm thấy buồn và muốn khóc"
+            },
+            {
+                "question": "Trên ngực áo của các bạn học sinh có gắn vật gì?",
+                "options": [
+                    "Tên của học sinh",
+                    "Logo của trường",
+                    "Một bông hoa nhỏ",
+                    "Một chiếc huy hiệu"
+                ],
+                "correct": "Logo của trường"
+            },
+            {
+                "question": "Trạng thái của nhân vật “tôi” khi đứng trước cổng trường là gì?",
+                "options": [
+                    "Vui vẻ và phấn khích",
+                    "Sợ hãi và lo lắng",
+                    "Bình thản và tự tin",
+                    "Ngạc nhiên vì mọi thứ rất mới lạ"
+                ],
+                "correct": "Ngạc nhiên vì mọi thứ rất mới lạ"
+            },
+            {
+                "question": "Các cô giáo trong bài được miêu tả như thế nào?",
+                "options": [
+                    "Nghiêm khắc và khó tính",
+                    "Đẹp và hiền hậu",
+                    "Trẻ trung và năng động",
+                    "Vui tính và hay đùa"
+                ],
+                "correct": "Đẹp và hiền hậu"
+            },
+            {
+                "question": "Đặc điểm của ngôi trường được nhắc đến trong bài là gì?",
+                "options": [
+                    "Nhỏ bé và ấm cúng",
+                    "Cũ kỹ và yên tĩnh",
+                    "Cao, to và có nhiều cây xanh",
+                    "Hiện đại với nhiều thiết bị điện tử"
+                ],
+                "correct": "Cao, to và có nhiều cây xanh"
+            },
+            {
+                "question": "Hoạt động của các bạn học sinh khi nhân vật “tôi” bước vào trường là gì?",
+                "options": [
+                    "Đang chạy nhảy trong sân",
+                    "Đang xếp hàng ngay ngắn",
+                    "Đang ngồi trong lớp học",
+                    "Đang đọc sách dưới gốc cây"
+                ],
+                "correct": "Đang xếp hàng ngay ngắn"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Vẻ đẹp của biển Nha Trang",
+        "text": "Việt Nam là một đất nước rất đẹp. Mỗi vùng quê đều có những cảnh đẹp riêng. Tôi sinh ra ở thành phố Nha Trang. Đây là một thành phố biển rất nổi tiếng. Tôi rất yêu quê hương của mình.\n\nBiển Nha Trang có khung cảnh thiên nhiên rất đẹp. Mỗi lần ra biển, tôi cảm thấy rất vui và thoải mái. Màu xanh của biển Nha Trang rất đặc biệt. Đó là màu xanh của bầu trời, màu xanh của nước biển và màu xanh của cây cối. Tất cả tạo nên một bức tranh thiên nhiên tuyệt vời. Tôi rất thích ngắm nhìn vẻ đẹp này mỗi ngày.\n\nỞ Nha Trang, tôi thích nhất là đi thăm đảo Trí Nguyên. Ở đó có những hồ cá rất lớn trên mặt biển. Trong hồ có rất nhiều loài cá khác nhau. Có cá heo, cá mập, cá kiếm và nhiều loài cá nhỏ khác. Tôi thấy những con cá cảnh có màu sắc rất đẹp và hình thù lạ mắt. Các bạn nhỏ khi đến đây đều cảm thấy rất thích thú.\n\nNgoài ra, Nha Trang còn có nhiều nơi tham quan khác như Tháp Bà, bãi biển Hòn Chồng và Viện Hải dương học. Tại Viện Hải dương học, tôi có thể nhìn thấy nhiều sinh vật lạ của đại dương. Những điều này giúp tôi hiểu thêm về thế giới dưới nước.\n\nBiển Nha Trang đẹp nhất là vào buổi sáng sớm. Khi mặt trời vừa lên, cảnh vật rất trong lành. Những con thuyền đánh cá bắt đầu ra khơi để làm việc. Mọi người làm việc rất chăm chỉ và hối hả. Hình ảnh này đã trở nên quen thuộc với người dân nơi đây. Dù tôi đã nhìn thấy cảnh này nhiều lần, nhưng tôi không bao giờ cảm thấy chán. Với tôi, biển giống như một người bạn tốt. Biển mang lại cho tôi niềm vui và sự bình yên sau những giờ học tập.\n\nTôi rất yêu quê hương Nha Trang của mình. Tôi yêu những bãi cát trắng, yêu làn nước biển trong xanh và yêu cả những con người hiền lành ở đây. Hiện tại, tôi là một học sinh. Tôi sẽ cố gắng học tập thật tốt để sau này có thể làm việc và xây dựng quê hương ngày càng giàu đẹp hơn. Tôi cũng muốn giới thiệu vẻ đẹp của thành phố Nha Trang đến với nhiều bạn bè trên thế giới. Tôi hy vọng các bạn sẽ có dịp đến thăm thành phố biển xinh đẹp này. Chắc chắn các bạn sẽ có những kỷ niệm thật đáng nhớ tại đây. Tôi luôn sẵn sàng chào đón mọi người đến thăm quê hương tôi. Nha Trang là một nơi tuyệt vời để nghỉ ngơi và du lịch cùng gia đình hay bạn bè. Hãy đến Nha Trang để cảm nhận vẻ đẹp của biển xanh và nắng vàng. Tôi tin rằng các bạn sẽ rất yêu nơi này giống như tôi vậy.",
+        "dictionary": {
+            "đất nước": "国家",
+            "vùng quê": "乡村地区",
+            "cảnh đẹp": "美景",
+            "thành phố biển": "海滨城市",
+            "nổi tiếng": "著名",
+            "quê hương": "家乡",
+            "khung cảnh": "景象",
+            "thiên nhiên": "自然",
+            "thoải mái": "舒适",
+            "đặc biệt": "特别",
+            "bầu trời": "天空",
+            "cây cối": "树木",
+            "bức tranh": "画卷",
+            "tuyệt vời": "绝妙",
+            "ngắm nhìn": "欣赏",
+            "vẻ đẹp": "美貌",
+            "đảo": "岛屿",
+            "hồ cá": "鱼池",
+            "loài cá": "鱼类",
+            "cá heo": "海豚",
+            "cá mập": "鲨鱼",
+            "cá kiếm": "剑鱼",
+            "hình thù": "形状",
+            "lạ mắt": "新奇",
+            "thích thú": "感兴趣",
+            "tham quan": "参观",
+            "viện hải dương học": "海洋研究所",
+            "sinh vật": "生物",
+            "đại dương": "海洋",
+            "trong lành": "清新",
+            "đánh cá": "捕鱼",
+            "ra khơi": "出海",
+            "chăm chỉ": "勤劳",
+            "hối hả": "匆忙",
+            "quen thuộc": "熟悉",
+            "chán": "厌倦",
+            "bình yên": "宁静",
+            "bãi cát": "沙滩",
+            "trong xanh": "碧蓝",
+            "hiền lành": "温和",
+            "hiện tại": "目前",
+            "cố gắng": "努力",
+            "xây dựng": "建设",
+            "giàu đẹp": "富饶美丽",
+            "giới thiệu": "介绍",
+            "dịp": "机会",
+            "kỷ niệm": "纪念",
+            "đáng nhớ": "难忘",
+            "sẵn sàng": "准备好",
+            "nghỉ ngơi": "休息"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Tôi sinh ra ở thành phố Nha Trang.",
+                    "Biển Nha Trang có khung cảnh thiên nhiên rất đẹp.",
+                    "Tôi rất yêu quê hương của mình.",
+                    "Nha Trang là một thành phố biển nổi tiếng rất."
+                ],
+                "correct": "Nha Trang là một thành phố biển nổi tiếng rất."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Các bạn nhỏ khi đến đây đều cảm thấy rất thích thú.",
+                    "Biển mang lại cho tôi niềm vui và sự bình yên sau những giờ học tập.",
+                    "Tôi sẽ cố gắng học tập thật tốt để sau này có thể làm việc và xây dựng quê hương ngày càng giàu đẹp hơn.",
+                    "Cả ba câu trên đều đúng ngữ pháp."
+                ],
+                "correct": "Cả ba câu trên đều đúng ngữ pháp."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Mọi người làm việc rất chăm chỉ và hối hả.",
+                    "Tôi yêu những bãi cát trắng, yêu làn nước biển trong xanh.",
+                    "Biển giống như một người bạn tốt.",
+                    "Tôi hy vọng các bạn sẽ có dịp đến thăm thành phố biển xinh đẹp này."
+                ],
+                "correct": "Tôi yêu những bãi cát trắng, yêu làn nước biển trong xanh."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Tại Viện Hải dương học, tôi có thể nhìn thấy nhiều sinh vật lạ của đại dương.",
+                    "Những điều này giúp tôi hiểu thêm về thế giới dưới nước.",
+                    "Mỗi lần ra biển, tôi cảm thấy rất vui và thoải mái.",
+                    "Đảo Trí Nguyên có những hồ cá rất lớn trên mặt biển ở."
+                ],
+                "correct": "Đảo Trí Nguyên có những hồ cá rất lớn trên mặt biển ở."
+            },
+            {
+                "question": "Tác giả của bài đọc sinh ra ở đâu?",
+                "options": [
+                    "Hà Nội",
+                    "Đà Nẵng",
+                    "Nha Trang",
+                    "Hải Phòng"
+                ],
+                "correct": "Nha Trang"
+            },
+            {
+                "question": "Địa điểm nào ở Nha Trang có các hồ cá lớn trên mặt biển?",
+                "options": [
+                    "Tháp Bà",
+                    "Đảo Trí Nguyên",
+                    "Bãi biển Hòn Chồng",
+                    "Viện Hải dương học"
+                ],
+                "correct": "Đảo Trí Nguyên"
+            },
+            {
+                "question": "Khi nào là thời điểm biển Nha Trang đẹp nhất theo bài đọc?",
+                "options": [
+                    "Vào buổi trưa nắng gắt",
+                    "Vào buổi chiều tà",
+                    "Vào buổi sáng sớm",
+                    "Vào ban đêm"
+                ],
+                "correct": "Vào buổi sáng sớm"
+            },
+            {
+                "question": "Tác giả hiện tại đang làm công việc gì?",
+                "options": [
+                    "Hướng dẫn viên du lịch",
+                    "Học sinh",
+                    "Ngư dân",
+                    "Nhân viên Viện Hải dương học"
+                ],
+                "correct": "Học sinh"
+            },
+            {
+                "question": "Màu xanh của biển Nha Trang được tạo nên từ những yếu tố nào?",
+                "options": [
+                    "Bầu trời, nước biển và cây cối",
+                    "Bầu trời, cát trắng và ánh nắng",
+                    "Nước biển, san hô và cá cảnh",
+                    "Bầu trời, mây trắng và nước biển"
+                ],
+                "correct": "Bầu trời, nước biển và cây cối"
+            },
+            {
+                "question": "Những loài cá nào được nhắc đến khi nói về hồ cá ở đảo Trí Nguyên?",
+                "options": [
+                    "Cá heo, cá mập, cá kiếm",
+                    "Cá thu, cá ngừ, cá kiếm",
+                    "Cá hồi, cá mập, cá heo",
+                    "Cá cảnh, cá vàng, cá mập"
+                ],
+                "correct": "Cá heo, cá mập, cá kiếm"
+            },
+            {
+                "question": "Theo tác giả, biển mang lại điều gì cho bản thân sau những giờ học tập?",
+                "options": [
+                    "Sự mệt mỏi và lo âu",
+                    "Niềm vui và sự bình yên",
+                    "Kiến thức về đại dương",
+                    "Cảm giác hối hả và chăm chỉ"
+                ],
+                "correct": "Niềm vui và sự bình yên"
+            },
+            {
+                "question": "Tác giả mong muốn điều gì ở các bạn bè trên thế giới?",
+                "options": [
+                    "Các bạn sẽ đến thăm Nha Trang",
+                    "Các bạn sẽ gửi quà cho tác giả",
+                    "Các bạn sẽ học tập thật tốt",
+                    "Các bạn sẽ cùng xây dựng quê hương"
+                ],
+                "correct": "Các bạn sẽ đến thăm Nha Trang"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
