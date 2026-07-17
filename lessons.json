@@ -970,5 +970,256 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Quê hương và dòng sông tuổi thơ",
+        "text": "Tôi rất yêu quê nội của tôi. Ở đó, tôi có một tuổi thơ rất vui vẻ. Tôi được sống trong vòng tay yêu thương của mẹ và của bà. Quê tôi nằm ngay cạnh dòng sông Thương. Con sông này rất hiền hòa và bình yên.\n\nLàng quê của tôi không giàu có nhưng rất đẹp. Tôi nhớ những ngày còn nhỏ, tôi thường chạy chơi trên cánh đồng xanh mát. Tôi thích ngắm những cây lúa và cây ngô trên cánh đồng. Nhưng hình ảnh tôi yêu nhất chính là dòng sông Thương. Sông Thương không ồn ào. Mỗi buổi sáng, khi ông mặt trời thức dậy, tôi thường chạy lên bờ đê để ngắm dòng sông. Nước sông trôi rất nhẹ nhàng. Gió từ dưới sông thổi lên mát rượi. Tôi cảm thấy rất thoải mái và vui vẻ. Những kỷ niệm này luôn ở trong trái tim tôi dù sau này tôi có đi xa đến đâu.\n\nKhi mặt trời lên cao, dòng sông sáng rực rỡ. Tôi thường hỏi mẹ về những tia nắng lấp lánh trên mặt nước. Mẹ nói đó là những bông hoa nắng xinh đẹp. Khi còn nhỏ, tôi tin lời mẹ và thấy dòng sông thật kỳ diệu. Hai bên bờ sông có nhiều cỏ xanh và những bông hoa trắng nhỏ xinh. Tôi và các bạn thường rủ nhau ra bờ sông chơi. Chúng tôi rất thích cảnh đẹp ở đây.\n\nSông Thương không chỉ đẹp mà còn rất quan trọng với người dân quê tôi. Dòng sông mang đến tôm và cá. Nhờ có tôm cá mà bao thế hệ người dân trong làng đã lớn lên khỏe mạnh. Sông còn mang phù sa màu mỡ cho những cánh đồng lúa. Mỗi mùa nước lũ qua đi, đất đai lại trở nên màu mỡ hơn. Người nông dân nhờ đó mà có những vụ mùa bội thu và cuộc sống no ấm.\n\nVới tôi và lũ bạn trong xóm, dòng sông là người bạn thân thiết. Những buổi trưa hè nóng nực, chúng tôi thường nhảy xuống dòng nước mát lạnh để tắm. Những đêm trăng sáng, chúng tôi cùng nhau vui đùa và chơi những trò chơi thú vị trên bờ sông. Những tiếng cười của chúng tôi vang vọng cả một vùng quê. Dòng sông đã chứng kiến chúng tôi lớn lên từng ngày.\n\nNhững hình ảnh đẹp về dòng sông đã tạo nên một phần ký ức trong sáng của tuổi thơ tôi. Dòng sông hiền hòa luôn ở bên cạnh chúng tôi. Nó giống như một người bạn thủy chung và gắn bó với mọi người trong làng. Dù bây giờ tôi đã lớn và phải đi làm xa, nhưng tôi vẫn luôn nhớ về dòng sông quê hương. Với tôi, sông Thương không chỉ là một dòng nước mà còn là một phần linh hồn của quê nhà. Đó là nơi lưu giữ những kỷ niệm đẹp nhất, trong sáng nhất mà tôi luôn trân trọng. Tôi mong rằng dù thời gian có trôi đi, dòng sông vẫn mãi hiền hòa và giữ được vẻ đẹp tự nhiên như thế. Quê hương và dòng sông Thương sẽ mãi mãi là nơi bình yên để tôi trở về sau những ngày làm việc vất vả ở thành phố xa xôi.",
+        "dictionary": {
+            "tôi": "我",
+            "yêu": "爱",
+            "quê nội": "祖籍",
+            "tuổi thơ": "童年",
+            "vui vẻ": "快乐",
+            "sống": "生活",
+            "vòng tay": "怀抱",
+            "yêu thương": "疼爱",
+            "mẹ": "母亲",
+            "bà": "祖母",
+            "quê": "家乡",
+            "nằm": "位于",
+            "cạnh": "旁边",
+            "dòng sông": "河流",
+            "Thương": "沧",
+            "hiền hòa": "温和",
+            "bình yên": "宁静",
+            "làng quê": "乡村",
+            "giàu có": "富裕",
+            "đẹp": "美丽",
+            "nhớ": "想念",
+            "ngày": "日子",
+            "nhỏ": "小",
+            "chạy": "跑",
+            "chơi": "玩",
+            "cánh đồng": "田野",
+            "xanh mát": "翠绿",
+            "thích": "喜欢",
+            "ngắm": "观赏",
+            "cây lúa": "稻子",
+            "cây ngô": "玉米",
+            "hình ảnh": "形象",
+            "ồn ào": "喧闹",
+            "buổi sáng": "早晨",
+            "ông mặt trời": "太阳",
+            "thức dậy": "起床",
+            "bờ đê": "堤岸",
+            "nước": "水",
+            "trôi": "流",
+            "nhẹ nhàng": "轻柔",
+            "gió": "风",
+            "thổi": "吹",
+            "mát rượi": "凉爽",
+            "cảm thấy": "感到",
+            "thoải mái": "舒适",
+            "kỷ niệm": "回忆",
+            "trái tim": "内心",
+            "xa": "远",
+            "cao": "高",
+            "sáng": "明亮",
+            "rực rỡ": "灿烂",
+            "hỏi": "问",
+            "tia nắng": "阳光",
+            "lấp lánh": "闪烁",
+            "mặt nước": "水面",
+            "bông hoa": "花朵",
+            "nắng": "阳光",
+            "xinh đẹp": "漂亮",
+            "tin": "相信",
+            "lời": "话",
+            "kỳ diệu": "奇妙",
+            "bờ sông": "河岸",
+            "cỏ": "草",
+            "xanh": "绿",
+            "trắng": "白",
+            "bạn": "朋友",
+            "rủ": "约",
+            "cảnh": "景色",
+            "quan trọng": "重要",
+            "người dân": "居民",
+            "tôm": "虾",
+            "cá": "鱼",
+            "thế hệ": "世代",
+            "lớn lên": "成长",
+            "khỏe mạnh": "健康",
+            "phù sa": "淤泥",
+            "màu mỡ": "肥沃",
+            "mùa": "季节",
+            "nước lũ": "洪水",
+            "đất đai": "土地",
+            "trở nên": "变得",
+            "nông dân": "农民",
+            "vụ mùa": "收成",
+            "bội thu": "丰收",
+            "cuộc sống": "生活",
+            "no ấm": "温饱",
+            "xóm": "村落",
+            "thân thiết": "亲密",
+            "buổi trưa": "中午",
+            "hè": "夏",
+            "nóng nực": "炎热",
+            "nhảy": "跳",
+            "mát lạnh": "清凉",
+            "tắm": "洗澡",
+            "đêm": "夜晚",
+            "trăng": "月亮",
+            "vui đùa": "嬉戏",
+            "trò chơi": "游戏",
+            "thú vị": "有趣",
+            "tiếng cười": "笑声",
+            "vang vọng": "回荡",
+            "vùng quê": "乡村地区",
+            "chứng kiến": "见证",
+            "từng ngày": "每一天",
+            "ký ức": "记忆",
+            "trong sáng": "纯洁",
+            "giống": "像",
+            "thủy chung": "忠诚",
+            "gắn bó": "紧密",
+            "làm": "工作",
+            "hương": "故乡",
+            "linh hồn": "灵魂",
+            "nơi": "地方",
+            "lưu giữ": "留存",
+            "trân trọng": "珍惜",
+            "mong": "希望",
+            "thời gian": "时间",
+            "giữ": "保持",
+            "tự nhiên": "自然",
+            "vất vả": "辛苦",
+            "thành phố": "城市"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Quê tôi nằm ngay cạnh dòng sông Thương.",
+                    "Tôi và các bạn thường rủ nhau ra bờ sông chơi.",
+                    "Dòng sông mang đến tôm và cá cho người dân.",
+                    "Sông Thương không ồn ào vì nước trôi nhẹ nhàng."
+                ],
+                "correct": "Sông Thương không ồn ào vì nước trôi nhẹ nhàng."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Mỗi buổi sáng, khi ông mặt trời thức dậy, tôi thường chạy lên bờ đê để ngắm dòng sông.",
+                    "Những kỷ niệm này luôn ở trong trái tim tôi dù sau này tôi có đi xa đến đâu.",
+                    "Dòng sông đã chứng kiến chúng tôi lớn lên từng ngày.",
+                    "Tất cả các câu trên đều đúng ngữ pháp."
+                ],
+                "correct": "Tất cả các câu trên đều đúng ngữ pháp."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Sông còn mang phù sa màu mỡ cho những cánh đồng lúa.",
+                    "Những bông hoa nắng xinh đẹp là mẹ nói với tôi.",
+                    "Tôi rất yêu quê nội của tôi.",
+                    "Người nông dân nhờ đó mà có những vụ mùa bội thu."
+                ],
+                "correct": "Những bông hoa nắng xinh đẹp là mẹ nói với tôi."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Dòng sông giống như một người bạn thủy chung.",
+                    "Tôi mong rằng dòng sông vẫn mãi hiền hòa.",
+                    "Những tiếng cười của chúng tôi vang vọng cả một vùng quê.",
+                    "Dòng sông là một phần linh hồn của quê nhà tôi là."
+                ],
+                "correct": "Dòng sông là một phần linh hồn của quê nhà tôi là."
+            },
+            {
+                "question": "Nhân vật “tôi” trong bài đọc thường nhận được sự yêu thương từ những ai?",
+                "options": [
+                    "Bố và mẹ",
+                    "Mẹ và bà",
+                    "Bạn bè và thầy cô",
+                    "Ông và bà"
+                ],
+                "correct": "Mẹ và bà"
+            },
+            {
+                "question": "Dòng sông nào được nhắc đến trong bài đọc?",
+                "options": [
+                    "Sông Hồng",
+                    "Sông Thái Bình",
+                    "Sông Thương",
+                    "Sông Đà"
+                ],
+                "correct": "Sông Thương"
+            },
+            {
+                "question": "Khi còn nhỏ, nhân vật “tôi” thường làm gì trên bờ đê vào mỗi buổi sáng?",
+                "options": [
+                    "Chạy bộ",
+                    "Ngắm dòng sông",
+                    "Thả diều",
+                    "Đọc sách"
+                ],
+                "correct": "Ngắm dòng sông"
+            },
+            {
+                "question": "Mẹ đã giải thích “những tia nắng lấp lánh trên mặt nước” là gì?",
+                "options": [
+                    "Những viên kim cương",
+                    "Những bông hoa nắng xinh đẹp",
+                    "Những ánh sao rơi",
+                    "Những đốm lửa nhỏ"
+                ],
+                "correct": "Những bông hoa nắng xinh đẹp"
+            },
+            {
+                "question": "Theo bài đọc, dòng sông có đặc điểm gì vào buổi sáng?",
+                "options": [
+                    "Ồn ào và dữ dội",
+                    "Hiền hòa và bình yên",
+                    "Đục ngầu và chảy xiết",
+                    "Rộng lớn và đáng sợ"
+                ],
+                "correct": "Hiền hòa và bình yên"
+            },
+            {
+                "question": "Tại sao người dân trong làng lại có cuộc sống no ấm?",
+                "options": [
+                    "Nhờ buôn bán tấp nập",
+                    "Nhờ những vụ mùa bội thu từ đất đai màu mỡ",
+                    "Nhờ làm việc tại các nhà máy",
+                    "Nhờ sự giúp đỡ của chính quyền"
+                ],
+                "correct": "Nhờ những vụ mùa bội thu từ đất đai màu mỡ"
+            },
+            {
+                "question": "Hoạt động nào thường được lũ trẻ thực hiện vào những buổi trưa hè nóng nực?",
+                "options": [
+                    "Ngủ trưa trong nhà",
+                    "Nhảy xuống dòng nước mát lạnh để tắm",
+                    "Chơi đá bóng trên bờ đê",
+                    "Đi bắt bướm trên cánh đồng"
+                ],
+                "correct": "Nhảy xuống dòng nước mát lạnh để tắm"
+            },
+            {
+                "question": "Nhân vật “tôi” cảm thấy như thế nào về dòng sông khi đã lớn và đi làm xa?",
+                "options": [
+                    "Cảm thấy dòng sông đã thay đổi quá nhiều",
+                    "Cảm thấy dòng sông là một phần linh hồn của quê nhà",
+                    "Cảm thấy không còn muốn nhớ về dòng sông nữa",
+                    "Cảm thấy dòng sông không còn quan trọng"
+                ],
+                "correct": "Cảm thấy dòng sông là một phần linh hồn của quê nhà"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
