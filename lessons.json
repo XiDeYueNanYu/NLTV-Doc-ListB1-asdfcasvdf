@@ -1221,5 +1221,510 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Chú chó nhỏ của em",
+        "text": "Trong ngôi nhà nhỏ của em, có một thành viên rất đặc biệt. Đó là chú chó tên Vàng. Vàng là quà sinh nhật bố tặng em khi em bảy tuổi. Từ ngày có Vàng, gia đình em luôn vui vẻ và có nhiều tiếng cười.\n\nVàng là một chú chó bình thường, không phải chó đắt tiền. Nó có bộ lông màu vàng rất đẹp. Lúc mới về nhà, Vàng còn rất nhỏ như một cục bông. Bây giờ, Vàng đã lớn và rất khỏe mạnh. Bộ lông của nó ngắn, dày và rất mượt. Khi em vuốt ve, em thấy rất dễ chịu. Đầu của Vàng tròn, đôi mắt nó màu đen và rất sáng. Chiếc mũi của Vàng lúc nào cũng ướt. Đôi tai nó luôn vểnh lên để nghe tiếng động xung quanh. Bốn cái chân của Vàng rất chắc khỏe, giúp nó chạy nhảy nhanh nhẹn trong sân. Cái đuôi của nó dài và cong, lúc nào cũng vẫy liên tục khi nó thấy vui.\n\nVàng rất ham ăn. Mỗi khi em đưa bát cơm, nó ăn rất nhanh. Nó thích ăn cơm, ăn thịt và ăn xương. Sau khi ăn no, Vàng thường tìm em để chơi cùng. Em thích ném bóng cho Vàng chạy đi nhặt. Nó chạy rất nhanh, ngậm quả bóng rồi mang về đặt vào chân em. Đôi khi, nó nhảy lên người em để đòi được vuốt ve. Những lúc được vuốt ve, nó kêu gừ gừ rất vui vẻ. Buổi trưa, Vàng thường nằm ngủ ở góc sân dưới nắng. Trông nó lúc đó rất bình yên và đáng yêu.\n\nVàng còn là một người bảo vệ trung thành của gia đình em. Mỗi khi có người lạ đến trước cổng, Vàng đều vểnh tai nghe và sủa vang. Em biết Vàng đang làm nhiệm vụ giữ nhà. Khi em đi học về, Vàng luôn đứng đợi ở cổng. Nó vẫy đuôi mừng rỡ và dụi đầu vào chân em. Khi em thấy buồn, Vàng thường nằm cạnh em. Nó liếm nhẹ vào tay em như muốn nói rằng nó luôn ở bên cạnh em. Sự chăm sóc nhỏ bé đó làm em thấy rất ấm áp và hạnh phúc.\n\nĐối với em, Vàng không chỉ là một con vật nuôi trong nhà. Nó là một người bạn thân thiết và là một thành viên không thể thiếu của gia đình. Vàng mang lại niềm vui và cảm giác an toàn cho mọi người mỗi ngày. Em rất yêu quý Vàng. Em hứa sẽ luôn chăm sóc Vàng thật tốt, cho nó ăn đầy đủ và dành nhiều thời gian để chơi cùng nó. Em hy vọng Vàng sẽ luôn khỏe mạnh và sống thật lâu bên cạnh gia đình em. Em luôn tự hào vì có một người bạn nhỏ trung thành và đáng yêu như Vàng. Mỗi ngày trôi qua, tình cảm giữa em và Vàng lại càng thêm gắn bó, thân thiết hơn. Em sẽ luôn yêu thương chú chó nhỏ này mãi mãi.",
+        "dictionary": {
+            "ngôi nhà": "房子",
+            "thành viên": "成员",
+            "đặc biệt": "特别",
+            "chú chó": "小狗",
+            "Vàng": "黄黄",
+            "quà": "礼物",
+            "sinh nhật": "生日",
+            "bố": "爸爸",
+            "tặng": "送",
+            "em": "我",
+            "tuổi": "岁",
+            "ngày": "天",
+            "gia đình": "家庭",
+            "vui vẻ": "快乐",
+            "tiếng cười": "笑声",
+            "bình thường": "普通",
+            "đắt tiền": "昂贵",
+            "lông": "毛",
+            "màu vàng": "黄色",
+            "đẹp": "漂亮",
+            "nhỏ": "小",
+            "cục bông": "棉花团",
+            "lớn": "大",
+            "khỏe mạnh": "健康",
+            "ngắn": "短",
+            "dày": "厚",
+            "mượt": "顺滑",
+            "vuốt ve": "抚摸",
+            "dễ chịu": "舒服",
+            "đầu": "头",
+            "tròn": "圆",
+            "đôi mắt": "双眼",
+            "đen": "黑",
+            "sáng": "亮",
+            "mũi": "鼻子",
+            "ướt": "湿",
+            "tai": "耳朵",
+            "vểnh": "竖",
+            "nghe": "听",
+            "tiếng động": "声响",
+            "xung quanh": "周围",
+            "chân": "脚",
+            "chắc khỏe": "结实",
+            "chạy nhảy": "奔跑跳跃",
+            "nhanh nhẹn": "敏捷",
+            "sân": "院子",
+            "đuôi": "尾巴",
+            "dài": "长",
+            "cong": "弯",
+            "vẫy": "摇",
+            "liên tục": "不停",
+            "ham ăn": "贪吃",
+            "bát cơm": "饭碗",
+            "ăn": "吃",
+            "nhanh": "快",
+            "thích": "喜欢",
+            "thịt": "肉",
+            "xương": "骨头",
+            "no": "饱",
+            "tìm": "找",
+            "chơi": "玩",
+            "ném": "扔",
+            "bóng": "球",
+            "nhặt": "捡",
+            "ngậm": "衔",
+            "mang": "带",
+            "đặt": "放",
+            "người": "人",
+            "đòi": "要求",
+            "kêu": "叫",
+            "gừ gừ": "咕噜声",
+            "buổi trưa": "中午",
+            "nằm": "躺",
+            "ngủ": "睡",
+            "nắng": "阳光",
+            "bình yên": "平静",
+            "đáng yêu": "可爱",
+            "bảo vệ": "保护",
+            "trung thành": "忠诚",
+            "lạ": "陌生",
+            "cổng": "大门",
+            "sủa": "吠",
+            "vang": "响",
+            "nhiệm vụ": "任务",
+            "giữ nhà": "看家",
+            "đi học": "上学",
+            "đứng": "站",
+            "đợi": "等",
+            "mừng rỡ": "高兴",
+            "dụi": "蹭",
+            "buồn": " buồn",
+            "cạnh": "旁边",
+            "liếm": "舔",
+            "tay": "手",
+            "chăm sóc": "照顾",
+            "ấm áp": "温暖",
+            "hạnh phúc": "幸福",
+            "con vật": "动物",
+            "nuôi": "养",
+            "bạn": "朋友",
+            "thân thiết": "亲密",
+            "thiếu": "缺少",
+            "niềm vui": "快乐",
+            "cảm giác": "感觉",
+            "an toàn": "安全",
+            "yêu quý": "喜爱",
+            "hứa": "承诺",
+            "đầy đủ": "充足",
+            "thời gian": "时间",
+            "hy vọng": "希望",
+            "sống": "活",
+            "lâu": "久",
+            "tự hào": "自豪",
+            "trôi qua": "流逝",
+            "tình cảm": "感情",
+            "gắn bó": " gắn bó",
+            "yêu thương": "爱护",
+            "mãi mãi": "永远"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Vàng là một chú chó rất thông minh.",
+                    "Vàng, một chú chó nhỏ, rất đáng yêu.",
+                    "Vàng chú chó nhỏ rất đáng yêu.",
+                    "Chú chó Vàng rất đáng yêu."
+                ],
+                "correct": "Vàng chú chó nhỏ rất đáng yêu."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Vàng chạy nhảy nhanh nhẹn trong sân.",
+                    "Vàng chạy nhảy nhanh nhẹn ở trong sân.",
+                    "Vàng chạy nhảy nhanh nhẹn sân.",
+                    "Trong sân, Vàng chạy nhảy rất nhanh nhẹn."
+                ],
+                "correct": "Vàng chạy nhảy nhanh nhẹn sân."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Mỗi khi em đưa bát cơm, nó ăn rất nhanh.",
+                    "Nó ăn rất nhanh mỗi khi em đưa bát cơm.",
+                    "Mỗi khi em đưa bát cơm thì nó ăn rất nhanh.",
+                    "Nó ăn rất nhanh mỗi khi em đưa bát cơm cho nó ăn."
+                ],
+                "correct": "Nó ăn rất nhanh mỗi khi em đưa bát cơm cho nó ăn."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Vàng là món quà sinh nhật bố tặng em.",
+                    "Vàng là quà sinh nhật bố tặng em khi em bảy tuổi.",
+                    "Vàng quà sinh nhật bố tặng em khi em bảy tuổi.",
+                    "Khi em bảy tuổi, bố tặng em chú chó Vàng."
+                ],
+                "correct": "Vàng quà sinh nhật bố tặng em khi em bảy tuổi."
+            },
+            {
+                "question": "Ai là người đã tặng chú chó Vàng cho nhân vật “em”?",
+                "options": [
+                    "Mẹ",
+                    "Bố",
+                    "Anh trai",
+                    "Ông nội"
+                ],
+                "correct": "Bố"
+            },
+            {
+                "question": "Nhân vật “em” được bao nhiêu tuổi khi nhận được chú chó Vàng?",
+                "options": [
+                    "Năm tuổi",
+                    "Sáu tuổi",
+                    "Bảy tuổi",
+                    "Tám tuổi"
+                ],
+                "correct": "Bảy tuổi"
+            },
+            {
+                "question": "Vàng thường nằm ngủ ở đâu vào buổi trưa?",
+                "options": [
+                    "Trong phòng khách",
+                    "Dưới gầm giường",
+                    "Ở góc sân dưới nắng",
+                    "Trên thảm trước cửa"
+                ],
+                "correct": "Ở góc sân dưới nắng"
+            },
+            {
+                "question": "Vàng thường làm gì khi thấy người lạ đến trước cổng?",
+                "options": [
+                    "Chạy ra đón",
+                    "Vểnh tai nghe và sủa vang",
+                    "Nằm im không động đậy",
+                    "Chạy vào nhà trốn"
+                ],
+                "correct": "Vểnh tai nghe và sủa vang"
+            },
+            {
+                "question": "Đặc điểm nào của bộ lông chú chó Vàng được nhắc đến trong bài?",
+                "options": [
+                    "Dài, mượt và màu đen",
+                    "Ngắn, dày và rất mượt",
+                    "Dài, xù và màu trắng",
+                    "Ngắn, thưa và màu nâu"
+                ],
+                "correct": "Ngắn, dày và rất mượt"
+            },
+            {
+                "question": "Trạng thái của chiếc mũi chú chó Vàng như thế nào?",
+                "options": [
+                    "Lúc nào cũng khô",
+                    "Lúc nào cũng ướt",
+                    "Lúc nào cũng lạnh",
+                    "Lúc nào cũng nóng"
+                ],
+                "correct": "Lúc nào cũng ướt"
+            },
+            {
+                "question": "Hoạt động nào của Vàng thể hiện sự vui vẻ khi được vuốt ve?",
+                "options": [
+                    "Sủa vang",
+                    "Vẫy đuôi liên tục",
+                    "Kêu gừ gừ",
+                    "Chạy nhảy quanh sân"
+                ],
+                "correct": "Kêu gừ gừ"
+            },
+            {
+                "question": "Vàng thường làm gì khi nhân vật “em” cảm thấy buồn?",
+                "options": [
+                    "Nằm cạnh và liếm nhẹ vào tay",
+                    "Sủa vang để an ủi",
+                    "Chạy đi nhặt bóng",
+                    "Đứng đợi ở cổng"
+                ],
+                "correct": "Nằm cạnh và liếm nhẹ vào tay"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Căn phòng nhỏ của em",
+        "text": "Tuổi thơ của em có nhiều kỉ niệm đẹp. Thứ gắn bó với em nhất là căn phòng nhỏ của mình. Căn phòng của em nằm ở tầng hai của ngôi nhà. Cửa phòng làm bằng gỗ màu nâu bóng. Phòng không quá lớn, rộng khoảng hai mươi mét vuông. Tường phòng được sơn màu hồng rất nhẹ nhàng và đẹp mắt.\n\nPhía trong cùng của căn phòng là một chiếc giường nhỏ. Trên giường có đệm hình chú mèo Doraemon mà em rất yêu thích. Mỗi khi nằm trên giường, em cảm thấy rất thoải mái và dễ ngủ. Phía bên trái giường là một chiếc bàn nhỏ để đồ đạc. Bên phải giường có một chiếc đèn ngủ hình cây nấm trông rất ngộ nghĩnh. Cửa sổ của phòng nằm ở cuối phòng. Cửa sổ có rèm màu hồng giống màu tường. Em thường mở cửa sổ để nhìn ra khu vườn sau nhà. Ở đó có nhiều hoa hồng và hoa nhài thơm ngát do mẹ trồng.\n\nBàn học của em được đặt ngay cạnh cửa sổ để có nhiều ánh sáng tự nhiên. Trên bàn có giá sách rất gọn gàng. Em để sách giáo khoa, vở và bút vào từng ngăn riêng biệt. Nhờ đó, em có thể tìm đồ dùng học tập rất nhanh. Trên giá sách còn có một tủ kính nhỏ. Em để những món quà lưu niệm của bạn bè và bố mẹ trong tủ đó. Phía cuối giường là tủ quần áo lớn. Tủ có ngăn để treo áo sơ mi và ngăn để gấp quần áo hàng ngày.\n\nTrên tường phòng, em còn treo thêm hai kệ gỗ. Một kệ hình ngôi nhà, dùng để đựng những cuốn sách em yêu thích như truyện thiếu nhi hay sách kĩ năng sống. Kệ còn lại hình lưới, là nơi em đặt những chậu sen đá nhỏ và vài chú gấu bông xinh xắn. Điểm đặc biệt nhất của căn phòng nằm ở trên trần nhà. Em dán rất nhiều hình mặt trăng và ngôi sao dạ quang lên đó. Mỗi khi tắt đèn, cả căn phòng như biến thành một bầu trời đêm lấp lánh. Em cảm thấy như mình đang lạc vào dải ngân hà rất đẹp.\n\nCăn phòng giống như một người bạn thân thiết của em. Nó đã cùng em trải qua nhiều niềm vui và nỗi buồn trong cuộc sống. Vì rất yêu quý căn phòng nên ngày nào em cũng dọn dẹp sạch sẽ. Em luôn giữ cho không gian sống của mình ngăn nắp và khoa học. Em dành rất nhiều thời gian để học bài và đọc sách ở đây. Căn phòng nhỏ này là nơi em thấy bình yên nhất sau mỗi ngày đi học về. Em hứa sẽ luôn chăm sóc căn phòng thật tốt. Căn phòng sẽ luôn ở bên cạnh, cùng em lớn lên mỗi ngày. Em rất tự hào và hạnh phúc khi có một không gian riêng tư tuyệt vời như thế này trong ngôi nhà của mình.",
+        "dictionary": {
+            "tuổi thơ": "童年",
+            "kỉ niệm": "回忆",
+            "đẹp": "美",
+            "gắn bó": " gắn bó",
+            "căn phòng": "房间",
+            "nhỏ": "小",
+            "tầng": "层",
+            "ngôi nhà": "房子",
+            "cửa phòng": "房门",
+            "làm": "做",
+            "gỗ": "木",
+            "màu nâu": "棕色",
+            "bóng": "亮",
+            "lớn": "大",
+            "rộng": "宽",
+            "hai mươi": "二十",
+            "mét vuông": "平方米",
+            "tường": "墙",
+            "sơn": "刷",
+            "màu hồng": "粉色",
+            "nhẹ nhàng": "轻柔",
+            "đẹp mắt": "好看",
+            "phía": "边",
+            "chiếc giường": "床",
+            "đệm": "垫子",
+            "hình": "形状",
+            "chú mèo": "小猫",
+            "Doraemon": "哆啦A梦",
+            "yêu thích": "喜爱",
+            "nằm": "躺",
+            "cảm thấy": "感到",
+            "thoải mái": "舒适",
+            "dễ ngủ": "易睡",
+            "bên trái": "左边",
+            "bàn": "桌子",
+            "đồ đạc": "物品",
+            "bên phải": "右边",
+            "đèn ngủ": "小夜灯",
+            "cây nấm": "蘑菇",
+            "ngộ nghĩnh": "可爱",
+            "cửa sổ": "窗户",
+            "cuối": "尽头",
+            "rèm": "窗帘",
+            "giống": "像",
+            "mở": "打开",
+            "nhìn": "看",
+            "khu vườn": "花园",
+            "hoa hồng": "玫瑰花",
+            "hoa nhài": "茉莉花",
+            "thơm ngát": "芬芳",
+            "mẹ": "妈妈",
+            "trồng": "种",
+            "bàn học": "书桌",
+            "đặt": "放",
+            "cạnh": "旁边",
+            "ánh sáng": "光线",
+            "tự nhiên": "自然",
+            "giá sách": "书架",
+            "gọn gàng": "整洁",
+            "sách giáo khoa": "教科书",
+            "vở": "练习本",
+            "bút": "笔",
+            "ngăn": "格",
+            "riêng biệt": "分开",
+            "tìm": "找",
+            "đồ dùng": "用具",
+            "học tập": "学习",
+            "nhanh": "快",
+            "tủ kính": "玻璃柜",
+            "món quà": "礼物",
+            "lưu niệm": "纪念",
+            "bạn bè": "朋友",
+            "bố mẹ": "父母",
+            "tủ quần áo": "衣柜",
+            "treo": "挂",
+            "áo sơ mi": "衬衫",
+            "gấp": "折叠",
+            "quần áo": "衣服",
+            "hàng ngày": "每天",
+            "kệ": "架子",
+            "đựng": "装",
+            "truyện thiếu nhi": "儿童故事",
+            "kĩ năng sống": "生活技能",
+            "lưới": "网格",
+            "chậu": "盆",
+            "sen đá": "多肉植物",
+            "gấu bông": "泰迪熊",
+            "xinh xắn": "漂亮",
+            "điểm": "点",
+            "đặc biệt": "特别",
+            "trần nhà": "天花板",
+            "dán": "贴",
+            "mặt trăng": "月亮",
+            "ngôi sao": "星星",
+            "dạ quang": "夜光",
+            "tắt": "关",
+            "biến thành": "变成",
+            "bầu trời": "天空",
+            "đêm": "夜",
+            "lấp lánh": "闪烁",
+            "lạc": "迷失",
+            "dải ngân hà": "银河",
+            "người bạn": "朋友",
+            "thân thiết": "亲密",
+            "trải qua": "经历",
+            "niềm vui": "快乐",
+            "nỗi buồn": "悲伤",
+            "cuộc sống": "生活",
+            "yêu quý": "爱护",
+            "dọn dẹp": "打扫",
+            "sạch sẽ": "干净",
+            "giữ": "保持",
+            "không gian": "空间",
+            "ngăn nắp": "整齐",
+            "khoa học": "科学",
+            "dành": "花费",
+            "thời gian": "时间",
+            "đọc sách": "看书",
+            "bình yên": "平静",
+            "hứa": "承诺",
+            "chăm sóc": "照顾",
+            "tốt": "好",
+            "lớn lên": "长大",
+            "tự hào": "自豪",
+            "hạnh phúc": "幸福",
+            "riêng tư": "私密",
+            "tuyệt vời": "绝妙"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Căn phòng của em nằm ở tầng hai của ngôi nhà.",
+                    "Tường phòng được sơn màu hồng rất nhẹ nhàng và đẹp mắt.",
+                    "Trên giường có đệm hình chú mèo Doraemon mà em rất yêu thích.",
+                    "Căn phòng nhỏ này là nơi em thấy bình yên nhất sau mỗi ngày đi học về."
+                ],
+                "correct": "Căn phòng nhỏ này là nơi em thấy bình yên nhất sau mỗi ngày đi học về."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng về mặt ngữ pháp?",
+                "options": [
+                    "Bàn học của em được đặt ngay cạnh cửa sổ để có nhiều ánh sáng tự nhiên.",
+                    "Trên bàn có giá sách rất gọn gàng là.",
+                    "Em để sách giáo khoa, vở và bút vào từng ngăn riêng biệt là.",
+                    "Tủ có ngăn để treo áo sơ mi và ngăn để gấp quần áo hàng ngày là."
+                ],
+                "correct": "Bàn học của em được đặt ngay cạnh cửa sổ để có nhiều ánh sáng tự nhiên."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Mỗi khi tắt đèn, cả căn phòng như biến thành một bầu trời đêm lấp lánh.",
+                    "Em dán rất nhiều hình mặt trăng và ngôi sao dạ quang lên đó.",
+                    "Vì rất yêu quý căn phòng nên ngày nào em cũng dọn dẹp sạch sẽ.",
+                    "Căn phòng nhỏ này là nơi em thấy bình yên nhất sau mỗi ngày đi học về."
+                ],
+                "correct": "Căn phòng nhỏ này là nơi em thấy bình yên nhất sau mỗi ngày đi học về."
+            },
+            {
+                "question": "Căn phòng nhỏ của nhân vật chính nằm ở vị trí nào trong ngôi nhà?",
+                "options": [
+                    "Tầng một",
+                    "Tầng hai",
+                    "Tầng ba",
+                    "Tầng áp mái"
+                ],
+                "correct": "Tầng hai"
+            },
+            {
+                "question": "Mẹ của nhân vật chính đã trồng những loại hoa gì ở khu vườn sau nhà?",
+                "options": [
+                    "Hoa hồng và hoa cúc",
+                    "Hoa nhài và hoa lan",
+                    "Hoa hồng và hoa nhài",
+                    "Hoa hướng dương và hoa hồng"
+                ],
+                "correct": "Hoa hồng và hoa nhài"
+            },
+            {
+                "question": "Đồ vật nào được đặt ở bên phải chiếc giường trong căn phòng?",
+                "options": [
+                    "Một chiếc bàn nhỏ",
+                    "Một chiếc đèn ngủ hình cây nấm",
+                    "Một chiếc tủ quần áo lớn",
+                    "Một giá sách nhỏ"
+                ],
+                "correct": "Một chiếc đèn ngủ hình cây nấm"
+            },
+            {
+                "question": "Tường của căn phòng được sơn màu gì?",
+                "options": [
+                    "Màu xanh",
+                    "Màu trắng",
+                    "Màu hồng",
+                    "Màu vàng"
+                ],
+                "correct": "Màu hồng"
+            },
+            {
+                "question": "Kệ gỗ hình ngôi nhà được dùng để làm gì?",
+                "options": [
+                    "Đựng những cuốn sách yêu thích",
+                    "Đặt chậu sen đá",
+                    "Để gấu bông",
+                    "Để quà lưu niệm"
+                ],
+                "correct": "Đựng những cuốn sách yêu thích"
+            },
+            {
+                "question": "Điều gì tạo nên hiệu ứng bầu trời đêm lấp lánh trong căn phòng?",
+                "options": [
+                    "Đèn ngủ hình cây nấm",
+                    "Cửa sổ nhìn ra vườn",
+                    "Những hình mặt trăng và ngôi sao dạ quang trên trần",
+                    "Màu sơn tường hồng"
+                ],
+                "correct": "Những hình mặt trăng và ngôi sao dạ quang trên trần"
+            },
+            {
+                "question": "Nhân vật chính cảm thấy như thế nào khi nằm trên chiếc giường có đệm hình chú mèo Doraemon?",
+                "options": [
+                    "Rất thoải mái và dễ ngủ",
+                    "Rất phấn khích và muốn đọc sách",
+                    "Cảm thấy căn phòng quá nhỏ",
+                    "Cảm thấy buồn vì nhớ bạn bè"
+                ],
+                "correct": "Rất thoải mái và dễ ngủ"
+            },
+            {
+                "question": "Tại sao nhân vật chính lại đặt bàn học ngay cạnh cửa sổ?",
+                "options": [
+                    "Để nhìn thấy khu vườn",
+                    "Để có nhiều ánh sáng tự nhiên",
+                    "Để gần giá sách",
+                    "Để tiện mở cửa sổ"
+                ],
+                "correct": "Để có nhiều ánh sáng tự nhiên"
+            },
+            {
+                "question": "Nhân vật chính thường làm gì để giữ gìn căn phòng của mình?",
+                "options": [
+                    "Sơn lại tường hàng năm",
+                    "Thay đổi vị trí đồ đạc thường xuyên",
+                    "Dọn dẹp sạch sẽ hàng ngày",
+                    "Mua thêm nhiều gấu bông"
+                ],
+                "correct": "Dọn dẹp sạch sẽ hàng ngày"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
