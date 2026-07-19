@@ -1726,5 +1726,227 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Người bạn thân của em",
+        "text": "Mọi người thường nói bạn thân là người có cùng sở thích và hay chơi cùng nhau. Trong lớp, các bạn nữ thường chơi với bạn nữ, các bạn nam thường chơi với bạn nam. Nhưng bạn thân của em lại là một bạn nam, tên là Thiên. Dù chúng em khác giới tính nhưng vẫn chơi với nhau rất vui vẻ. Thiên là một người bạn rất tốt và luôn giúp đỡ em trong cuộc sống hằng ngày.\n\nMẹ em nói tên của Thiên có nghĩa là bầu trời cao rộng. Tính cách của cậu ấy cũng giống như cái tên vậy. Thiên luôn bảo vệ và che chở cho em. Cậu ấy không bao giờ để các bạn khác trong lớp bắt nạt em. Thiên có dáng người cao và khỏe khoắn. Nước da của cậu ấy hơi ngăm vì nắng vì gió. Đó là kết quả của những ngày tháng chúng em cùng chạy đua, thả diều trên cánh đồng hoặc đi chơi trong những chiều hè nắng gắt. Thiên có đôi mắt sáng và luôn vui vẻ. Cậu ấy còn có giọng hát rất hay nên ai cũng gọi cậu ấy là cây văn nghệ của lớp.\n\nNgày đầu mới vào lớp, nhiều bạn thắc mắc tại sao em và Thiên lại chơi thân với nhau. Mọi người nói rằng nam nữ chơi thân với nhau thật lạ. Những lúc đó, Thiên chỉ cười và không nói gì. Dần dần, các bạn cũng quen và không hỏi nữa. Chúng em chơi thân với nhau vì có cùng sở thích. Hơn nữa, gia đình chúng em là hàng xóm của nhau. Bố mẹ hai nhà rất thân thiết nên chúng em đã biết nhau từ khi còn bé xíu.\n\nThiên là một người rất chu đáo và hay quan tâm đến người khác. Mỗi lần em phải ở lại trực nhật, cậu ấy đều ở lại phụ giúp em. Khi Thiên phải ở lại làm việc, cậu ấy bảo em về trước đi nhưng em không chịu. Em luôn ở lại để cùng làm với cậu ấy. Hai đứa nhìn nhau cười rồi cùng làm việc rất nhanh. Mỗi khi có món quà hay đồ chơi gì mới, Thiên cũng mang sang nhà chia sẻ với em.\n\nChúng em thân nhau như hình với bóng. Em nhớ có một lần Thiên đi chơi cùng gia đình xa nhà, em đã khóc rất nhiều vì muốn đi theo. Bố mẹ dỗ thế nào em cũng không nghe. Chỉ khi Thiên hứa sẽ về sớm và mua quà cho em, em mới chịu nín khóc. Bây giờ nhớ lại chuyện cũ, em thấy mình lúc đó thật trẻ con.\n\nHiện nay, chúng em đều đã lớn hơn nhưng vẫn chơi thân với nhau như ngày nào. Em rất quý Thiên và mong rằng tình bạn này sẽ luôn bền chặt mãi mãi. Thiên không chỉ là một người bạn hàng xóm mà còn là người bạn thân thiết nhất của em. Em hy vọng sau này khi đã trưởng thành, chúng em vẫn sẽ luôn đồng hành và chia sẻ cùng nhau mọi niềm vui, nỗi buồn trong cuộc sống.",
+        "dictionary": {
+            "mọi người": "大家",
+            "nói": "说",
+            "bạn thân": "好朋友",
+            "người": "人",
+            "sở thích": "爱好",
+            "chơi": "玩",
+            "lớp": "班级",
+            "bạn nữ": "女同学",
+            "bạn nam": "男同学",
+            "Thiên": "天",
+            "giới tính": "性别",
+            "vui vẻ": "快乐",
+            "tốt": "好",
+            "giúp đỡ": "帮助",
+            "cuộc sống": "生活",
+            "hằng ngày": "日常",
+            "mẹ": "妈妈",
+            "tên": "名字",
+            "nghĩa": "意思",
+            "bầu trời": "天空",
+            "cao rộng": "广阔",
+            "tính cách": "性格",
+            "cậu ấy": "他",
+            "giống": "像",
+            "bảo vệ": "保护",
+            "che chở": "呵护",
+            "bắt nạt": "欺负",
+            "dáng người": "身材",
+            "cao": "高",
+            "khỏe khoắn": "健壮",
+            "nước da": "肤色",
+            "ngăm": "黝黑",
+            "nắng": "阳光",
+            "gió": "风",
+            "kết quả": "结果",
+            "ngày tháng": "日子",
+            "chạy đua": "赛跑",
+            "thả diều": "放风筝",
+            "cánh đồng": "田野",
+            "chiều hè": "夏日午后",
+            "nắng gắt": "烈日",
+            "đôi mắt": "双眼",
+            "sáng": "明亮",
+            "giọng hát": "歌声",
+            "hay": "好听",
+            "cây văn nghệ": "文艺骨干",
+            "thắc mắc": "疑惑",
+            "lạ": "奇怪",
+            "cười": "笑",
+            "dần dần": "渐渐",
+            "quen": "习惯",
+            "hỏi": "问",
+            "gia đình": "家庭",
+            "hàng xóm": "邻居",
+            "bố mẹ": "父母",
+            "thân thiết": "亲密",
+            "bé xíu": "幼小",
+            "chu đáo": "周到",
+            "quan tâm": "关心",
+            "trực nhật": "值日",
+            "phụ giúp": "帮忙",
+            "làm việc": "工作",
+            "về": "回",
+            "chịu": "愿意",
+            "nhanh": "快",
+            "món quà": "礼物",
+            "đồ chơi": "玩具",
+            "mới": "新",
+            "mang": "带",
+            "chia sẻ": "分享",
+            "hình": "影",
+            "bóng": "形",
+            "nhớ": "记得",
+            "khóc": "哭",
+            "dỗ": "哄",
+            "nghe": "听",
+            "hứa": "答应",
+            "sớm": "早",
+            "mua": "买",
+            "nín": "止住",
+            "chuyện cũ": "往事",
+            "trẻ con": "幼稚",
+            "lớn": "长大",
+            "quý": "珍惜",
+            "mong": "希望",
+            "tình bạn": "友谊",
+            "bền chặt": "稳固",
+            "mãi mãi": "永远",
+            "trưởng thành": "成熟",
+            "đồng hành": "陪伴",
+            "niềm vui": "快乐",
+            "nỗi buồn": "悲伤"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Thiên là một người bạn rất tốt và luôn giúp đỡ em.",
+                    "Vì Thiên là bạn thân, nên em rất quý cậu ấy.",
+                    "Thiên có dáng người cao, khỏe khoắn và đôi mắt sáng.",
+                    "Mặc dù chúng em khác giới tính, nhưng vẫn chơi với nhau rất vui vẻ."
+                ],
+                "correct": "Mặc dù chúng em khác giới tính, nhưng vẫn chơi với nhau rất vui vẻ."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Thiên là bạn thân của em, cậu ấy rất tốt bụng.",
+                    "Thiên là bạn thân của em, và cậu ấy rất tốt bụng.",
+                    "Thiên là bạn thân của em, nhưng cậu ấy rất tốt bụng.",
+                    "Thiên là bạn thân của em, vì cậu ấy rất tốt bụng."
+                ],
+                "correct": "Thiên là bạn thân của em, cậu ấy rất tốt bụng."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Mẹ nói rằng tên của Thiên có nghĩa là bầu trời cao rộng.",
+                    "Thiên luôn bảo vệ và che chở cho em mỗi khi bị bắt nạt.",
+                    "Cậu ấy có dáng người cao, khỏe khoắn và nước da ngăm.",
+                    "Mọi người nói rằng nam nữ chơi thân với nhau thật là lạ."
+                ],
+                "correct": "Thiên luôn bảo vệ và che chở cho em mỗi khi bị bắt nạt."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Bố mẹ hai nhà rất thân thiết nên chúng em đã biết nhau từ bé.",
+                    "Bố mẹ hai nhà rất thân thiết, nên chúng em đã biết nhau từ bé.",
+                    "Bố mẹ hai nhà rất thân thiết, vì thế chúng em đã biết nhau từ bé.",
+                    "Tất cả các câu trên đều đúng ngữ pháp."
+                ],
+                "correct": "Tất cả các câu trên đều đúng ngữ pháp."
+            },
+            {
+                "question": "Bạn thân của người kể chuyện trong bài đọc tên là gì?",
+                "options": [
+                    "Hùng",
+                    "Thiên",
+                    "Nam",
+                    "Tuấn"
+                ],
+                "correct": "Thiên"
+            },
+            {
+                "question": "Tại sao Thiên và người kể chuyện lại quen biết nhau từ khi còn bé xíu?",
+                "options": [
+                    "Vì học chung trường mẫu giáo",
+                    "Vì là anh em họ hàng",
+                    "Vì gia đình hai nhà là hàng xóm của nhau",
+                    "Vì cùng tham gia một câu lạc bộ"
+                ],
+                "correct": "Vì gia đình hai nhà là hàng xóm của nhau"
+            },
+            {
+                "question": "Ai là người đã giải thích ý nghĩa tên của Thiên cho người kể chuyện?",
+                "options": [
+                    "Bố của Thiên",
+                    "Mẹ của người kể chuyện",
+                    "Cô giáo chủ nhiệm",
+                    "Chính Thiên tự giải thích"
+                ],
+                "correct": "Mẹ của người kể chuyện"
+            },
+            {
+                "question": "Khi nào người kể chuyện đã khóc rất nhiều vì Thiên?",
+                "options": [
+                    "Khi Thiên không chia sẻ đồ chơi mới",
+                    "Khi Thiên đi chơi cùng gia đình xa nhà",
+                    "Khi Thiên bị các bạn khác trong lớp bắt nạt",
+                    "Khi Thiên không chịu ở lại trực nhật cùng"
+                ],
+                "correct": "Khi Thiên đi chơi cùng gia đình xa nhà"
+            },
+            {
+                "question": "Đặc điểm ngoại hình nào của Thiên được nhắc đến trong bài?",
+                "options": [
+                    "Dáng người cao, khỏe khoắn và nước da hơi ngăm",
+                    "Dáng người nhỏ nhắn và nước da trắng trẻo",
+                    "Dáng người cao, gầy và đôi mắt đeo kính",
+                    "Dáng người đậm đà và mái tóc xoăn"
+                ],
+                "correct": "Dáng người cao, khỏe khoắn và nước da hơi ngăm"
+            },
+            {
+                "question": "Tại sao Thiên được các bạn trong lớp gọi là “cây văn nghệ”?",
+                "options": [
+                    "Vì Thiên học giỏi môn âm nhạc",
+                    "Vì Thiên biết chơi nhiều loại nhạc cụ",
+                    "Vì Thiên có giọng hát rất hay",
+                    "Vì Thiên thường xuyên tổ chức các buổi biểu diễn"
+                ],
+                "correct": "Vì Thiên có giọng hát rất hay"
+            },
+            {
+                "question": "Tính cách của Thiên được miêu tả như thế nào trong bài đọc?",
+                "options": [
+                    "Nóng nảy và hay cáu gắt",
+                    "Chu đáo, hay quan tâm và luôn bảo vệ người khác",
+                    "Lạnh lùng và ít khi giao tiếp với mọi người",
+                    "Nhút nhát và không thích tham gia hoạt động tập thể"
+                ],
+                "correct": "Chu đáo, hay quan tâm và luôn bảo vệ người khác"
+            },
+            {
+                "question": "Người kể chuyện mong muốn điều gì về tình bạn với Thiên trong tương lai?",
+                "options": [
+                    "Sẽ cùng nhau đi du học ở nước ngoài",
+                    "Sẽ luôn đồng hành và chia sẻ mọi niềm vui, nỗi buồn",
+                    "Sẽ trở thành đồng nghiệp trong cùng một công ty",
+                    "Sẽ quên đi những kỷ niệm thời thơ ấu"
+                ],
+                "correct": "Sẽ luôn đồng hành và chia sẻ mọi niềm vui, nỗi buồn"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
