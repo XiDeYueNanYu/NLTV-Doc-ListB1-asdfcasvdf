@@ -1948,5 +1948,265 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Công viên Lê Văn Tám của em",
+        "text": "Ở trung tâm thành phố nơi em sống có một công viên rất lớn tên là Lê Văn Tám. Đây là nơi em yêu thích nhất. Mỗi cuối tuần, em thường đến đây để chơi và thư giãn. Công viên giống như một không gian xanh mát giữa những con phố đông đúc và nhiều xe cộ.\n\nTừ xa nhìn lại, công viên như một chiếc thảm màu xanh khổng lồ. Công viên có rất nhiều cây lớn. Những cây này có thân to và tán lá rộng. Nhờ có nhiều cây, không khí ở đây rất trong lành và mát mẻ. Ngay cả khi ngoài phố ồn ào, trong công viên vẫn rất yên bình.\n\nCổng công viên được xây bằng đá màu xám. Qua cổng là con đường lát gạch sạch sẽ. Hai bên đường có nhiều thảm cỏ xanh. Những bông hoa hồng, hoa cúc khoe sắc rực rỡ và có mùi thơm nhẹ. Dưới gốc cây, những thảm cỏ mềm mại là nơi mọi người thường ngồi nghỉ ngơi, đọc sách hoặc nói chuyện với nhau.\n\nỞ giữa công viên có một hồ nước. Mặt hồ phẳng lặng như một tấm gương lớn. Dưới hồ có những chú cá nhỏ bơi lội. Giữa hồ còn có một đài phun nước nhỏ. Mỗi buổi chiều, đài phun nước tạo ra những tia nước trắng xóa và tiếng nước chảy rất vui tai.\n\nKhu vui chơi ở góc công viên luôn có tiếng cười. Các bạn nhỏ chơi xích đu, cầu trượt và bập bênh. Các bậc phụ huynh ngồi trên ghế đá gần đó để quan sát con cái. Không khí ở đây lúc nào cũng rộn ràng và vui vẻ.\n\nDọc theo các lối đi là những vườn hoa đẹp. Màu vàng của hoa cúc, màu hồng của hoa hồng và màu tím của hoa loa kèn làm cho công viên thêm rực rỡ. Những chú bướm bay lượn và những chú chim hót líu lo trên cành cây. Tất cả tạo nên một khung cảnh thiên nhiên rất đẹp.\n\nVào buổi sáng sớm, công viên rất nhộn nhịp. Nhiều người đến đây để tập thể dục. Các bác đi bộ, các cô chú chạy bộ quanh hồ, còn các cụ già tập dưỡng sinh. Đến buổi trưa, mọi người chọn công viên làm nơi nghỉ chân, đọc sách hoặc ngắm cảnh. Khi chiều về, công viên lại đông đúc gia đình dắt con đi chơi. Các bạn trẻ cũng thường tụ tập hóng mát dưới những tán cây lớn.\n\nCông viên Lê Văn Tám không chỉ là nơi vui chơi mà còn là không gian xanh rất quý giá của thành phố. Em rất yêu công viên này. Nơi đây giữ lại nhiều kỷ niệm đẹp của em. Em mong mọi người cùng nhau giữ gìn công viên luôn sạch sẽ và đẹp đẽ. Đây mãi mãi là điểm dừng chân lý tưởng cho tất cả mọi người trong thành phố của em. Em rất hạnh phúc khi được đến đây mỗi ngày để tận hưởng không khí trong lành và vẻ đẹp của thiên nhiên.",
+        "dictionary": {
+            "trung tâm": "中心",
+            "thành phố": "城市",
+            "nơi": "地方",
+            "em": "我",
+            "sống": "居住",
+            "công viên": "公园",
+            "lớn": "大",
+            "tên": "名字",
+            "Lê Văn Tám": "黎文八",
+            "yêu thích": "喜爱",
+            "cuối tuần": "周末",
+            "thường": "经常",
+            "đến": "来到",
+            "chơi": "玩耍",
+            "thư giãn": "放松",
+            "giống": "像",
+            "không gian": "空间",
+            "xanh mát": "清凉翠绿",
+            "phố": "街道",
+            "đông đúc": "拥挤",
+            "xe cộ": "车辆",
+            "xa": "远",
+            "nhìn": "看",
+            "chiếc thảm": "地毯",
+            "màu xanh": "绿色",
+            "khổng lồ": "巨大",
+            "cây": "树",
+            "thân": "树干",
+            "to": "粗",
+            "tán lá": "树冠",
+            "rộng": "宽",
+            "không khí": "空气",
+            "trong lành": "清新",
+            "mát mẻ": "凉爽",
+            "ồn ào": "嘈杂",
+            "yên bình": "宁静",
+            "cổng": "大门",
+            "xây": "建造",
+            "đá": "石头",
+            "xám": "灰色",
+            "con đường": "道路",
+            "lát": "铺",
+            "gạch": "砖",
+            "sạch sẽ": "干净",
+            "hai bên": "两边",
+            "thảm cỏ": "草坪",
+            "bông hoa": "花朵",
+            "hoa hồng": "玫瑰花",
+            "hoa cúc": "菊花",
+            "khoe sắc": "争奇斗艳",
+            "rực rỡ": "灿烂",
+            "mùi thơm": "香味",
+            "nhẹ": "淡",
+            "gốc cây": "树根",
+            "mềm mại": "柔软",
+            "mọi người": "大家",
+            "ngồi": "坐",
+            "nghỉ ngơi": "休息",
+            "đọc sách": "看书",
+            "nói chuyện": "聊天",
+            "hồ nước": "湖",
+            "mặt hồ": "湖面",
+            "phẳng lặng": "平静",
+            "tấm gương": "镜子",
+            "cá": "鱼",
+            "nhỏ": "小",
+            "bơi lội": "游泳",
+            "đài phun nước": "喷泉",
+            "buổi chiều": "下午",
+            "tạo": "制造",
+            "tia nước": "水柱",
+            "trắng xóa": "雪白",
+            "tiếng": "声音",
+            "chảy": "流",
+            "vui tai": "悦耳",
+            "khu vui chơi": "游乐区",
+            "góc": "角落",
+            "cười": "笑",
+            "bạn nhỏ": "小朋友",
+            "xích đu": "秋千",
+            "cầu trượt": "滑梯",
+            "bập bênh": "跷跷板",
+            "bậc phụ huynh": "家长",
+            "ghế đá": "石椅",
+            "quan sát": "观察",
+            "con cái": "子女",
+            "rộn ràng": "热闹",
+            "vui vẻ": "快乐",
+            "lối đi": "通道",
+            "vườn hoa": "花园",
+            "đẹp": "美",
+            "vàng": "黄色",
+            "hồng": "粉红色",
+            "tím": "紫色",
+            "hoa loa kèn": "百合花",
+            "bướm": "蝴蝶",
+            "bay lượn": "飞舞",
+            "chim": "鸟",
+            "hót": "鸣叫",
+            "líu lo": "叽叽喳喳",
+            "cành cây": "树枝",
+            "khung cảnh": "景色",
+            "thiên nhiên": "自然",
+            "buổi sáng": "早晨",
+            "nhộn nhịp": "繁忙",
+            "tập thể dục": "锻炼",
+            "bác": "伯伯",
+            "đi bộ": "散步",
+            "cô chú": "叔叔阿姨",
+            "chạy bộ": "跑步",
+            "cụ già": "老人",
+            "dưỡng sinh": "养生",
+            "buổi trưa": "中午",
+            "chọn": "选择",
+            "nghỉ chân": "歇脚",
+            "ngắm cảnh": "赏景",
+            "gia đình": "家庭",
+            "dắt": "牵",
+            "bạn trẻ": "年轻人",
+            "tụ tập": "聚会",
+            "hóng mát": "乘凉",
+            "quý giá": "珍贵",
+            "kỷ niệm": "纪念",
+            "mong": "希望",
+            "giữ gìn": "保持",
+            "đẹp đẽ": "美丽",
+            "điểm dừng chân": "落脚点",
+            "lý tưởng": "理想",
+            "hạnh phúc": "幸福",
+            "tận hưởng": "享受"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Công viên Lê Văn Tám là nơi em yêu thích nhất.",
+                    "Mỗi cuối tuần, em thường đến đây để chơi và thư giãn.",
+                    "Công viên giống như một không gian xanh mát giữa những con phố đông đúc.",
+                    "Công viên Lê Văn Tám là nơi em yêu thích nhất và mỗi cuối tuần em đến chơi."
+                ],
+                "correct": "Công viên Lê Văn Tám là nơi em yêu thích nhất và mỗi cuối tuần em đến chơi."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Cổng công viên được xây bằng đá màu xám.",
+                    "Qua cổng là con đường lát gạch sạch sẽ.",
+                    "Hai bên đường có nhiều thảm cỏ xanh.",
+                    "Cổng công viên được xây bằng đá màu xám và qua cổng là con đường lát gạch sạch sẽ."
+                ],
+                "correct": "Cổng công viên được xây bằng đá màu xám và qua cổng là con đường lát gạch sạch sẽ."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Các bạn nhỏ chơi xích đu, cầu trượt và bập bênh.",
+                    "Các bậc phụ huynh ngồi trên ghế đá gần đó để quan sát con cái.",
+                    "Không khí ở đây lúc nào cũng rộn ràng và vui vẻ.",
+                    "Các bạn nhỏ chơi xích đu, cầu trượt và bập bênh các bậc phụ huynh ngồi trên ghế đá."
+                ],
+                "correct": "Các bạn nhỏ chơi xích đu, cầu trượt và bập bênh các bậc phụ huynh ngồi trên ghế đá."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Nhiều người đến đây để tập thể dục.",
+                    "Các bác đi bộ, các cô chú chạy bộ quanh hồ, còn các cụ già tập dưỡng sinh.",
+                    "Đến buổi trưa, mọi người chọn công viên làm nơi nghỉ chân.",
+                    "Nhiều người đến đây để tập thể dục các bác đi bộ các cô chú chạy bộ."
+                ],
+                "correct": "Nhiều người đến đây để tập thể dục các bác đi bộ các cô chú chạy bộ."
+            },
+            {
+                "question": "Công viên được nhắc đến trong bài đọc có tên là gì?",
+                "options": [
+                    "Công viên Thống Nhất",
+                    "Công viên Lê Văn Tám",
+                    "Công viên Tuổi Trẻ",
+                    "Công viên Gia Định"
+                ],
+                "correct": "Công viên Lê Văn Tám"
+            },
+            {
+                "question": "Đài phun nước nằm ở vị trí nào trong công viên?",
+                "options": [
+                    "Ở cổng công viên",
+                    "Ở góc khu vui chơi",
+                    "Ở giữa hồ nước",
+                    "Ở ven các lối đi"
+                ],
+                "correct": "Ở giữa hồ nước"
+            },
+            {
+                "question": "Ai là người thường ngồi trên ghế đá để quan sát con cái chơi đùa?",
+                "options": [
+                    "Các bạn nhỏ",
+                    "Các cụ già tập dưỡng sinh",
+                    "Các bậc phụ huynh",
+                    "Các bạn trẻ"
+                ],
+                "correct": "Các bậc phụ huynh"
+            },
+            {
+                "question": "Vào buổi sáng sớm, các cụ già thường làm gì ở công viên?",
+                "options": [
+                    "Chơi xích đu",
+                    "Tập dưỡng sinh",
+                    "Đọc sách",
+                    "Chạy bộ quanh hồ"
+                ],
+                "correct": "Tập dưỡng sinh"
+            },
+            {
+                "question": "Đặc điểm của không khí trong công viên được miêu tả như thế nào?",
+                "options": [
+                    "Ồn ào và bụi bặm",
+                    "Trong lành và mát mẻ",
+                    "Nóng bức và ngột ngạt",
+                    "Ẩm ướt và khó chịu"
+                ],
+                "correct": "Trong lành và mát mẻ"
+            },
+            {
+                "question": "Mặt hồ trong công viên được ví với hình ảnh nào?",
+                "options": [
+                    "Một chiếc thảm màu xanh",
+                    "Một tấm gương lớn",
+                    "Một dải lụa mềm mại",
+                    "Một viên ngọc quý"
+                ],
+                "correct": "Một tấm gương lớn"
+            },
+            {
+                "question": "Những loại hoa nào được nhắc đến trong bài đọc?",
+                "options": [
+                    "Hoa hồng, hoa cúc, hoa loa kèn",
+                    "Hoa mai, hoa đào, hoa cúc",
+                    "Hoa sen, hoa hồng, hoa hướng dương",
+                    "Hoa cúc, hoa loa kèn, hoa lan"
+                ],
+                "correct": "Hoa hồng, hoa cúc, hoa loa kèn"
+            },
+            {
+                "question": "Trạng thái của công viên khi chiều về được mô tả như thế nào?",
+                "options": [
+                    "Vắng vẻ và yên tĩnh",
+                    "Đông đúc gia đình dắt con đi chơi",
+                    "Chỉ có các cụ già tập thể dục",
+                    "Đóng cửa để bảo trì"
+                ],
+                "correct": "Đông đúc gia đình dắt con đi chơi"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
