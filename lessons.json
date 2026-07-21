@@ -2208,5 +2208,260 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Giới thiệu về thủ đô Hà Nội",
+        "text": "Hà Nội là thủ đô của Việt Nam. Đây là một thành phố rất lớn và đẹp. Hà Nội có lịch sử rất lâu đời. Người ta nói rằng tên gọi Hà Nội có nghĩa là vùng đất ở bên trong sông. Thành phố này nằm cạnh dòng sông Hồng hiền hòa. Hà Nội có nhiều quận và huyện khác nhau. Mỗi nơi đều có những vẻ đẹp riêng biệt.\n\nĐến Hà Nội, bạn sẽ thấy rất nhiều hồ nước. Các hồ nước làm cho thành phố trở nên xanh và mát mẻ hơn. Hồ Gươm là hồ nổi tiếng nhất. Bên cạnh đó còn có hồ Tây, hồ Trúc Bạch và nhiều hồ khác nữa. Người dân Hà Nội thường đi dạo quanh hồ vào buổi sáng hoặc buổi tối. Đây là không gian thư giãn tuyệt vời cho mọi người sau một ngày làm việc vất vả.\n\nHà Nội còn là trung tâm văn hóa và chính trị của Việt Nam. Thành phố có rất nhiều di tích lịch sử quan trọng. Văn Miếu - Quốc Tử Giám là trường đại học đầu tiên của Việt Nam. Đây là nơi tôn vinh sự học hành và trí tuệ. Hoàng Thành Thăng Long là một di tích cổ kính, nơi ghi dấu nhiều sự kiện lịch sử hào hùng. Ngoài ra, Lăng Chủ tịch Hồ Chí Minh cũng là địa điểm mà ai đến Hà Nội cũng muốn ghé thăm. Người dân Việt Nam rất yêu quý và kính trọng Chủ tịch Hồ Chí Minh.\n\nNếu bạn thích tìm hiểu về văn hóa truyền thống, bạn hãy đến thăm phố cổ. Phố cổ Hà Nội có những con đường nhỏ, những ngôi nhà cũ và nhiều cửa hàng buôn bán sầm uất. Bạn có thể mua quần áo, đồ lưu niệm hoặc thưởng thức các món ăn ngon ở đây. Phở Hà Nội hay cà phê trứng là những món ăn rất nổi tiếng. Ai đã ăn một lần đều sẽ nhớ mãi hương vị đặc biệt của chúng.\n\nNgày nay, Hà Nội đang phát triển rất mạnh mẽ. Thành phố có nhiều tòa nhà cao tầng hiện đại và các trung tâm thương mại lớn. Đường phố lúc nào cũng đông đúc và nhộn nhịp. Tuy nhiên, Hà Nội vẫn giữ được nét bình yên và vẻ đẹp cổ kính vốn có. Người dân Hà Nội rất thân thiện và mến khách. Họ luôn sẵn sàng giúp đỡ du khách khi đến thăm thành phố này.\n\nHà Nội là một điểm đến tuyệt vời cho những ai muốn khám phá Việt Nam. Bạn sẽ thấy sự kết hợp hài hòa giữa cái cũ và cái mới. Sự kết hợp này làm cho Hà Nội trở nên rất đặc biệt trong mắt bạn bè quốc tế. Nếu có dịp, bạn hãy đến thăm Hà Nội một lần. Bạn chắc chắn sẽ có những kỷ niệm đẹp về thành phố xinh đẹp này. Hà Nội luôn chào đón tất cả mọi người bằng tình cảm nồng hậu nhất. Đây thực sự là một nơi đáng sống và đáng để trải nghiệm đối với tất cả mọi người.",
+        "dictionary": {
+            "Hà Nội": "河内",
+            "thủ đô": "首都",
+            "Việt Nam": "越南",
+            "thành phố": "城市",
+            "lớn": "大",
+            "đẹp": "美",
+            "lịch sử": "历史",
+            "lâu đời": "悠久",
+            "người ta": "人们",
+            "nói": "说",
+            "tên gọi": "名称",
+            "nghĩa": "意思",
+            "vùng đất": "土地",
+            "bên trong": "内部",
+            "sông": "河",
+            "nằm": "位于",
+            "cạnh": "旁边",
+            "dòng sông Hồng": "红河",
+            "hiền hòa": "温和",
+            "quận": "郡",
+            "huyện": "县",
+            "khác nhau": "不同",
+            "nơi": "地方",
+            "vẻ đẹp": "美景",
+            "riêng biệt": "独特",
+            "đến": "到",
+            "thấy": "看到",
+            "hồ nước": "湖泊",
+            "xanh": "绿",
+            "mát mẻ": "凉爽",
+            "Hồ Gươm": "还剑湖",
+            "nổi tiếng": "著名",
+            "hồ Tây": "西湖",
+            "hồ Trúc Bạch": "竹帛湖",
+            "người dân": "居民",
+            "đi dạo": "散步",
+            "quanh": "环绕",
+            "buổi sáng": "早晨",
+            "buổi tối": "晚上",
+            "không gian": "空间",
+            "thư giãn": "放松",
+            "tuyệt vời": "绝佳",
+            "ngày": "天",
+            "làm việc": "工作",
+            "vất vả": "辛苦",
+            "trung tâm": "中心",
+            "văn hóa": "文化",
+            "chính trị": "政治",
+            "di tích": "遗迹",
+            "quan trọng": "重要",
+            "Văn Miếu - Quốc Tử Giám": "文庙-国子监",
+            "trường đại học": "大学",
+            "đầu tiên": "第一",
+            "tôn vinh": "尊崇",
+            "học hành": "学习",
+            "trí tuệ": "智慧",
+            "Hoàng Thành Thăng Long": "升龙皇城",
+            "cổ kính": "古老",
+            "ghi dấu": "记录",
+            "sự kiện": "事件",
+            "hào hùng": "豪迈",
+            "Lăng Chủ tịch Hồ Chí Minh": "胡志明主席陵",
+            "địa điểm": "地点",
+            "ghé thăm": "参观",
+            "yêu quý": "喜爱",
+            "kính trọng": "尊敬",
+            "Chủ tịch Hồ Chí Minh": "胡志明主席",
+            "thích": "喜欢",
+            "tìm hiểu": "了解",
+            "truyền thống": "传统",
+            "phố cổ": "古街",
+            "con đường": "道路",
+            "nhỏ": "小",
+            "ngôi nhà": "房子",
+            "cũ": "旧",
+            "cửa hàng": "商店",
+            "buôn bán": "买卖",
+            "sầm uất": "繁华",
+            "mua": "买",
+            "quần áo": "衣服",
+            "đồ lưu niệm": "纪念品",
+            "thưởng thức": "品尝",
+            "món ăn": "菜肴",
+            "ngon": "好吃",
+            "Phở": "河粉",
+            "cà phê trứng": "鸡蛋咖啡",
+            "ăn": "吃",
+            "nhớ": "记得",
+            "hương vị": "味道",
+            "đặc biệt": "特别",
+            "phát triển": "发展",
+            "mạnh mẽ": "强劲",
+            "tòa nhà": "大楼",
+            "cao tầng": "高层",
+            "hiện đại": "现代",
+            "thương mại": "商业",
+            "đường phố": "街道",
+            "đông đúc": "拥挤",
+            "nhộn nhịp": "热闹",
+            "giữ": "保持",
+            "nét": " nét",
+            "bình yên": "宁静",
+            "vốn có": "原有",
+            "thân thiện": "友好",
+            "mến khách": "好客",
+            "sẵn sàng": "准备",
+            "giúp đỡ": "帮助",
+            "du khách": "游客",
+            "điểm đến": "目的地",
+            "khám phá": "探索",
+            "kết hợp": "结合",
+            "hài hòa": "和谐",
+            "mới": "新",
+            "mắt": "眼",
+            "bạn bè": "朋友",
+            "quốc tế": "国际",
+            "dịp": "机会",
+            "chắc chắn": "肯定",
+            "kỷ niệm": "纪念",
+            "xinh đẹp": "漂亮",
+            "chào đón": "欢迎",
+            "tình cảm": "感情",
+            "nồng hậu": "热忱",
+            "đáng sống": "值得居住",
+            "trải nghiệm": "体验"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Hà Nội là thủ đô của Việt Nam.",
+                    "Thành phố này nằm cạnh dòng sông Hồng hiền hòa.",
+                    "Người dân Hà Nội rất thân thiện và mến khách.",
+                    "Hà Nội có lịch sử rất lâu đời và là thành phố đẹp."
+                ],
+                "correct": "Hà Nội có lịch sử rất lâu đời và là thành phố đẹp."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Hà Nội có nhiều quận và huyện khác nhau.",
+                    "Hà Nội có nhiều quận và huyện khác nhau rất.",
+                    "Hà Nội có nhiều quận và huyện khác nhau là.",
+                    "Hà Nội có nhiều quận và huyện khác nhau thì."
+                ],
+                "correct": "Hà Nội có nhiều quận và huyện khác nhau."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Phố cổ Hà Nội có những con đường nhỏ.",
+                    "Bạn có thể mua quần áo ở đây.",
+                    "Phở Hà Nội là món ăn rất nổi tiếng.",
+                    "Phở Hà Nội rất nổi tiếng là món ăn."
+                ],
+                "correct": "Phở Hà Nội rất nổi tiếng là món ăn."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Người dân Hà Nội thường đi dạo quanh hồ vào buổi sáng.",
+                    "Người dân Hà Nội thường đi dạo quanh hồ buổi sáng vào.",
+                    "Người dân Hà Nội thường đi dạo quanh hồ vào buổi sáng ở.",
+                    "Người dân Hà Nội thường đi dạo quanh hồ vào buổi sáng là."
+                ],
+                "correct": "Người dân Hà Nội thường đi dạo quanh hồ vào buổi sáng."
+            },
+            {
+                "question": "Theo bài đọc, tên gọi “Hà Nội” có nghĩa là gì?",
+                "options": [
+                    "Vùng đất ở bên trong sông",
+                    "Thành phố của những hồ nước",
+                    "Vùng đất của những di tích",
+                    "Thành phố của sự bình yên"
+                ],
+                "correct": "Vùng đất ở bên trong sông"
+            },
+            {
+                "question": "Địa điểm nào được nhắc đến trong bài là trường đại học đầu tiên của Việt Nam?",
+                "options": [
+                    "Hoàng Thành Thăng Long",
+                    "Lăng Chủ tịch Hồ Chí Minh",
+                    "Văn Miếu - Quốc Tử Giám",
+                    "Phố cổ Hà Nội"
+                ],
+                "correct": "Văn Miếu - Quốc Tử Giám"
+            },
+            {
+                "question": "Người dân Hà Nội thường làm gì vào buổi sáng hoặc buổi tối?",
+                "options": [
+                    "Đi mua sắm tại các trung tâm thương mại",
+                    "Đi dạo quanh các hồ nước",
+                    "Thăm các di tích lịch sử",
+                    "Đến các tòa nhà cao tầng"
+                ],
+                "correct": "Đi dạo quanh các hồ nước"
+            },
+            {
+                "question": "Theo bài đọc, đâu là hai món ăn rất nổi tiếng tại Hà Nội?",
+                "options": [
+                    "Cà phê trứng và bánh mì",
+                    "Phở Hà Nội và bún chả",
+                    "Phở Hà Nội và cà phê trứng",
+                    "Bánh cuốn và cà phê trứng"
+                ],
+                "correct": "Phở Hà Nội và cà phê trứng"
+            },
+            {
+                "question": "Các hồ nước ở Hà Nội có tác dụng gì đối với thành phố?",
+                "options": [
+                    "Làm cho thành phố trở nên xanh và mát mẻ hơn",
+                    "Làm cho thành phố trở nên hiện đại hơn",
+                    "Làm cho thành phố trở nên đông đúc hơn",
+                    "Làm cho thành phố trở nên cổ kính hơn"
+                ],
+                "correct": "Làm cho thành phố trở nên xanh và mát mẻ hơn"
+            },
+            {
+                "question": "Đặc điểm nào của người dân Hà Nội được nhắc đến trong bài?",
+                "options": [
+                    "Năng động và sáng tạo",
+                    "Thân thiện và mến khách",
+                    "Yêu thích công việc và bận rộn",
+                    "Nghiêm túc và truyền thống"
+                ],
+                "correct": "Thân thiện và mến khách"
+            },
+            {
+                "question": "Phố cổ Hà Nội có những đặc điểm nổi bật nào?",
+                "options": [
+                    "Những tòa nhà cao tầng và trung tâm thương mại lớn",
+                    "Những con đường nhỏ, nhà cũ và cửa hàng buôn bán sầm uất",
+                    "Những công viên rộng lớn và hồ nước xanh mát",
+                    "Những di tích lịch sử cổ kính và yên tĩnh"
+                ],
+                "correct": "Những con đường nhỏ, nhà cũ và cửa hàng buôn bán sầm uất"
+            },
+            {
+                "question": "Sự kết hợp nào làm cho Hà Nội trở nên đặc biệt trong mắt bạn bè quốc tế?",
+                "options": [
+                    "Sự kết hợp giữa thiên nhiên và con người",
+                    "Sự kết hợp giữa cái cũ và cái mới",
+                    "Sự kết hợp giữa văn hóa và chính trị",
+                    "Sự kết hợp giữa lịch sử và hiện đại"
+                ],
+                "correct": "Sự kết hợp giữa cái cũ và cái mới"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
