@@ -2463,5 +2463,266 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Tình yêu thương của mẹ dành cho con",
+        "text": "Mẹ em là một người phụ nữ rất hiền lành và chăm chỉ. Cả cuộc đời mẹ luôn dành thời gian để chăm sóc cho bố và cho em. Mỗi ánh mắt, cử chỉ và lời nói của mẹ đều thể hiện tình yêu thương rất lớn dành cho gia đình.\n\nCó một lần, em bị ốm nặng vì đi chơi dưới trời nắng mà quên đội mũ. Lúc đầu, em chỉ cảm thấy hơi mệt nên đã về phòng nằm ngủ mà không nói với mẹ. Một lát sau, đầu em đau dữ dội hơn, cơ thể rất mệt và nặng. Lúc đó, em biết mình đã bị ốm thật rồi. Em rất sợ bị mẹ mắng vì đã không nghe lời mẹ dặn. Vì thế, em cứ nằm im trong phòng ngủ mà không dám gọi mẹ.\n\nĐến buổi tối, thấy em mãi không xuống nhà ăn cơm, mẹ đã lên phòng tìm em. Khi nhìn thấy em nằm trên giường và đắp chăn kín người, mẹ hiểu ngay là em bị ốm. Em vẫn nhớ rõ vẻ mặt của mẹ lúc đó. Mẹ rất lo lắng, mắt mẹ hơi đỏ lên. Mẹ dùng tay sờ lên trán và cổ em để kiểm tra nhiệt độ. Mẹ hỏi em bằng giọng nói rất nhẹ nhàng: Con bị ốm sao không gọi mẹ? Con mệt từ khi nào? Con đau ở đâu, hãy nói cho mẹ nghe nhé.\n\nNhững câu hỏi của mẹ làm em cảm thấy rất ấm áp. Em kể cho mẹ nghe về những chỗ đau trên cơ thể. Nghe em kể xong, mẹ dịu dàng vuốt tóc em và kéo chăn cho em. Sau đó, mẹ vội vàng đi mua thuốc cho em. Tối hôm đó, em được mẹ chăm sóc rất chu đáo. Mẹ đút cho em từng thìa cháo, rót nước và dỗ dành em uống thuốc. Nhìn em ăn, mẹ mỉm cười rất hiền hậu. Em cảm thấy rất hạnh phúc vì được mẹ yêu thương. Suốt cả đêm hôm đó, mẹ không về phòng của mình mà nằm cạnh giường để chăm sóc cho em. Hành động đó của mẹ làm em thấy rất cảm động. Em cũng cảm thấy có lỗi vì đã không nghe lời mẹ trước đó.\n\nHai ngày sau, em đã khỏi bệnh hoàn toàn. Tất cả là nhờ sự chăm sóc tận tình của mẹ. Sau lần ốm đó, em đã tự hứa với lòng mình sẽ trở thành một người con ngoan. Em sẽ luôn nghe lời mẹ dặn và chăm sóc sức khỏe của bản thân thật tốt. Em rất yêu mẹ và muốn mẹ luôn được vui vẻ, hạnh phúc. Đối với em, mẹ là người tuyệt vời nhất trên thế giới này. Em sẽ cố gắng học tập chăm chỉ để mẹ không phải lo lắng cho em nữa. Em mong rằng gia đình mình sẽ luôn bình yên và tràn đầy tiếng cười như bây giờ. Em sẽ luôn ghi nhớ những bài học quý giá mà mẹ đã dạy cho em trong cuộc sống hằng ngày.",
+        "dictionary": {
+            "mẹ": "妈妈",
+            "người": "人",
+            "phụ nữ": "妇女",
+            "cuộc đời": "一生",
+            "thời gian": "时间",
+            "bố": "爸爸",
+            "ánh mắt": "眼神",
+            "cử chỉ": "举止",
+            "lời nói": "话语",
+            "tình yêu thương": "爱",
+            "gia đình": "家庭",
+            "lần": "次",
+            "trời": "天",
+            "nắng": "太阳",
+            "mũ": "帽子",
+            "phòng": "房间",
+            "đầu": "头",
+            "cơ thể": "身体",
+            "buổi tối": "晚上",
+            "nhà": "家",
+            "cơm": "饭",
+            "giường": "床",
+            "chăn": "被子",
+            "vẻ mặt": "神情",
+            "mắt": "眼睛",
+            "tay": "手",
+            "trán": "额头",
+            "cổ": "脖子",
+            "nhiệt độ": "温度",
+            "giọng nói": "声音",
+            "con": "孩子",
+            "câu hỏi": "问题",
+            "chỗ": "地方",
+            "tóc": "头发",
+            "thuốc": "药",
+            "thìa": "勺",
+            "cháo": "粥",
+            "nước": "水",
+            "hành động": "行为",
+            "lỗi": "错误",
+            "ngày": "天",
+            "bệnh": "病",
+            "sự": "事",
+            "lòng": "心",
+            "sức khỏe": "健康",
+            "bản thân": "自己",
+            "thế giới": "世界",
+            "tiếng cười": "笑声",
+            "bài học": "教训",
+            "cuộc sống": "生活",
+            "hiền lành": "善良",
+            "chăm chỉ": "勤奋",
+            "lớn": "大",
+            "ốm": "生病",
+            "nặng": "重",
+            "mệt": "累",
+            "đau": "疼",
+            "dữ dội": "剧烈",
+            "sợ": "怕",
+            "im": "静",
+            "dám": "敢",
+            "kín": "严实",
+            "lo lắng": "担心",
+            "đỏ": "红",
+            "nhẹ nhàng": "温柔",
+            "ấm áp": "温暖",
+            "dịu dàng": "温柔",
+            "vội vàng": "匆忙",
+            "chu đáo": "周到",
+            "hiền hậu": "慈祥",
+            "hạnh phúc": "幸福",
+            "cảm động": "感动",
+            "hoàn toàn": "完全",
+            "tận tình": "尽心",
+            "ngoan": "乖",
+            "tốt": "好",
+            "tuyệt vời": "棒",
+            "bình yên": "平静",
+            "quý giá": "珍贵",
+            "dành": "留",
+            "chăm sóc": "照顾",
+            "thể hiện": "体现",
+            "đi": "去",
+            "chơi": "玩",
+            "quên": "忘",
+            "đội": "戴",
+            "cảm thấy": "感到",
+            "ngủ": "睡",
+            "nói": "说",
+            "biết": "知道",
+            "mắng": "骂",
+            "nghe": "听",
+            "dặn": "叮嘱",
+            "gọi": "叫",
+            "xuống": "下",
+            "ăn": "吃",
+            "lên": "上",
+            "tìm": "找",
+            "nhìn": "看",
+            "đắp": "盖",
+            "hiểu": "明白",
+            "nhớ": "记得",
+            "dùng": "用",
+            "sờ": "摸",
+            "kiểm tra": "检查",
+            "hỏi": "问",
+            "kể": "讲述",
+            "vuốt": "抚摸",
+            "kéo": "拉",
+            "mua": "买",
+            "đút": "喂",
+            "rót": "倒",
+            "dỗ dành": "哄",
+            "uống": "喝",
+            "mỉm cười": "微笑",
+            "yêu": "爱",
+            "về": "回",
+            "nằm": "躺",
+            "cạnh": "旁边",
+            "khỏi": "好",
+            "nhờ": "靠",
+            "hứa": "承诺",
+            "trở thành": "成为",
+            "muốn": "想",
+            "vui vẻ": "快乐",
+            "cố gắng": "努力",
+            "học tập": "学习",
+            "mong": "希望",
+            "tràn đầy": "充满",
+            "ghi nhớ": "记住",
+            "dạy": "教"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào sai về mặt ngữ pháp?",
+                "options": [
+                    "Mẹ em là một người phụ nữ rất hiền lành và chăm chỉ.",
+                    "Mỗi ánh mắt, cử chỉ và lời nói của mẹ đều thể hiện tình yêu thương rất lớn dành cho gia đình.",
+                    "Vì em bị ốm nên mẹ rất lo lắng.",
+                    "Mẹ dùng tay sờ lên trán và cổ em để kiểm tra nhiệt độ, mẹ rất lo lắng."
+                ],
+                "correct": "Mẹ dùng tay sờ lên trán và cổ em để kiểm tra nhiệt độ, mẹ rất lo lắng."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào đúng ngữ pháp?",
+                "options": [
+                    "Sau lần ốm đó, em đã tự hứa với lòng mình sẽ trở thành một người con ngoan.",
+                    "Mẹ vội vàng đi mua thuốc cho em, em cảm thấy rất hạnh phúc.",
+                    "Vì em bị ốm, nên mẹ chăm sóc em.",
+                    "Em bị ốm nặng vì đi chơi dưới trời nắng mà quên đội mũ, em sợ mẹ mắng."
+                ],
+                "correct": "Sau lần ốm đó, em đã tự hứa với lòng mình sẽ trở thành một người con ngoan."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào sai về mặt ngữ pháp?",
+                "options": [
+                    "Em rất yêu mẹ và muốn mẹ luôn được vui vẻ, hạnh phúc.",
+                    "Mẹ đút cho em từng thìa cháo, rót nước và dỗ dành em uống thuốc.",
+                    "Đến buổi tối, thấy em mãi không xuống nhà ăn cơm, mẹ đã lên phòng tìm em.",
+                    "Mẹ là người tuyệt vời nhất, em yêu mẹ."
+                ],
+                "correct": "Mẹ là người tuyệt vời nhất, em yêu mẹ."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào đúng ngữ pháp?",
+                "options": [
+                    "Mẹ không về phòng của mình mà nằm cạnh giường để chăm sóc cho em cả đêm.",
+                    "Mẹ không về phòng của mình, nằm cạnh giường để chăm sóc cho em cả đêm.",
+                    "Suốt cả đêm hôm đó, mẹ không về phòng của mình mà nằm cạnh giường để chăm sóc cho em.",
+                    "Mẹ không về phòng, nằm cạnh giường chăm sóc em cả đêm."
+                ],
+                "correct": "Suốt cả đêm hôm đó, mẹ không về phòng của mình mà nằm cạnh giường để chăm sóc cho em."
+            },
+            {
+                "question": "Tại sao nhân vật em bị ốm nặng?",
+                "options": [
+                    "Do ăn uống không điều độ",
+                    "Do đi chơi dưới trời nắng mà quên đội mũ",
+                    "Do làm việc quá sức",
+                    "Do bị lây bệnh từ bạn bè"
+                ],
+                "correct": "Do đi chơi dưới trời nắng mà quên đội mũ"
+            },
+            {
+                "question": "Khi nào mẹ phát hiện ra em bị ốm?",
+                "options": [
+                    "Vào buổi sáng hôm sau",
+                    "Khi em gọi mẹ vào phòng",
+                    "Vào buổi tối khi thấy em không xuống ăn cơm",
+                    "Khi em đi học về"
+                ],
+                "correct": "Vào buổi tối khi thấy em không xuống ăn cơm"
+            },
+            {
+                "question": "Nhân vật em đã làm gì khi mới bắt đầu cảm thấy mệt?",
+                "options": [
+                    "Đi tìm mẹ để báo tin",
+                    "Uống thuốc ngay lập tức",
+                    "Về phòng nằm ngủ mà không nói với mẹ",
+                    "Xuống nhà ăn cơm rồi đi ngủ"
+                ],
+                "correct": "Về phòng nằm ngủ mà không nói với mẹ"
+            },
+            {
+                "question": "Mẹ đã làm gì sau khi nghe em kể về những chỗ đau trên cơ thể?",
+                "options": [
+                    "Mắng em vì đã không nghe lời",
+                    "Bảo em tự đi lấy thuốc uống",
+                    "Dịu dàng vuốt tóc, kéo chăn và đi mua thuốc cho em",
+                    "Gọi điện cho bố về nhà"
+                ],
+                "correct": "Dịu dàng vuốt tóc, kéo chăn và đi mua thuốc cho em"
+            },
+            {
+                "question": "Trạng thái của mẹ khi nhìn thấy em nằm trên giường là gì?",
+                "options": [
+                    "Rất giận dữ",
+                    "Rất lo lắng, mắt hơi đỏ lên",
+                    "Bình thản và không quan tâm",
+                    "Vui vẻ và mỉm cười"
+                ],
+                "correct": "Rất lo lắng, mắt hơi đỏ lên"
+            },
+            {
+                "question": "Nhân vật em cảm thấy thế nào về hành động chăm sóc của mẹ suốt đêm?",
+                "options": [
+                    "Cảm thấy phiền phức",
+                    "Cảm thấy bình thường",
+                    "Cảm thấy rất cảm động",
+                    "Cảm thấy sợ hãi"
+                ],
+                "correct": "Cảm thấy rất cảm động"
+            },
+            {
+                "question": "Sau khi khỏi bệnh, nhân vật em đã tự hứa với lòng mình điều gì?",
+                "options": [
+                    "Sẽ không đi chơi dưới trời nắng nữa",
+                    "Sẽ trở thành một người con ngoan và nghe lời mẹ dặn",
+                    "Sẽ học tập thật giỏi để đi du học",
+                    "Sẽ tự chăm sóc bản thân mà không cần mẹ"
+                ],
+                "correct": "Sẽ trở thành một người con ngoan và nghe lời mẹ dặn"
+            },
+            {
+                "question": "Đặc điểm tính cách nào của mẹ được nhắc đến ngay đầu bài đọc?",
+                "options": [
+                    "Nghiêm khắc và khó tính",
+                    "Hiền lành và chăm chỉ",
+                    "Thông minh và tài giỏi",
+                    "Vui tính và cởi mở"
+                ],
+                "correct": "Hiền lành và chăm chỉ"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
