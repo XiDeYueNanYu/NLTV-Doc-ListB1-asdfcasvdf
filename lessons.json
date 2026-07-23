@@ -2724,5 +2724,260 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Buổi sáng ở khu phố của em",
+        "text": "Mỗi sáng, khi mặt trời bắt đầu mọc, em thức dậy và cùng bố chạy bộ quanh phố. Nhìn ngắm nơi này vào buổi sáng, em cảm thấy rất thoải mái và vui vẻ. Phố phường lúc sáng sớm rất khác với các thời điểm khác trong ngày. Nó mang lại một cảm giác yên bình và tĩnh lặng. Lúc này, phố xá còn khá vắng vẻ, xe cộ cũng chưa đi lại nhiều trên đường.\n\nTrời chưa sáng rõ hẳn. Mặt đường nhựa chỉ có màu vàng nhạt vì những tia nắng sớm còn yếu. Hàng cây bên đường tỏa bóng mát và đung đưa trong gió. Những làn gió nhẹ mang theo hương hoa thơm ngát khắp không gian. Tiếng chim hót vang lên làm cho lòng người thấy dễ chịu. Trong công viên, vài cụ già đang tập thể dục với những động tác chậm rãi. Các anh chị thanh niên chạy bộ với những bước chân khỏe khoắn. Xa xa, các cô các bác đạp xe rất vui vẻ. Hình ảnh của những người mẹ đang đi chợ mua đồ ăn sáng cho gia đình thật ấm áp. Đây là một khung cảnh tràn đầy sức sống. Những hoạt động đời thường của mọi người làm em cảm thấy rất gần gũi và yêu quý nơi này.\n\nKhi trời bắt đầu sáng hẳn, ông mặt trời đã thức dậy. Ông mặt trời xuất hiện rực rỡ trên bầu trời trong xanh. Khung cảnh sinh hoạt của người dân cũng trở nên nhộn nhịp hơn nhiều. Các quán cà phê và hàng ăn bắt đầu có nhiều người vào ra. Từ xa, em nghe thấy tiếng người mua, người bán nói chuyện xôn xao ở khu chợ gần nhà. Xe cộ đi lại đông đúc hơn, tiếng người nói cười làm cho con phố trở nên vui tươi. Mọi người bắt đầu một ngày làm việc mới với nhiều năng lượng.\n\nBức tranh về buổi sáng nơi em ở là một trong những cảnh đẹp nhất. Mọi thứ đều chân thật, giản dị và rất thân quen với em. Em yêu những buổi sáng sớm như thế này. Được nhìn thấy cuộc sống bình yên của mọi người xung quanh làm em thấy yêu cuộc sống hơn. Mỗi ngày trôi qua, em lại càng thêm gắn bó với khu phố nhỏ bé này. Em mong rằng mỗi ngày mới đều là một ngày thật đẹp và ý nghĩa với tất cả mọi người. Những buổi sáng chạy bộ cùng bố đã trở thành một thói quen tốt mà em luôn trân trọng. Em sẽ cố gắng giữ gìn sức khỏe để mỗi ngày đều có thể đón nhận những tia nắng sớm ấm áp. Đối với em, buổi sáng chính là thời điểm tuyệt vời nhất để bắt đầu mọi công việc. Em cảm thấy mình thật may mắn khi được sống ở một nơi xinh đẹp và yên bình như vậy. Quê hương của em thật đáng yêu biết bao. Em rất tự hào về nơi mình đang sinh sống và học tập mỗi ngày.",
+        "dictionary": {
+            "sáng": "早晨",
+            "mặt trời": "太阳",
+            "em": "我",
+            "bố": "爸爸",
+            "phố": "街道",
+            "nơi": "地方",
+            "buổi sáng": "上午",
+            "phố phường": "街区",
+            "thời điểm": "时刻",
+            "ngày": "天",
+            "cảm giác": "感觉",
+            "phố xá": "街市",
+            "xe cộ": "车辆",
+            "đường": "路",
+            "mặt đường": "路面",
+            "nhựa": "沥青",
+            "màu": "颜色",
+            "vàng": "黄色",
+            "tia nắng": "阳光",
+            "hàng cây": "树行",
+            "bóng mát": "树荫",
+            "gió": "风",
+            "hương hoa": "花香",
+            "không gian": "空间",
+            "tiếng chim": "鸟声",
+            "lòng": "内心",
+            "người": "人",
+            "công viên": "公园",
+            "cụ già": "老人",
+            "động tác": "动作",
+            "anh chị": "哥哥姐姐",
+            "thanh niên": "青年",
+            "bước chân": "脚步",
+            "cô": "阿姨",
+            "bác": "伯伯",
+            "hình ảnh": "画面",
+            "mẹ": "母亲",
+            "chợ": "市场",
+            "đồ ăn": "食物",
+            "gia đình": "家庭",
+            "khung cảnh": "景象",
+            "sức sống": "活力",
+            "hoạt động": "活动",
+            "bầu trời": "天空",
+            "sinh hoạt": "生活",
+            "dân": "居民",
+            "quán cà phê": "咖啡馆",
+            "hàng ăn": "餐馆",
+            "tiếng": "声音",
+            "bức tranh": "画卷",
+            "cảnh": "景色",
+            "mọi thứ": "万物",
+            "cuộc sống": "生活",
+            "khu phố": "街区",
+            "thói quen": "习惯",
+            "sức khỏe": "健康",
+            "công việc": "工作",
+            "quê hương": "家乡",
+            "mọc": "升起",
+            "thức dậy": "起床",
+            "chạy bộ": "跑步",
+            "nhìn ngắm": "观赏",
+            "cảm thấy": "感到",
+            "mang lại": "带来",
+            "đi lại": "往来",
+            "tỏa": "散发",
+            "đung đưa": "摇曳",
+            "hót": "鸣叫",
+            "vang lên": "响起",
+            "tập thể dục": "锻炼",
+            "đạp xe": "骑车",
+            "đi chợ": "去市场",
+            "mua": "买",
+            "xuất hiện": "出现",
+            "nghe": "听",
+            "nói chuyện": "聊天",
+            "nói cười": "谈笑",
+            "trôi qua": "流逝",
+            "gắn bó": "依恋",
+            "mong": "希望",
+            "trở thành": "成为",
+            "trân trọng": "珍惜",
+            "cố gắng": "努力",
+            "giữ gìn": "保持",
+            "đón nhận": "迎接",
+            "bắt đầu": "开始",
+            "sống": "生活",
+            "học tập": "学习",
+            "thoải mái": "舒适",
+            "vui vẻ": "快乐",
+            "khác": "不同",
+            "yên bình": "宁静",
+            "tĩnh lặng": "寂静",
+            "vắng vẻ": "冷清",
+            "nhạt": "淡",
+            "yếu": "微弱",
+            "nhẹ": "轻",
+            "thơm ngát": "芬芳",
+            "dễ chịu": "舒服",
+            "chậm rãi": "缓慢",
+            "khỏe khoắn": "健壮",
+            "ấm áp": "温暖",
+            "tràn đầy": "充满",
+            "đời thường": "日常",
+            "gần gũi": "亲近",
+            "yêu quý": "喜爱",
+            "rực rỡ": "灿烂",
+            "trong xanh": "蔚蓝",
+            "nhộn nhịp": "热闹",
+            "xôn xao": "喧闹",
+            "đông đúc": "拥挤",
+            "vui tươi": "欢快",
+            "mới": "新",
+            "đẹp": "美",
+            "chân thật": "真实",
+            "giản dị": "朴素",
+            "thân quen": "熟悉",
+            "nhỏ bé": "小",
+            "ý nghĩa": "有意义",
+            "tốt": "好",
+            "tuyệt vời": "绝佳",
+            "may mắn": "幸运",
+            "xinh đẹp": "美丽",
+            "đáng yêu": "可爱",
+            "tự hào": "自豪"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Mỗi sáng, em thức dậy và cùng bố chạy bộ quanh phố.",
+                    "Hàng cây bên đường tỏa bóng mát và đung đưa trong gió.",
+                    "Vì những tia nắng sớm còn yếu, mặt đường nhựa chỉ có màu vàng nhạt.",
+                    "Những làn gió nhẹ mang theo hương hoa thơm ngát khắp không gian là làm em thấy dễ chịu."
+                ],
+                "correct": "Những làn gió nhẹ mang theo hương hoa thơm ngát khắp không gian là làm em thấy dễ chịu."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Tiếng chim hót vang lên làm cho lòng người thấy dễ chịu.",
+                    "Trong công viên, vài cụ già đang tập thể dục với những động tác chậm rãi là rất khỏe mạnh.",
+                    "Các anh chị thanh niên chạy bộ với những bước chân khỏe khoắn là đang chạy.",
+                    "Hình ảnh của những người mẹ đang đi chợ mua đồ ăn sáng cho gia đình ở chợ."
+                ],
+                "correct": "Tiếng chim hót vang lên làm cho lòng người thấy dễ chịu."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Khi trời bắt đầu sáng hẳn, ông mặt trời đã thức dậy.",
+                    "Khung cảnh sinh hoạt của người dân cũng trở nên nhộn nhịp hơn nhiều.",
+                    "Các quán cà phê và hàng ăn bắt đầu có nhiều người vào ra.",
+                    "Từ xa, em nghe thấy tiếng người mua, người bán nói chuyện xôn xao là ở khu chợ gần nhà."
+                ],
+                "correct": "Từ xa, em nghe thấy tiếng người mua, người bán nói chuyện xôn xao là ở khu chợ gần nhà."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Mỗi ngày trôi qua, em lại càng thêm gắn bó với khu phố nhỏ bé này.",
+                    "Em mong rằng mỗi ngày mới đều là một ngày thật đẹp và ý nghĩa với tất cả mọi người là mong ước của em.",
+                    "Những buổi sáng chạy bộ cùng bố đã trở thành một thói quen tốt mà em luôn trân trọng là thói quen.",
+                    "Em sẽ cố gắng giữ gìn sức khỏe để mỗi ngày đều có thể đón nhận những tia nắng sớm ấm áp là điều em muốn."
+                ],
+                "correct": "Mỗi ngày trôi qua, em lại càng thêm gắn bó với khu phố nhỏ bé này."
+            },
+            {
+                "question": "Nhân vật “em” trong bài thường làm gì vào mỗi buổi sáng?",
+                "options": [
+                    "Đi chợ cùng mẹ",
+                    "Chạy bộ cùng bố",
+                    "Tập thể dục trong công viên",
+                    "Đi uống cà phê cùng bạn bè"
+                ],
+                "correct": "Chạy bộ cùng bố"
+            },
+            {
+                "question": "Những ai đang tập thể dục trong công viên khi trời còn sớm?",
+                "options": [
+                    "Các anh chị thanh niên",
+                    "Các cô các bác",
+                    "Vài cụ già",
+                    "Những người bán hàng"
+                ],
+                "correct": "Vài cụ già"
+            },
+            {
+                "question": "Khi trời bắt đầu sáng hẳn, địa điểm nào trở nên nhộn nhịp với tiếng người mua bán?",
+                "options": [
+                    "Công viên",
+                    "Khu chợ gần nhà",
+                    "Trường học",
+                    "Quán cà phê"
+                ],
+                "correct": "Khu chợ gần nhà"
+            },
+            {
+                "question": "Theo bài đọc, đâu là thời điểm tuyệt vời nhất để bắt đầu mọi công việc đối với nhân vật “em”?",
+                "options": [
+                    "Buổi trưa",
+                    "Buổi chiều",
+                    "Buổi tối",
+                    "Buổi sáng"
+                ],
+                "correct": "Buổi sáng"
+            },
+            {
+                "question": "Trạng thái của phố phường vào lúc sáng sớm được miêu tả như thế nào?",
+                "options": [
+                    "Nhộn nhịp và ồn ào",
+                    "Yên bình và tĩnh lặng",
+                    "Đông đúc và vội vã",
+                    "Rực rỡ và náo nhiệt"
+                ],
+                "correct": "Yên bình và tĩnh lặng"
+            },
+            {
+                "question": "Hình ảnh “ông mặt trời” khi trời đã sáng hẳn được miêu tả ra sao?",
+                "options": [
+                    "Mờ nhạt và yếu ớt",
+                    "Rực rỡ trên bầu trời trong xanh",
+                    "Đang lặn dần sau hàng cây",
+                    "Bị che khuất bởi những đám mây"
+                ],
+                "correct": "Rực rỡ trên bầu trời trong xanh"
+            },
+            {
+                "question": "Những hoạt động nào làm cho con phố trở nên vui tươi hơn khi trời sáng hẳn?",
+                "options": [
+                    "Tiếng chim hót vang",
+                    "Xe cộ đi lại đông đúc và tiếng người nói cười",
+                    "Những cụ già tập thể dục chậm rãi",
+                    "Những làn gió nhẹ mang hương hoa"
+                ],
+                "correct": "Xe cộ đi lại đông đúc và tiếng người nói cười"
+            },
+            {
+                "question": "Cảm xúc của nhân vật “em” đối với khu phố nhỏ bé nơi mình sinh sống là gì?",
+                "options": [
+                    "Cảm thấy buồn chán và muốn đi nơi khác",
+                    "Cảm thấy bình thường và không quan tâm",
+                    "Cảm thấy gắn bó, yêu quý và tự hào",
+                    "Cảm thấy lo lắng vì sự thay đổi nhanh chóng"
+                ],
+                "correct": "Cảm thấy gắn bó, yêu quý và tự hào"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
