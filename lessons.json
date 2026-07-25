@@ -3206,5 +3206,271 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Những buổi sáng đi chợ cùng mẹ",
+        "text": "Một buổi sáng yên bình ở quê, khi mặt trời vừa lên, tiếng gà gáy vang xa. Tôi lại được mẹ gọi dậy để đi chợ sáng. Đó là ký ức đẹp trong cuộc đời tôi. Những buổi sáng cùng mẹ ở chợ quê luôn chứa đựng nhiều kỷ niệm về tình mẹ và hương vị cuộc sống.\n\nChợ quê không ồn ào như chợ ở thành phố. Nó nhỏ bé nhưng rất ấm áp. Tôi hỏi mẹ: Tại sao mẹ thích đi chợ sớm? Mẹ cười và bảo rằng đi sớm mới mua được đồ tươi ngon nhất. Mẹ cũng muốn tiết kiệm tiền cho gia đình. Từ đó, mỗi khi có thời gian, tôi lại theo mẹ đi chợ để phụ mẹ xách giỏ và học những bài học nhỏ từ cuộc sống.\n\nChợ quê có đầy đủ mọi thứ. Có hàng rau xanh mướt, có hàng cá với những con cá còn sống. Mẹ thường dừng lại ở hàng thịt rất lâu. Mẹ luôn chọn miếng thịt ngon, tươi và giá cả hợp lý. Tôi rất ngưỡng mộ sự chu toàn của mẹ. Từ bó rau đến miếng thịt, mẹ đều chọn lựa kỹ càng để bữa ăn gia đình luôn ngon miệng mà không lãng phí.\n\nChợ không chỉ là nơi mua bán mà còn là nơi mọi người gặp gỡ. Người bán hàng và người mua hàng luôn tươi cười với nhau. Họ hỏi thăm sức khỏe của gia đình, nói chuyện về thời tiết hay mùa màng. Tôi rất thích nhìn mẹ mặc cả với người bán hàng. Mẹ nói chuyện rất khéo léo và vui vẻ. Người bán hàng cũng vui vẻ bớt giá cho mẹ. Những cử chỉ đó làm tôi thấy yêu thương mọi người xung quanh hơn.\n\nTôi còn nhớ khi còn nhỏ, mẹ dạy tôi cách chọn quả dưa hấu ngon. Mẹ bảo quả tròn, vỏ mỏng và nặng tay là quả tốt. Khi về nhà, cả gia đình cùng ăn dưa hấu rất vui vẻ. Những ký ức đó rất giản dị nhưng chứa đựng nhiều tình yêu thương. Qua những buổi đi chợ, tôi học được cách chọn thực phẩm và hiểu được sự hy sinh của mẹ dành cho gia đình.\n\nTrên đường đi chợ, tôi còn được ngắm nhìn cánh đồng lúa chín vàng. Mùi lúa mới thơm trong gió. Tiếng xe đạp và tiếng cười nói của mọi người tạo nên một bức tranh quê thật đẹp. Đi chợ với mẹ không chỉ là việc hàng ngày mà là hành trình kết nối với tuổi thơ. Mẹ dạy tôi biết yêu thương và trân trọng những điều bình dị.\n\nBây giờ, dù đã lớn, tôi không còn đi chợ với mẹ thường xuyên như xưa. Nhưng những ký ức ấy vẫn sống động trong lòng tôi. Mỗi khi về thăm quê, tôi vẫn thích dậy sớm đi chợ cùng mẹ. Tôi muốn cảm nhận không khí nhộn nhịp và trò chuyện với những người bán hàng quen thuộc. Những buổi sáng đi chợ cùng mẹ đã nuôi dưỡng tâm hồn tôi lớn lên mỗi ngày. Đó là nguồn động lực để tôi bước tiếp trên con đường đời của mình.",
+        "dictionary": {
+            "buổi sáng": "早晨",
+            "yên bình": "宁静",
+            "quê": "乡村",
+            "mặt trời": "太阳",
+            "tiếng": "声音",
+            "gà": "鸡",
+            "gáy": "打鸣",
+            "vang": "响",
+            "xa": "远",
+            "tôi": "我",
+            "mẹ": "母亲",
+            "gọi": "叫",
+            "dậy": "起床",
+            "đi chợ": "赶集",
+            "ký ức": "记忆",
+            "đẹp": "美好",
+            "cuộc đời": "人生",
+            "kỷ niệm": "纪念",
+            "tình": "情",
+            "hương vị": "味道",
+            "cuộc sống": "生活",
+            "ồn ào": "喧闹",
+            "thành phố": "城市",
+            "nhỏ bé": "渺小",
+            "ấm áp": "温暖",
+            "hỏi": "问",
+            "thích": "喜欢",
+            "sớm": "早",
+            "cười": "笑",
+            "bảo": "说",
+            "mua": "买",
+            "đồ": "东西",
+            "tươi ngon": "新鲜",
+            "tiết kiệm": "节约",
+            "tiền": "钱",
+            "gia đình": "家庭",
+            "thời gian": "时间",
+            "phụ": "帮",
+            "xách": "提",
+            "giỏ": "篮子",
+            "học": "学习",
+            "bài học": "课程",
+            "đầy đủ": "齐全",
+            "mọi thứ": "一切",
+            "hàng": "摊位",
+            "rau": "蔬菜",
+            "xanh mướt": "青翠",
+            "cá": "鱼",
+            "sống": "活",
+            "dừng lại": "停留",
+            "thịt": "肉",
+            "lâu": "久",
+            "chọn": "选",
+            "miếng": "块",
+            "giá cả": "价格",
+            "hợp lý": "合理",
+            "ngưỡng mộ": "钦佩",
+            "chu toàn": "周全",
+            "bó": "捆",
+            "lựa": "挑选",
+            "kỹ càng": "仔细",
+            "bữa ăn": "餐",
+            "ngon miệng": "可口",
+            "lãng phí": "浪费",
+            "nơi": "地方",
+            "mua bán": "买卖",
+            "gặp gỡ": "见面",
+            "người": "人",
+            "tươi cười": "微笑",
+            "hỏi thăm": "问候",
+            "sức khỏe": "健康",
+            "nói chuyện": "聊天",
+            "thời tiết": "天气",
+            "mùa màng": "庄稼",
+            "nhìn": "看",
+            "mặc cả": "讨价还价",
+            "khéo léo": "巧妙",
+            "vui vẻ": "快乐",
+            "bớt": "减",
+            "cử chỉ": "举动",
+            "yêu thương": "爱",
+            "xung quanh": "周围",
+            "nhớ": "记得",
+            "nhỏ": "小",
+            "dạy": "教",
+            "cách": "方法",
+            "quả": "个",
+            "dưa hấu": "西瓜",
+            "tròn": "圆",
+            "vỏ": "皮",
+            "mỏng": "薄",
+            "nặng": "重",
+            "tay": "手",
+            "tốt": "好",
+            "nhà": "家",
+            "ăn": "吃",
+            "giản dị": "简朴",
+            "thực phẩm": "食品",
+            "hiểu": "理解",
+            "hy sinh": "牺牲",
+            "dành": "留给",
+            "đường": "路",
+            "ngắm": "欣赏",
+            "cánh đồng": "田野",
+            "lúa": "稻谷",
+            "chín": "熟",
+            "vàng": "黄",
+            "mùi": "气味",
+            "thơm": "香",
+            "gió": "风",
+            "xe đạp": "自行车",
+            "tạo": "创造",
+            "bức tranh": "画",
+            "việc": "工作",
+            "hàng ngày": "每天",
+            "hành trình": "旅程",
+            "kết nối": "连接",
+            "tuổi thơ": "童年",
+            "trân trọng": "珍惜",
+            "bình dị": "平淡",
+            "lớn": "大",
+            "thường xuyên": "经常",
+            "xưa": "以前",
+            "sống động": "生动",
+            "lòng": "心",
+            "thăm": "探望",
+            "cảm nhận": "感受",
+            "không khí": "空气",
+            "nhộn nhịp": "热闹",
+            "quen thuộc": "熟悉",
+            "nuôi dưỡng": "培育",
+            "tâm hồn": "心灵",
+            "nguồn": "源泉",
+            "động lực": "动力",
+            "bước": "走",
+            "tiếp": "继续"
+        },
+        "quizData": [
+            {
+                "question": "Câu nào dưới đây sai về mặt ngữ pháp?",
+                "options": [
+                    "Mỗi khi có thời gian, tôi lại theo mẹ đi chợ để phụ mẹ xách giỏ.",
+                    "Mẹ dạy tôi cách chọn quả dưa hấu ngon và mẹ bảo quả tròn vỏ mỏng.",
+                    "Những ký ức đó rất giản dị nhưng chứa đựng nhiều tình yêu thương.",
+                    "Chợ quê không ồn ào như chợ ở thành phố."
+                ],
+                "correct": "Mẹ dạy tôi cách chọn quả dưa hấu ngon và mẹ bảo quả tròn vỏ mỏng."
+            },
+            {
+                "question": "Câu nào dưới đây viết đúng ngữ pháp?",
+                "options": [
+                    "Vì mẹ dạy tôi biết yêu thương, nên tôi trân trọng những điều bình dị.",
+                    "Mẹ dạy tôi biết yêu thương, trân trọng những điều bình dị, vì tôi.",
+                    "Để trân trọng những điều bình dị, mẹ dạy tôi biết yêu thương.",
+                    "Mẹ dạy tôi biết yêu thương, trân trọng những điều bình dị."
+                ],
+                "correct": "Mẹ dạy tôi biết yêu thương, trân trọng những điều bình dị."
+            },
+            {
+                "question": "Câu nào dưới đây mắc lỗi diễn đạt?",
+                "options": [
+                    "Người bán hàng và người mua hàng luôn tươi cười với nhau.",
+                    "Tôi rất thích nhìn mẹ mặc cả với người bán hàng.",
+                    "Chợ quê không ồn ào như chợ ở thành phố.",
+                    "Những buổi sáng đi chợ cùng mẹ nuôi dưỡng tâm hồn tôi mỗi ngày."
+                ],
+                "correct": "Những buổi sáng đi chợ cùng mẹ nuôi dưỡng tâm hồn tôi mỗi ngày."
+            },
+            {
+                "question": "Câu nào dưới đây là câu sai ngữ pháp?",
+                "options": [
+                    "Mẹ luôn chọn miếng thịt ngon, tươi và giá cả hợp lý.",
+                    "Mẹ bảo rằng đi sớm mới mua được đồ tươi ngon nhất.",
+                    "Mẹ luôn chọn miếng thịt ngon, tươi và giá cả là hợp lý.",
+                    "Từ bó rau đến miếng thịt, mẹ đều chọn lựa kỹ càng."
+                ],
+                "correct": "Mẹ luôn chọn miếng thịt ngon, tươi và giá cả là hợp lý."
+            },
+            {
+                "question": "Theo bài đọc, tại sao mẹ lại thích đi chợ sớm?",
+                "options": [
+                    "Để tránh sự ồn ào của thành phố",
+                    "Để mua được đồ tươi ngon nhất và tiết kiệm tiền",
+                    "Để gặp gỡ những người bán hàng quen thuộc",
+                    "Để ngắm nhìn cánh đồng lúa chín vàng"
+                ],
+                "correct": "Để mua được đồ tươi ngon nhất và tiết kiệm tiền"
+            },
+            {
+                "question": "Nhân vật “tôi” trong bài thường làm gì khi đi chợ cùng mẹ?",
+                "options": [
+                    "Tự mình chọn mua rau củ",
+                    "Phụ mẹ xách giỏ và học cách chọn thực phẩm",
+                    "Trò chuyện với những người mua hàng khác",
+                    "Mặc cả giá với người bán hàng"
+                ],
+                "correct": "Phụ mẹ xách giỏ và học cách chọn thực phẩm"
+            },
+            {
+                "question": "Khi chọn dưa hấu, mẹ đã dạy nhân vật “tôi” những đặc điểm nào?",
+                "options": [
+                    "Quả dài, vỏ dày và nhẹ tay",
+                    "Quả tròn, vỏ mỏng và nặng tay",
+                    "Quả tròn, vỏ dày và nhẹ tay",
+                    "Quả dài, vỏ mỏng và nặng tay"
+                ],
+                "correct": "Quả tròn, vỏ mỏng và nặng tay"
+            },
+            {
+                "question": "Trên đường đi chợ, nhân vật “tôi” đã nhìn thấy cảnh vật gì?",
+                "options": [
+                    "Những ngôi nhà cao tầng hiện đại",
+                    "Cánh đồng lúa chín vàng",
+                    "Những vườn hoa rực rỡ sắc màu",
+                    "Dòng sông chảy qua làng quê"
+                ],
+                "correct": "Cánh đồng lúa chín vàng"
+            },
+            {
+                "question": "Tính chất của “chợ quê” được mô tả như thế nào trong bài?",
+                "options": [
+                    "Ồn ào và náo nhiệt",
+                    "Nhỏ bé và ấm áp",
+                    "Hiện đại và tiện nghi",
+                    "Vắng vẻ và yên tĩnh"
+                ],
+                "correct": "Nhỏ bé và ấm áp"
+            },
+            {
+                "question": "Thái độ của người bán hàng và người mua hàng tại chợ quê ra sao?",
+                "options": [
+                    "Luôn tươi cười và hỏi thăm nhau",
+                    "Thờ ơ và chỉ tập trung mua bán",
+                    "Căng thẳng khi mặc cả giá",
+                    "Vội vàng và không trò chuyện"
+                ],
+                "correct": "Luôn tươi cười và hỏi thăm nhau"
+            },
+            {
+                "question": "Hoạt động của mẹ khi mua thịt được mô tả như thế nào?",
+                "options": [
+                    "Mua nhanh chóng để tiết kiệm thời gian",
+                    "Chọn lựa kỹ càng để bữa ăn ngon và không lãng phí",
+                    "Chỉ mua loại thịt rẻ nhất",
+                    "Mua rất nhiều thịt để dự trữ cho cả tuần"
+                ],
+                "correct": "Chọn lựa kỹ càng để bữa ăn ngon và không lãng phí"
+            },
+            {
+                "question": "Cảm nhận của nhân vật “tôi” về những buổi đi chợ cùng mẹ là gì?",
+                "options": [
+                    "Là một công việc nhàm chán hàng ngày",
+                    "Là hành trình kết nối với tuổi thơ",
+                    "Là gánh nặng khi phải dậy sớm",
+                    "Là cách để học làm kinh doanh"
+                ],
+                "correct": "Là hành trình kết nối với tuổi thơ"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
