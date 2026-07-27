@@ -3736,5 +3736,257 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Chuyến đi thăm Chùa Một Cột ở Hà Nội",
+        "text": "Mùa hè năm nay, tôi và gia đình có một chuyến đi rất vui tới Hà Nội. Hà Nội là thủ đô của Việt Nam. Nơi đây có nhiều di tích lịch sử và văn hóa nổi tiếng. Một trong những điểm đến mà chúng tôi rất thích chính là Chùa Một Cột. Đây là một ngôi chùa rất đẹp và đặc biệt ở Hà Nội.\n\nKhi chúng tôi đến nơi, trời nắng đẹp và không khí rất mát mẻ. Chùa Một Cột có kiến trúc rất lạ. Chùa nằm trên một cột đá duy nhất ở giữa hồ nước. Nhìn từ xa, ngôi chùa giống như một đóa hoa sen đang nở trên mặt hồ xanh. Xung quanh chùa có nhiều cây xanh lớn. Không gian ở đây rất yên tĩnh và dễ chịu. Tôi nghe thấy tiếng chim hót líu lo trên những cành cây cao. \n\nÔng nội tôi đi cùng gia đình. Ông là người rất yêu thích lịch sử. Ông kể cho chúng tôi nghe rằng ngôi chùa này đã có từ rất lâu đời, từ thế kỷ mười một. Chùa được xây dựng dưới thời vua Lý Thánh Tông. Tôi thấy rất thú vị khi nghe ông kể về những câu chuyện xưa. Tôi cũng lấy điện thoại ra để chụp nhiều bức ảnh đẹp cùng gia đình. \n\nTrong khuôn viên chùa, tôi thấy có nhiều du khách khác. Họ đến đây để thăm quan và cầu nguyện những điều tốt đẹp cho gia đình. Mọi người đều đi lại nhẹ nhàng và nói chuyện rất nhỏ. Tôi cảm thấy nơi này thật linh thiêng và bình yên. Ai đến đây cũng đều cảm thấy tâm hồn nhẹ nhàng hơn.\n\nSau khi thăm chùa, gia đình tôi đi dạo quanh hồ. Chúng tôi ngồi xuống một chiếc ghế đá gần đó. Mẹ tôi mua cho mọi người những món ăn truyền thống của Hà Nội. Chúng tôi ăn bánh cuốn và uống chè sen. Bánh cuốn rất ngon, còn chè sen thì rất mát. Ngồi ăn và trò chuyện cùng gia đình bên hồ nước là một trải nghiệm tuyệt vời. Tôi thấy Hà Nội thật đẹp và thân thiện. Mỗi con phố, mỗi ngôi chùa đều có những câu chuyện riêng rất hay.\n\nChuyến đi này giúp tôi hiểu thêm về văn hóa Việt Nam. Tôi cũng hiểu thêm về lịch sử của thủ đô Hà Nội. Quan trọng hơn, cả gia đình tôi đã có những giây phút rất vui vẻ bên nhau. Chúng tôi đã cùng đi chơi, cùng ăn uống và cùng chụp ảnh kỷ niệm. Dù cuộc sống hàng ngày có bận rộn với công việc và học tập, nhưng những chuyến đi như thế này luôn rất cần thiết. Những khoảnh khắc hạnh phúc này sẽ luôn nằm trong trái tim tôi. Tôi hy vọng rằng mùa hè năm sau, gia đình tôi sẽ lại có một chuyến đi thú vị như thế này nữa. Tôi rất yêu quý Hà Nội và những người dân ở đây. Hà Nội là một thành phố mà tôi sẽ không bao giờ quên trong cuộc đời mình.",
+        "dictionary": {
+            "mùa hè": "夏天",
+            "năm": "年",
+            "tôi": "我",
+            "gia đình": "家庭",
+            "chuyến đi": "旅行",
+            "vui": "开心",
+            "Hà Nội": "河内",
+            "thủ đô": "首都",
+            "Việt Nam": "越南",
+            "nơi": "地方",
+            "di tích": "遗迹",
+            "lịch sử": "历史",
+            "văn hóa": "文化",
+            "nổi tiếng": "著名",
+            "điểm đến": "目的地",
+            "thích": "喜欢",
+            "Chùa Một Cột": "独柱寺",
+            "ngôi chùa": "寺庙",
+            "đẹp": "漂亮",
+            "đặc biệt": "特别",
+            "trời": "天",
+            "nắng": "晴朗",
+            "không khí": "空气",
+            "mát mẻ": "凉爽",
+            "kiến trúc": "建筑",
+            "lạ": "独特",
+            "cột đá": "石柱",
+            "duy nhất": "唯一",
+            "hồ nước": "湖",
+            "xa": "远",
+            "giống": "像",
+            "đóa hoa sen": "莲花",
+            "nở": "盛开",
+            "mặt hồ": "湖面",
+            "xanh": "绿",
+            "xung quanh": "周围",
+            "cây xanh": "绿树",
+            "lớn": "大",
+            "không gian": "空间",
+            "yên tĩnh": "安静",
+            "dễ chịu": "舒适",
+            "nghe": "听",
+            "tiếng": "声音",
+            "chim": "鸟",
+            "hót": "鸣叫",
+            "líu lo": "叽叽喳喳",
+            "cành cây": "树枝",
+            "cao": "高",
+            "ông nội": "爷爷",
+            "người": "人",
+            "yêu thích": "热爱",
+            "kể": "讲述",
+            "lâu đời": "悠久",
+            "thế kỷ": "世纪",
+            "mười một": "十一",
+            "xây dựng": "建造",
+            "thời": "时期",
+            "vua": "国王",
+            "Lý Thánh Tông": "李圣宗",
+            "thú vị": "有趣",
+            "câu chuyện": "故事",
+            "xưa": "古老",
+            "điện thoại": "手机",
+            "chụp": "拍摄",
+            "bức ảnh": "照片",
+            "khuôn viên": "园区",
+            "du khách": "游客",
+            "thăm quan": "参观",
+            "cầu nguyện": "祈祷",
+            "điều": "事情",
+            "tốt đẹp": "美好",
+            "mọi người": "大家",
+            "đi lại": "走动",
+            "nhẹ nhàng": "轻盈",
+            "nói chuyện": "聊天",
+            "nhỏ": "小",
+            "cảm thấy": "感到",
+            "linh thiêng": "神圣",
+            "bình yên": "平静",
+            "tâm hồn": "心灵",
+            "thăm": "拜访",
+            "đi dạo": "散步",
+            "ngồi": "坐",
+            "chiếc ghế đá": "石凳",
+            "mẹ": "妈妈",
+            "mua": "买",
+            "món ăn": "食物",
+            "truyền thống": "传统",
+            "ăn": "吃",
+            "bánh cuốn": "卷粉",
+            "uống": "喝",
+            "chè sen": "莲子羹",
+            "ngon": "好吃",
+            "trải nghiệm": "体验",
+            "tuyệt vời": "绝佳",
+            "thân thiện": "友好",
+            "con phố": "街道",
+            "riêng": "各自",
+            "hay": " hay",
+            "hiểu": "理解",
+            "quan trọng": "重要",
+            "giây phút": "时刻",
+            "vui vẻ": "快乐",
+            "đi chơi": "游玩",
+            "ăn uống": "饮食",
+            "kỷ niệm": "纪念",
+            "cuộc sống": "生活",
+            "hàng ngày": "日常",
+            "bận rộn": "忙碌",
+            "công việc": "工作",
+            "học tập": "学习",
+            "cần thiết": "必要",
+            "khoảnh khắc": "瞬间",
+            "hạnh phúc": "幸福",
+            "trái tim": "内心",
+            "hy vọng": "希望",
+            "sau": "后",
+            "yêu quý": "喜爱",
+            "dân": "居民",
+            "thành phố": "城市",
+            "quên": "忘记",
+            "cuộc đời": "一生"
+        },
+        "quizData": [
+            {
+                "question": "Trong các câu sau, câu nào sai về mặt ngữ pháp?",
+                "options": [
+                    "Hà Nội là thủ đô của Việt Nam.",
+                    "Chùa Một Cột nằm trên một cột đá duy nhất ở giữa hồ nước.",
+                    "Mọi người đi lại nhẹ nhàng và nói chuyện rất nhỏ.",
+                    "Chuyến đi này giúp tôi hiểu thêm về văn hóa Việt Nam và lịch sử."
+                ],
+                "correct": "Chuyến đi này giúp tôi hiểu thêm về văn hóa Việt Nam và lịch sử."
+            },
+            {
+                "question": "Trong các câu sau, câu nào đúng về mặt ngữ pháp?",
+                "options": [
+                    "Ông nội tôi là người rất yêu thích lịch sử.",
+                    "Ngôi chùa này đã có từ rất lâu đời, từ thế kỷ mười một.",
+                    "Chùa được xây dựng dưới thời vua Lý Thánh Tông.",
+                    "Cả ba câu trên đều đúng ngữ pháp."
+                ],
+                "correct": "Cả ba câu trên đều đúng ngữ pháp."
+            },
+            {
+                "question": "Trong các câu sau, câu nào sai về mặt ngữ pháp?",
+                "options": [
+                    "Tôi thấy Hà Nội thật đẹp và thân thiện.",
+                    "Mỗi con phố, mỗi ngôi chùa đều có những câu chuyện riêng rất hay.",
+                    "Bánh cuốn rất ngon, còn chè sen thì rất mát.",
+                    "Vì trời nắng đẹp nên không khí rất mát mẻ."
+                ],
+                "correct": "Vì trời nắng đẹp nên không khí rất mát mẻ."
+            },
+            {
+                "question": "Trong các câu sau, câu nào đúng về mặt ngữ pháp?",
+                "options": [
+                    "Mùa hè năm nay, tôi và gia đình có một chuyến đi rất vui tới Hà Nội.",
+                    "Chùa Một Cột có kiến trúc rất lạ, nằm trên một cột đá duy nhất.",
+                    "Tôi hy vọng rằng mùa hè năm sau, gia đình tôi sẽ lại có một chuyến đi thú vị.",
+                    "Cả ba câu trên đều đúng ngữ pháp."
+                ],
+                "correct": "Cả ba câu trên đều đúng ngữ pháp."
+            },
+            {
+                "question": "Chùa Một Cột được xây dựng dưới thời vị vua nào?",
+                "options": [
+                    "Vua Lý Thái Tổ",
+                    "Vua Lý Thánh Tông",
+                    "Vua Trần Nhân Tông",
+                    "Vua Lê Thánh Tông"
+                ],
+                "correct": "Vua Lý Thánh Tông"
+            },
+            {
+                "question": "Gia đình tác giả đã ăn món gì khi ngồi nghỉ gần hồ?",
+                "options": [
+                    "Phở và trà đá",
+                    "Bánh mì và nước chanh",
+                    "Bánh cuốn và chè sen",
+                    "Bún chả và nước sấu"
+                ],
+                "correct": "Bánh cuốn và chè sen"
+            },
+            {
+                "question": "Ngôi chùa Một Cột có từ thế kỷ nào?",
+                "options": [
+                    "Thế kỷ mười",
+                    "Thế kỷ mười một",
+                    "Thế kỷ mười hai",
+                    "Thế kỷ mười ba"
+                ],
+                "correct": "Thế kỷ mười một"
+            },
+            {
+                "question": "Ai là người đã kể cho tác giả nghe về lịch sử của ngôi chùa?",
+                "options": [
+                    "Bố của tác giả",
+                    "Mẹ của tác giả",
+                    "Ông nội của tác giả",
+                    "Một hướng dẫn viên du lịch"
+                ],
+                "correct": "Ông nội của tác giả"
+            },
+            {
+                "question": "Nhìn từ xa, ngôi chùa Một Cột giống với hình ảnh nào?",
+                "options": [
+                    "Một ngôi sao sáng",
+                    "Một đóa hoa sen đang nở",
+                    "Một chiếc lá vàng",
+                    "Một con thuyền nhỏ"
+                ],
+                "correct": "Một đóa hoa sen đang nở"
+            },
+            {
+                "question": "Không gian xung quanh chùa Một Cột được tác giả miêu tả như thế nào?",
+                "options": [
+                    "Ồn ào và náo nhiệt",
+                    "Yên tĩnh và dễ chịu",
+                    "Sôi động và hiện đại",
+                    "Vắng vẻ và lạnh lẽo"
+                ],
+                "correct": "Yên tĩnh và dễ chịu"
+            },
+            {
+                "question": "Du khách đến thăm chùa Một Cột thường làm gì?",
+                "options": [
+                    "Chụp ảnh và ăn uống",
+                    "Thăm quan và cầu nguyện những điều tốt đẹp",
+                    "Nói chuyện và vui đùa",
+                    "Tìm hiểu về kiến trúc hiện đại"
+                ],
+                "correct": "Thăm quan và cầu nguyện những điều tốt đẹp"
+            },
+            {
+                "question": "Tác giả cảm thấy thế nào sau chuyến đi tới Hà Nội?",
+                "options": [
+                    "Mệt mỏi vì đi lại nhiều",
+                    "Thất vọng vì thời tiết nắng nóng",
+                    "Hiểu thêm về văn hóa và lịch sử, cảm thấy hạnh phúc",
+                    "Chán nản vì cuộc sống bận rộn"
+                ],
+                "correct": "Hiểu thêm về văn hóa và lịch sử, cảm thấy hạnh phúc"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
