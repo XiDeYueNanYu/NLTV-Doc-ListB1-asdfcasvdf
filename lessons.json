@@ -4236,5 +4236,262 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Buổi tiệc sinh nhật của mẹ",
+        "text": "Mỗi người đều có một ngày sinh nhật. Đây là một ngày rất đặc biệt và ý nghĩa đối với mỗi gia đình. Vào thứ hai tuần trước, gia đình tôi đã tổ chức một buổi tiệc nhỏ để chúc mừng sinh nhật mẹ.\n\nTôi và bố đã chuẩn bị kế hoạch từ ngày chủ nhật. Hai bố con muốn làm một điều bất ngờ cho mẹ. Tôi gọi điện nhờ cô Phương, bạn thân của mẹ, giúp đỡ. Tôi nhờ cô rủ mẹ đi mua sắm sau khi làm việc xong để mẹ về nhà muộn hơn một chút. Buổi chiều, tôi được nghỉ học nên ở nhà dọn dẹp nhà cửa cho sạch sẽ. Bố của tôi cũng xin về nhà sớm hơn bình thường để cùng tôi chuẩn bị mọi thứ.\n\nTrên đường đi làm về, bố ghé vào cửa hàng mua một bó hoa hồng trắng rất đẹp. Đây là loài hoa mà mẹ yêu thích nhất. Tôi thì đến tiệm bánh để lấy chiếc bánh sinh nhật đã đặt từ trước. Sau đó, hai bố con cùng nhau vào bếp nấu ăn. Bố làm bếp trưởng, còn tôi làm phụ bếp. Chúng tôi cùng làm những món ăn ngon mà mẹ vẫn thường khen. Sau hơn một giờ đồng hồ bận rộn, các món ăn đã được bày biện rất đẹp mắt trên bàn.\n\nKhoảng sáu giờ ba mươi phút tối, tôi nhắn tin cho cô Phương để báo rằng mọi thứ đã xong. Mười lăm phút sau, mẹ đã về đến nhà. Trước khi mẹ vào, bố đã tắt hết đèn trong nhà để tạo bất ngờ. Khi mẹ mở cửa bước vào, tôi nhanh chóng bật điện sáng. Bố cầm bó hoa hồng tặng mẹ, còn tôi bê chiếc bánh sinh nhật có cắm nến. Hai bố con cùng hát vang bài hát chúc mừng sinh nhật. Mẹ nhìn thấy chúng tôi thì vô cùng ngạc nhiên và vui mừng. Mẹ nhận bó hoa từ tay bố và thổi nến trong tiếng cười hạnh phúc.\n\nSau đó, tôi mời mẹ vào bàn ăn. Mẹ rất xúc động khi biết những món ăn này là do hai bố con tự tay chuẩn bị. Cả gia đình cùng ngồi ăn cơm, trò chuyện vui vẻ và kể cho nhau nghe những câu chuyện thú vị trong ngày. Mẹ vừa ăn vừa khen các món ăn rất ngon miệng. Tôi cũng tặng mẹ một món quà nhỏ mà tôi đã chuẩn bị từ trước. Mẹ cảm ơn và ôm tôi vào lòng. Sau bữa ăn, tôi còn giúp mẹ rửa bát đĩa để mẹ được nghỉ ngơi.\n\nBuổi tối hôm đó là một kỷ niệm rất đẹp đối với tôi. Nhìn thấy mẹ cười tươi, tôi cảm thấy rất hạnh phúc. Tôi mong rằng gia đình mình sẽ có thêm nhiều buổi tối ấm áp như thế này. Tôi yêu mẹ rất nhiều và luôn muốn dành cho mẹ những điều tốt đẹp nhất trong ngày sinh nhật của mẹ. Đây thực sự là một ngày đáng nhớ trong cuộc sống của gia đình tôi.",
+        "dictionary": {
+            "người": "人",
+            "ngày": "天",
+            "sinh nhật": "生日",
+            "gia đình": "家庭",
+            "thứ hai": "周一",
+            "tuần": "周",
+            "tiệc": "派对",
+            "mẹ": "母亲",
+            "bố": "父亲",
+            "kế hoạch": "计划",
+            "chủ nhật": "周日",
+            "điều": "事情",
+            "bất ngờ": "惊喜",
+            "cô": "阿姨",
+            "Phương": "芳",
+            "bạn": "朋友",
+            "thân": "亲密",
+            "mua sắm": "购物",
+            "việc": "工作",
+            "nhà": "家",
+            "buổi chiều": "下午",
+            "học": "学习",
+            "cửa": "门",
+            "dọn dẹp": "打扫",
+            "cửa hàng": "商店",
+            "bó hoa": "花束",
+            "hồng": "玫瑰",
+            "trắng": "白",
+            "loài": "种",
+            "hoa": "花",
+            "tiệm bánh": "蛋糕店",
+            "bánh": "蛋糕",
+            "bếp": "厨房",
+            "nấu ăn": "做饭",
+            "bếp trưởng": "主厨",
+            "phụ bếp": "帮厨",
+            "món ăn": "菜肴",
+            "giờ": "小时",
+            "đồng hồ": "钟",
+            "bàn": "桌子",
+            "tối": "晚上",
+            "tin": "信息",
+            "đèn": "灯",
+            "điện": "电",
+            "nến": "蜡烛",
+            "bài hát": "歌曲",
+            "tay": "手",
+            "tiếng cười": "笑声",
+            "hạnh phúc": "幸福",
+            "cơm": "饭",
+            "câu chuyện": "故事",
+            "quà": "礼物",
+            "bát đĩa": "碗筷",
+            "kỷ niệm": "纪念",
+            "cuộc sống": "生活",
+            "đặc biệt": "特别",
+            "ý nghĩa": "有意义",
+            "nhỏ": "小",
+            "xong": "完成",
+            "sạch sẽ": "干净",
+            "sớm": "早",
+            "bình thường": "平常",
+            "đẹp": "漂亮",
+            "yêu thích": "喜爱",
+            "ngon": "好吃",
+            "bận rộn": "忙碌",
+            "đẹp mắt": "美观",
+            "nhanh chóng": "迅速",
+            "sáng": "亮",
+            "vang": "响亮",
+            "ngạc nhiên": "惊讶",
+            "vui mừng": "高兴",
+            "xúc động": "感动",
+            "vui vẻ": " vui vẻ",
+            "thú vị": " thú vị",
+            "ngon miệng": "可口",
+            "tươi": " tươi",
+            "ấm áp": " ấm áp",
+            "đáng nhớ": "难忘",
+            "có": "有",
+            "tổ chức": "组织",
+            "chúc mừng": "祝贺",
+            "chuẩn bị": "准备",
+            "muốn": "想要",
+            "làm": "做",
+            "gọi điện": "打电话",
+            "nhờ": " nhờ",
+            "giúp đỡ": "帮助",
+            "rủ": " rủ",
+            "đi": " đi",
+            "nghỉ": " nghỉ",
+            "xin": " xin",
+            "ghé": " ghé",
+            "yêu": " yêu",
+            "đặt": " đặt",
+            "lấy": " lấy",
+            "khen": " khen",
+            "bày biện": " bày biện",
+            "nhắn tin": " nhắn tin",
+            "báo": " báo",
+            "về": " về",
+            "tắt": " tắt",
+            "tạo": " tạo",
+            "mở": " mở",
+            "bước": " bước",
+            "bật": " bật",
+            "cầm": " cầm",
+            "tặng": " tặng",
+            "bê": " bê",
+            "cắm": " cắm",
+            "hát": " hát",
+            "nhìn": " nhìn",
+            "thổi": " thổi",
+            "mời": " mời",
+            "biết": " biết",
+            "ngồi": " ngồi",
+            "trò chuyện": " trò chuyện",
+            "kể": " kể",
+            "nghe": " nghe",
+            "ăn": " ăn",
+            "cảm ơn": " cảm ơn",
+            "ôm": " ôm",
+            "rửa": " rửa",
+            "cười": " cười",
+            "cảm thấy": " cảm thấy",
+            "mong": " mong",
+            "dành": " dành"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào sai về mặt ngữ pháp?",
+                "options": [
+                    "Vào thứ hai tuần trước, gia đình tôi đã tổ chức một buổi tiệc nhỏ để chúc mừng sinh nhật mẹ.",
+                    "Tôi và bố đã chuẩn bị kế hoạch từ ngày chủ nhật.",
+                    "Bố làm bếp trưởng, còn tôi làm phụ bếp.",
+                    "Mẹ rất xúc động khi biết những món ăn này là do hai bố con tự tay chuẩn bị xong."
+                ],
+                "correct": "Mẹ rất xúc động khi biết những món ăn này là do hai bố con tự tay chuẩn bị xong."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào đúng ngữ pháp?",
+                "options": [
+                    "Vì mẹ về nhà muộn, nên hai bố con đã chuẩn bị xong mọi thứ.",
+                    "Mẹ vừa ăn vừa khen các món ăn rất ngon miệng là.",
+                    "Tôi mong rằng gia đình mình sẽ có thêm nhiều buổi tối ấm áp như thế này là.",
+                    "Đây thực sự là một ngày đáng nhớ trong cuộc sống của gia đình tôi là."
+                ],
+                "correct": "Vì mẹ về nhà muộn, nên hai bố con đã chuẩn bị xong mọi thứ."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào sai về mặt ngữ pháp?",
+                "options": [
+                    "Tôi gọi điện nhờ cô Phương, bạn thân của mẹ, giúp đỡ.",
+                    "Sau hơn một giờ đồng hồ bận rộn, các món ăn đã được bày biện rất đẹp mắt trên bàn.",
+                    "Mẹ nhận bó hoa từ tay bố và thổi nến trong tiếng cười hạnh phúc.",
+                    "Sau bữa ăn, tôi còn giúp mẹ rửa bát đĩa để mẹ được nghỉ ngơi là."
+                ],
+                "correct": "Sau bữa ăn, tôi còn giúp mẹ rửa bát đĩa để mẹ được nghỉ ngơi là."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào đúng ngữ pháp?",
+                "options": [
+                    "Bố của tôi cũng xin về nhà sớm hơn bình thường để cùng tôi chuẩn bị mọi thứ.",
+                    "Bố của tôi cũng xin về nhà sớm hơn bình thường để cùng tôi chuẩn bị mọi thứ là.",
+                    "Bố của tôi cũng xin về nhà sớm hơn bình thường để cùng tôi chuẩn bị mọi thứ vì.",
+                    "Bố của tôi cũng xin về nhà sớm hơn bình thường để cùng tôi chuẩn bị mọi thứ nhưng."
+                ],
+                "correct": "Bố của tôi cũng xin về nhà sớm hơn bình thường để cùng tôi chuẩn bị mọi thứ."
+            },
+            {
+                "question": "Ai là người đã giúp nhân vật tôi rủ mẹ đi mua sắm để mẹ về nhà muộn hơn?",
+                "options": [
+                    "Bố",
+                    "Cô Phương",
+                    "Bà nội",
+                    "Bạn học"
+                ],
+                "correct": "Cô Phương"
+            },
+            {
+                "question": "Bố đã mua loại hoa gì cho mẹ trên đường đi làm về?",
+                "options": [
+                    "Hoa hồng đỏ",
+                    "Hoa ly",
+                    "Hoa hồng trắng",
+                    "Hoa hướng dương"
+                ],
+                "correct": "Hoa hồng trắng"
+            },
+            {
+                "question": "Sự kiện chính được tổ chức trong bài đọc là gì?",
+                "options": [
+                    "Kỷ niệm ngày cưới của bố mẹ",
+                    "Sinh nhật của mẹ",
+                    "Lễ tốt nghiệp của nhân vật tôi",
+                    "Ngày kỷ niệm gia đình"
+                ],
+                "correct": "Sinh nhật của mẹ"
+            },
+            {
+                "question": "Hai bố con đã làm gì ngay sau khi mẹ mở cửa bước vào nhà?",
+                "options": [
+                    "Tặng quà ngay lập tức",
+                    "Bật điện sáng, tặng hoa và hát chúc mừng sinh nhật",
+                    "Dọn dẹp nhà cửa",
+                    "Mời mẹ vào bàn ăn"
+                ],
+                "correct": "Bật điện sáng, tặng hoa và hát chúc mừng sinh nhật"
+            },
+            {
+                "question": "Trong bài đọc, nhân vật 'tôi' đã làm gì để giúp mẹ sau bữa ăn?",
+                "options": [
+                    "Đi mua quà",
+                    "Dọn dẹp phòng khách",
+                    "Rửa bát đĩa",
+                    "Kể chuyện cho mẹ nghe"
+                ],
+                "correct": "Rửa bát đĩa"
+            },
+            {
+                "question": "Trạng thái của mẹ khi nhìn thấy hai bố con chuẩn bị tiệc sinh nhật là gì?",
+                "options": [
+                    "Bất ngờ và vui mừng",
+                    "Buồn bã và mệt mỏi",
+                    "Lo lắng và hồi hộp",
+                    "Giận dữ vì về muộn"
+                ],
+                "correct": "Bất ngờ và vui mừng"
+            },
+            {
+                "question": "Vai trò của nhân vật 'tôi' trong việc chuẩn bị bữa ăn là gì?",
+                "options": [
+                    "Bếp trưởng",
+                    "Phụ bếp",
+                    "Người đi chợ",
+                    "Người trang trí bàn ăn"
+                ],
+                "correct": "Phụ bếp"
+            },
+            {
+                "question": "Cảm xúc của nhân vật 'tôi' khi nhìn thấy mẹ cười tươi là gì?",
+                "options": [
+                    "Cảm thấy rất hạnh phúc",
+                    "Cảm thấy mệt mỏi",
+                    "Cảm thấy lo lắng",
+                    "Cảm thấy hối hận"
+                ],
+                "correct": "Cảm thấy rất hạnh phúc"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
