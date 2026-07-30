@@ -4493,5 +4493,249 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Lễ hội chọi trâu ở Đồ Sơn, Hải Phòng",
+        "text": "Ở thành phố Hải Phòng, có một lễ hội rất nổi tiếng tên là lễ hội chọi trâu Đồ Sơn. Lễ hội này diễn ra vào ngày mùng 9 tháng 8 âm lịch hằng năm. Đây là một nét văn hóa truyền thống rất đặc sắc của người dân vùng biển. Nhiều du khách từ khắp nơi thường về đây để xem lễ hội này.\n\nĐể chuẩn bị cho lễ hội, người dân phải làm việc rất vất vả. Họ đi tìm những con trâu khỏe mạnh và đẹp nhất. Những con trâu này được chăm sóc rất cẩn thận. Người dân huấn luyện trâu để chúng có thể thi đấu tốt. Trong thời gian lễ hội, mọi người không gọi là con trâu bình thường nữa. Họ gọi trâu là Ông trâu. Họ rất tôn trọng những con vật này vì tin rằng chúng mang lại may mắn.\n\nLễ hội chọi trâu có hai phần chính là phần lễ và phần hội. Phần lễ diễn ra rất trang nghiêm tại đình làng. Mọi người làm các nghi thức để cúng thần linh. Họ cầu mong trời mưa thuận gió hòa, cầu mong cuộc sống bình yên và no đủ. Người dân ở đây rất tin vào sự che chở của các vị thần. Sau phần lễ là phần hội rất sôi nổi. Mọi người cùng nhau xem các trận đấu của các Ông trâu. Tiếng trống vang lên và tiếng reo hò của khán giả làm cho không khí rất náo nhiệt. Những trận đấu này thể hiện tinh thần mạnh mẽ và dũng cảm của người dân vùng biển.\n\nKhi lễ hội kết thúc, người dân làm lễ hiến tế. Thịt trâu được chia cho mọi người. Người ta tin rằng ăn thịt trâu sẽ có nhiều sức khỏe và may mắn trong cả năm. Đây là một phong tục lâu đời và rất quan trọng với người dân Đồ Sơn.\n\nLễ hội chọi trâu không chỉ là một sự kiện vui chơi. Nó còn là một di sản văn hóa quý báu của người Việt Nam. Lễ hội cho thấy sự đoàn kết của mọi người trong làng. Nó cũng thể hiện ý chí kiên cường của người dân Hải Phòng. Hiện nay, chính quyền và người dân đang cùng nhau gìn giữ lễ hội này. Họ muốn truyền lại những nét đẹp văn hóa cho các thế hệ sau.\n\nNếu bạn có dịp đến Hải Phòng vào tháng 8 âm lịch, bạn hãy đi xem lễ hội này nhé. Bạn sẽ thấy được sự đặc biệt và thú vị của nó. Bạn cũng sẽ hiểu thêm về cuộc sống và tâm hồn của những người dân vùng biển Việt Nam. Lễ hội không chỉ mang lại niềm vui mà còn giúp mọi người thêm yêu quý quê hương mình hơn. Đây thực sự là một trải nghiệm đáng nhớ cho bất cứ ai đến thăm Hải Phòng vào mùa thu. Những hình ảnh về các Ông trâu và không khí náo nhiệt chắc chắn sẽ làm bạn cảm thấy rất ấn tượng. Chúng ta hãy cùng nhau bảo vệ những nét văn hóa đẹp như lễ hội chọi trâu để chúng tồn tại mãi mãi với thời gian.",
+        "dictionary": {
+            "thành phố": "城市",
+            "Hải Phòng": "海防",
+            "lễ hội": "节日",
+            "nổi tiếng": "著名",
+            "tên": "名称",
+            "chọi trâu": "斗牛",
+            "Đồ Sơn": "涂山",
+            "diễn ra": "举行",
+            "ngày": "日",
+            "tháng": "月",
+            "âm lịch": "阴历",
+            "hằng năm": "每年",
+            "nét": "特征",
+            "văn hóa": "文化",
+            "truyền thống": "传统",
+            "đặc sắc": "特色",
+            "người dân": "居民",
+            "vùng biển": "沿海地区",
+            "du khách": "游客",
+            "khắp nơi": "各地",
+            "về": "回来",
+            "xem": "观看",
+            "chuẩn bị": "准备",
+            "làm việc": "工作",
+            "vất vả": "辛苦",
+            "tìm": "寻找",
+            "trâu": "水牛",
+            "khỏe mạnh": "强壮",
+            "đẹp": "漂亮",
+            "chăm sóc": "照顾",
+            "cẩn thận": "仔细",
+            "huấn luyện": "训练",
+            "thi đấu": "比赛",
+            "tốt": "好",
+            "thời gian": "时间",
+            "gọi": "称呼",
+            "bình thường": "普通",
+            "Ông trâu": "牛公",
+            "tôn trọng": "尊重",
+            "con vật": "动物",
+            "tin": "相信",
+            "mang lại": "带来",
+            "may mắn": "幸运",
+            "phần": "部分",
+            "chính": "主要",
+            "lễ": "礼仪",
+            "hội": "庙会",
+            "trang nghiêm": "庄严",
+            "đình làng": "村亭",
+            "nghi thức": "仪式",
+            "cúng": "祭祀",
+            "thần linh": "神灵",
+            "cầu mong": "祈求",
+            "trời": "天",
+            "mưa thuận gió hòa": "风调雨顺",
+            "cuộc sống": "生活",
+            "bình yên": "平安",
+            "no đủ": "富足",
+            "che chở": "庇护",
+            "vị thần": "神明",
+            "sôi nổi": "热闹",
+            "trận đấu": "比赛",
+            "tiếng trống": "鼓声",
+            "vang lên": "响起",
+            "tiếng reo hò": "欢呼声",
+            "khán giả": "观众",
+            "không khí": "气氛",
+            "náo nhiệt": "喧闹",
+            "thể hiện": "体现",
+            "tinh thần": "精神",
+            "mạnh mẽ": "强大",
+            "dũng cảm": "勇敢",
+            "kết thúc": "结束",
+            "hiến tế": "祭献",
+            "thịt": "肉",
+            "chia": "分",
+            "ăn": "吃",
+            "sức khỏe": "健康",
+            "phong tục": "风俗",
+            "lâu đời": "悠久",
+            "quan trọng": "重要",
+            "sự kiện": "事件",
+            "vui chơi": "游玩",
+            "di sản": "遗产",
+            "quý báu": "珍贵",
+            "Việt Nam": "越南",
+            "đoàn kết": "团结",
+            "làng": "村庄",
+            "ý chí": "意志",
+            "kiên cường": "坚强",
+            "chính quyền": "政府",
+            "gìn giữ": "保护",
+            "truyền lại": "传承",
+            "thế hệ": "世代",
+            "dịp": "机会",
+            "đặc biệt": "特别",
+            "thú vị": "有趣",
+            "hiểu": "理解",
+            "tâm hồn": "心灵",
+            "niềm vui": "快乐",
+            "giúp": "帮助",
+            "yêu quý": "热爱",
+            "quê hương": "家乡",
+            "trải nghiệm": "体验",
+            "đáng nhớ": "难忘",
+            "ai": "谁",
+            "thăm": "访问",
+            "mùa thu": "秋天",
+            "hình ảnh": "形象",
+            "chắc chắn": "肯定",
+            "ấn tượng": "印象",
+            "bảo vệ": "保护",
+            "tồn tại": "存在",
+            "mãi mãi": "永远"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Lễ hội chọi trâu Đồ Sơn diễn ra vào ngày mùng 9 tháng 8 âm lịch hằng năm.",
+                    "Người dân vùng biển rất tôn trọng những con trâu vì họ tin rằng chúng mang lại may mắn.",
+                    "Để chuẩn bị cho lễ hội, người dân phải làm việc rất vất vả và chăm sóc trâu cẩn thận.",
+                    "Vì lễ hội chọi trâu rất nổi tiếng, nên nhiều du khách từ khắp nơi thường về đây xem."
+                ],
+                "correct": "Vì lễ hội chọi trâu rất nổi tiếng, nên nhiều du khách từ khắp nơi thường về đây xem."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng ngữ pháp?",
+                "options": [
+                    "Mặc dù lễ hội kết thúc, người dân làm lễ hiến tế.",
+                    "Lễ hội chọi trâu không chỉ là sự kiện vui chơi, mà còn là di sản văn hóa quý báu.",
+                    "Bởi vì người dân tin rằng ăn thịt trâu có sức khỏe, cho nên họ chia thịt trâu cho nhau.",
+                    "Lễ hội chọi trâu thể hiện tinh thần mạnh mẽ, dũng cảm của người dân vùng biển Hải Phòng."
+                ],
+                "correct": "Lễ hội chọi trâu không chỉ là sự kiện vui chơi, mà còn là di sản văn hóa quý báu."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Người dân ở Đồ Sơn cầu mong trời mưa thuận gió hòa.",
+                    "Lễ hội chọi trâu Đồ Sơn là một nét văn hóa truyền thống đặc sắc.",
+                    "Mọi người cùng nhau xem các trận đấu của các Ông trâu rất náo nhiệt.",
+                    "Chính quyền và người dân đang cùng nhau gìn giữ lễ hội này."
+                ],
+                "correct": "Mọi người cùng nhau xem các trận đấu của các Ông trâu rất náo nhiệt."
+            },
+            {
+                "question": "Lễ hội chọi trâu Đồ Sơn diễn ra vào thời gian nào trong năm?",
+                "options": [
+                    "Ngày mùng 9 tháng 8 dương lịch",
+                    "Ngày mùng 9 tháng 8 âm lịch",
+                    "Ngày mùng 9 tháng 9 âm lịch",
+                    "Ngày mùng 9 tháng 9 dương lịch"
+                ],
+                "correct": "Ngày mùng 9 tháng 8 âm lịch"
+            },
+            {
+                "question": "Địa điểm tổ chức lễ hội chọi trâu Đồ Sơn nằm ở đâu?",
+                "options": [
+                    "Tại thành phố Hà Nội",
+                    "Tại thành phố Hải Phòng",
+                    "Tại một vùng núi phía Bắc",
+                    "Tại một vùng biển miền Trung"
+                ],
+                "correct": "Tại thành phố Hải Phòng"
+            },
+            {
+                "question": "Sau khi lễ hội kết thúc, người dân thực hiện nghi thức gì?",
+                "options": [
+                    "Làm lễ hiến tế",
+                    "Cúng thần linh tại đình làng",
+                    "Huấn luyện trâu cho năm sau",
+                    "Tổ chức cuộc thi chạy bộ"
+                ],
+                "correct": "Làm lễ hiến tế"
+            },
+            {
+                "question": "Tại sao người dân lại gọi những con trâu tham gia lễ hội là “Ông trâu”?",
+                "options": [
+                    "Vì chúng là những con trâu già nhất",
+                    "Vì chúng có kích thước rất lớn",
+                    "Vì họ tôn trọng và tin rằng chúng mang lại may mắn",
+                    "Vì đó là tên gọi do chính quyền quy định"
+                ],
+                "correct": "Vì họ tôn trọng và tin rằng chúng mang lại may mắn"
+            },
+            {
+                "question": "Phần lễ của lễ hội chọi trâu diễn ra ở đâu?",
+                "options": [
+                    "Tại sân vận động",
+                    "Tại đình làng",
+                    "Tại bãi biển",
+                    "Tại trung tâm thành phố"
+                ],
+                "correct": "Tại đình làng"
+            },
+            {
+                "question": "Người dân tin rằng việc ăn thịt trâu sau lễ hội sẽ mang lại điều gì?",
+                "options": [
+                    "Sự giàu có và danh vọng",
+                    "Sức khỏe và may mắn trong cả năm",
+                    "Sự bình yên cho gia đình",
+                    "Sự thông minh cho con trẻ"
+                ],
+                "correct": "Sức khỏe và may mắn trong cả năm"
+            },
+            {
+                "question": "Không khí trong phần hội của lễ hội chọi trâu được miêu tả như thế nào?",
+                "options": [
+                    "Trang nghiêm và tĩnh lặng",
+                    "Náo nhiệt với tiếng trống và tiếng reo hò",
+                    "Buồn bã và hoài niệm",
+                    "Căng thẳng và nghiêm túc"
+                ],
+                "correct": "Náo nhiệt với tiếng trống và tiếng reo hò"
+            },
+            {
+                "question": "Lễ hội chọi trâu thể hiện những phẩm chất gì của người dân Hải Phòng?",
+                "options": [
+                    "Sự giàu sang và quyền lực",
+                    "Sự khéo léo và tinh tế",
+                    "Tinh thần mạnh mẽ, dũng cảm và ý chí kiên cường",
+                    "Sự nhút nhát và cẩn trọng"
+                ],
+                "correct": "Tinh thần mạnh mẽ, dũng cảm và ý chí kiên cường"
+            },
+            {
+                "question": "Mục đích của việc gìn giữ lễ hội chọi trâu hiện nay là gì?",
+                "options": [
+                    "Để thu hút khách du lịch quốc tế",
+                    "Để truyền lại những nét đẹp văn hóa cho các thế hệ sau",
+                    "Để tăng doanh thu cho thành phố",
+                    "Để thi đấu với các địa phương khác"
+                ],
+                "correct": "Để truyền lại những nét đẹp văn hóa cho các thế hệ sau"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
