@@ -4737,5 +4737,252 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Gánh hàng rong trong cuộc sống ở Hà Nội",
+        "text": "Hà Nội là một thành phố rất lâu đời. Khi nói đến Hà Nội, người ta thường nhớ ngay đến những gánh hàng rong. Đó là một nét đẹp riêng, một phần quan trọng trong văn hóa của người dân nơi đây. Dù Hà Nội ngày nay đã thay đổi nhiều với những ngôi nhà cao tầng và trung tâm thương mại lớn, nhưng những gánh hàng rong vẫn luôn ở đó. Chúng giống như một sợi dây kết nối quá khứ với hiện tại.\n\nNhững người bán hàng rong thường là người từ các vùng quê khác đến Hà Nội. Họ đến thành phố để làm việc vào những ngày nông nhàn. Mỗi sáng sớm, khi trời còn tối và mọi người còn đang ngủ, họ đã bắt đầu một ngày làm việc mới. Họ gánh trên vai những đôi quang gánh nặng nề để đi khắp các con phố. Họ bán đủ mọi thứ từ rau củ, đồ ăn đến những bông hoa tươi thắm. Với số tiền kiếm được mỗi ngày, họ nuôi sống gia đình và lo cho tương lai của những đứa con.\n\nCuộc sống ở Hà Nội gắn liền với tiếng rao của những người bán hàng. Những tiếng rao ấy vang lên từ sáng sớm cho đến tận đêm khuya. Nhiều người dân thành phố đã quen với âm thanh này. Họ chỉ cần ngồi trong nhà là có thể mua được mọi thứ cần thiết cho bữa ăn gia đình từ những người bán hàng rong.\n\nẨm thực của Hà Nội cũng gắn liền với những gánh hàng này. Vào mùa hè nóng bức, được ăn một bát tào phớ mát lạnh thật là tuyệt vời. Khi mùa thu đến, người ta lại thích ăn cốm xanh gói trong lá sen thơm ngát. Còn vào những tối mùa đông lạnh giá, ngồi bên gánh ngô nướng, khoai nướng trên vỉa hè thì thật ấm áp. Những món ăn đơn giản ấy đã làm cho cuộc sống ở Hà Nội trở nên gần gũi và thú vị hơn nhiều.\n\nHàng rong ở Hà Nội còn rất đẹp vì nó thay đổi theo mùa. Mỗi mùa, người ta lại thấy những gánh hàng bán các loại hoa khác nhau. Mùa hè có hoa sen đỏ, mùa thu có hoa cúc vàng. Những gánh hàng hoa này làm cho đường phố Hà Nội thêm màu sắc và xinh đẹp.\n\nNgày nay, Hà Nội có rất nhiều nhà hàng và quán ăn sang trọng. Tuy nhiên, những gánh hàng rong vẫn giữ được vị trí đặc biệt trong lòng người dân. Nó không chỉ là nơi mua bán, mà còn là tình cảm, là tâm hồn của người Việt. Những người Hà Nội đi xa thường rất nhớ tiếng rao quen thuộc của quê hương. Khi trở về, chỉ cần nhìn thấy gánh hàng hoa buổi sớm, họ lại cảm thấy rất xúc động. Gánh hàng rong tuy nhỏ bé và vất vả nhưng nó luôn là một phần không thể thiếu của Hà Nội, dù thời gian có trôi đi bao lâu chăng nữa.",
+        "dictionary": {
+            "Hà Nội": "河内",
+            "thành phố": "城市",
+            "lâu đời": "古老",
+            "nói": "说",
+            "người ta": "人们",
+            "nhớ": "想念",
+            "gánh hàng rong": "流动摊贩",
+            "nét đẹp": "美感",
+            "riêng": "独特",
+            "phần": "部分",
+            "quan trọng": "重要",
+            "văn hóa": "文化",
+            "người dân": "居民",
+            "nơi đây": "这里",
+            "ngày nay": "如今",
+            "thay đổi": "改变",
+            "nhiều": "多",
+            "ngôi nhà": "房屋",
+            "cao tầng": "高层",
+            "trung tâm thương mại": "商业中心",
+            "lớn": "大",
+            "luôn": "总是",
+            "sợi dây": "纽带",
+            "kết nối": "连接",
+            "quá khứ": "过去",
+            "hiện tại": "现在",
+            "người bán hàng": "商贩",
+            "vùng quê": "乡村",
+            "làm việc": "工作",
+            "ngày": "天",
+            "nông nhàn": "农闲",
+            "sáng sớm": "清晨",
+            "trời": "天",
+            "tối": "晚上",
+            "ngủ": "睡觉",
+            "bắt đầu": "开始",
+            "mới": "新",
+            "vai": "肩膀",
+            "đôi quang gánh": "担子",
+            "nặng nề": "沉重",
+            "đi": "走",
+            "con phố": "街道",
+            "bán": "卖",
+            "thứ": "东西",
+            "rau củ": "蔬菜",
+            "đồ ăn": "食物",
+            "bông hoa": "花朵",
+            "tươi thắm": "鲜艳",
+            "số tiền": "钱",
+            "kiếm": "赚",
+            "nuôi sống": "养活",
+            "gia đình": "家庭",
+            "tương lai": "未来",
+            "đứa con": "孩子",
+            "cuộc sống": "生活",
+            "gắn liền": "紧密相连",
+            "tiếng rao": "叫卖声",
+            "vang lên": "响起",
+            "đêm khuya": "深夜",
+            "quen": "习惯",
+            "âm thanh": "声音",
+            "ngồi": "坐",
+            "mua": "买",
+            "cần thiết": "必要",
+            "bữa ăn": "餐",
+            "ẩm thực": "饮食",
+            "mùa hè": "夏季",
+            "nóng bức": "炎热",
+            "bát": "碗",
+            "tào phớ": "豆腐花",
+            "mát lạnh": "清凉",
+            "tuyệt vời": "美妙",
+            "mùa thu": "秋季",
+            "thích": "喜欢",
+            "cốm xanh": "青糯米",
+            "gói": "包",
+            "lá sen": "荷叶",
+            "thơm ngát": "清香",
+            "mùa đông": "冬季",
+            "lạnh giá": "寒冷",
+            "ngô nướng": "烤玉米",
+            "khoai nướng": "烤红薯",
+            "vỉa hè": "人行道",
+            "ấm áp": "温暖",
+            "món ăn": "菜肴",
+            "đơn giản": "简单",
+            "gần gũi": "亲近",
+            "thú vị": "有趣",
+            "mùa": "季节",
+            "hoa sen": "荷花",
+            "đỏ": "红",
+            "hoa cúc": "菊花",
+            "vàng": "黄",
+            "đường phố": "街道",
+            "màu sắc": "色彩",
+            "xinh đẹp": "美丽",
+            "nhà hàng": "餐厅",
+            "quán ăn": "小吃店",
+            "sang trọng": "豪华",
+            "vị trí": "地位",
+            "đặc biệt": "特别",
+            "lòng": "内心",
+            "nơi": "地方",
+            "mua bán": "买卖",
+            "tình cảm": "情感",
+            "tâm hồn": "灵魂",
+            "người Việt": "越南人",
+            "xa": "远",
+            "quê hương": "家乡",
+            "trở về": "回来",
+            "nhìn": "看",
+            "buổi sớm": "早晨",
+            "xúc động": "感动",
+            "nhỏ bé": "渺小",
+            "vất vả": "辛苦",
+            "thời gian": "时间",
+            "trôi": "流逝"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Hà Nội là một thành phố rất lâu đời.",
+                    "Những người bán hàng rong thường là người từ các vùng quê khác đến Hà Nội.",
+                    "Mỗi sáng sớm, họ bắt đầu một ngày làm việc mới khi trời còn tối.",
+                    "Bởi vì gánh hàng rong vất vả, nên nó là một phần không thể thiếu của Hà Nội."
+                ],
+                "correct": "Bởi vì gánh hàng rong vất vả, nên nó là một phần không thể thiếu của Hà Nội."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu đúng về mặt ngữ pháp?",
+                "options": [
+                    "Mỗi mùa, người ta thấy những gánh hàng bán các loại hoa khác nhau.",
+                    "Hàng rong ở Hà Nội rất đẹp vì nó thay đổi theo mùa.",
+                    "Những gánh hàng hoa làm cho đường phố Hà Nội thêm màu sắc và xinh đẹp.",
+                    "Tất cả các câu trên đều đúng ngữ pháp."
+                ],
+                "correct": "Tất cả các câu trên đều đúng ngữ pháp."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Người bán hàng rong gánh trên vai những đôi quang gánh nặng nề.",
+                    "Họ bán đủ mọi thứ từ rau củ, đồ ăn đến những bông hoa tươi thắm.",
+                    "Với số tiền kiếm được mỗi ngày, họ nuôi sống gia đình và lo cho tương lai của những đứa con.",
+                    "Những người bán hàng rong thường là từ các vùng quê khác đến Hà Nội làm việc."
+                ],
+                "correct": "Những người bán hàng rong thường là từ các vùng quê khác đến Hà Nội làm việc."
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Cuộc sống ở Hà Nội gắn liền với tiếng rao của những người bán hàng.",
+                    "Nhiều người dân thành phố đã quen với âm thanh này.",
+                    "Họ chỉ cần ngồi trong nhà là có thể mua được mọi thứ cần thiết cho bữa ăn gia đình từ những người bán hàng rong.",
+                    "Tiếng rao vang lên từ sáng sớm cho đến tận đêm khuya là của những người bán hàng rong."
+                ],
+                "correct": "Tiếng rao vang lên từ sáng sớm cho đến tận đêm khuya là của những người bán hàng rong."
+            },
+            {
+                "question": "Những người bán hàng rong ở Hà Nội thường đến từ đâu?",
+                "options": [
+                    "Các quận nội thành Hà Nội",
+                    "Các vùng quê khác",
+                    "Các thành phố lớn khác",
+                    "Từ nước ngoài về"
+                ],
+                "correct": "Các vùng quê khác"
+            },
+            {
+                "question": "Người bán hàng rong bắt đầu công việc vào thời điểm nào trong ngày?",
+                "options": [
+                    "Khi mặt trời đã lên cao",
+                    "Vào buổi trưa nắng gắt",
+                    "Khi trời còn tối và mọi người còn đang ngủ",
+                    "Vào lúc hoàng hôn"
+                ],
+                "correct": "Khi trời còn tối và mọi người còn đang ngủ"
+            },
+            {
+                "question": "Món ăn nào được nhắc đến trong bài là món ăn mùa hè?",
+                "options": [
+                    "Ngô nướng",
+                    "Khoai nướng",
+                    "Cốm xanh",
+                    "Tào phớ"
+                ],
+                "correct": "Tào phớ"
+            },
+            {
+                "question": "Loài hoa nào được nhắc đến gắn liền với mùa thu trong bài đọc?",
+                "options": [
+                    "Hoa sen đỏ",
+                    "Hoa cúc vàng",
+                    "Hoa hồng",
+                    "Hoa mai"
+                ],
+                "correct": "Hoa cúc vàng"
+            },
+            {
+                "question": "Theo bài đọc, gánh hàng rong được ví như điều gì?",
+                "options": [
+                    "Một gánh nặng của đô thị",
+                    "Một sợi dây kết nối quá khứ với hiện tại",
+                    "Một hình thức kinh doanh lỗi thời",
+                    "Một nét văn hóa cần được thay thế"
+                ],
+                "correct": "Một sợi dây kết nối quá khứ với hiện tại"
+            },
+            {
+                "question": "Đặc điểm của những tiếng rao hàng rong là gì?",
+                "options": [
+                    "Chỉ vang lên vào buổi trưa",
+                    "Vang lên từ sáng sớm cho đến tận đêm khuya",
+                    "Chỉ xuất hiện vào các ngày cuối tuần",
+                    "Rất khó nghe và gây ồn ào"
+                ],
+                "correct": "Vang lên từ sáng sớm cho đến tận đêm khuya"
+            },
+            {
+                "question": "Người Hà Nội đi xa thường cảm thấy thế nào khi trở về và nhìn thấy gánh hàng hoa?",
+                "options": [
+                    "Thấy bình thường vì đã quá quen thuộc",
+                    "Cảm thấy rất xúc động",
+                    "Cảm thấy phiền phức vì sự bừa bãi",
+                    "Cảm thấy ngạc nhiên vì sự thay đổi"
+                ],
+                "correct": "Cảm thấy rất xúc động"
+            },
+            {
+                "question": "Tại sao gánh hàng rong lại được coi là một phần không thể thiếu của Hà Nội?",
+                "options": [
+                    "Vì chúng mang lại lợi nhuận kinh tế rất lớn cho thành phố",
+                    "Vì chúng là nơi duy nhất bán đồ ăn ngon",
+                    "Vì chúng là tình cảm, là tâm hồn của người Việt",
+                    "Vì chúng là biểu tượng của sự hiện đại hóa"
+                ],
+                "correct": "Vì chúng là tình cảm, là tâm hồn của người Việt"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
